@@ -1,6 +1,8 @@
-celtic = {
+thracian = {
+    graphical_cultures = { westernslavicgfx }
+
     dacian = {
-        graphical_cultures = { celticgfx }
+        graphical_cultures = { westernslavicgfx }
         color = { 0.45 0.29 0.15 }
         male_names = {﻿
             Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso Dablosa Dadas Dadazi Daizus Damanais Dapyx Dardanos Dardiolai
@@ -10,6 +12,8 @@ celtic = {
         }
         female_names = {
             Rescuturme Zia
+
+            Bendis # Is a godess
         }
         from_dynasty_prefix = "de " # fallback value from romanian
         male_patronym = "per " # this is the dacian word for "son". Doesn't fit completely, but good enough for now
