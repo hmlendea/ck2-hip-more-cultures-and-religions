@@ -1,0 +1,109 @@
+e_byzantium = {
+    k_byzantium = {
+        d_thrace = {
+            c_thrake = {
+                b_arkadiopolis = {
+                    dacian = "Bergula"
+                }
+            }
+        }
+    }
+    k_bulgaria = {
+        d_turnovo = {
+            dacian = "Zikideva"
+
+            c_tyrnovo = {
+                dacian = "Zikideva"
+
+                b_tarnovo = {
+                    dacian = "Zikideva"
+                }
+            }
+        }
+        d_ohrid = {
+            c_velbazhd = {
+                b_pernik = {
+                    dacian = "Adeva"
+                }
+            }
+        }
+        d_adrianopolis = {
+            dacian = "Pulpudeva" # Or "Eumolpias" but this is more ancient
+
+            c_philippopolis = {
+                dacian = "Pulpudeva" # Or "Eumolpias" but this is more ancient
+
+                b_plovdiv = {
+                    dacian = "Pulpudeva" # Or "Eumolpias" but this is more ancient
+                }
+            }
+        }
+    }
+}
+e_poland = {
+    k_poland = {
+        d_greater_poland = {
+            c_kaliskie = {
+                romanian = "Setidava"
+
+                b_kalisz = {
+                    romanian = "Setidava"
+                }
+            }
+        }
+    }
+}
+e_carpathia = {
+    k_wallachia = {
+        d_wallachia = {
+            c_tirgoviste = {
+                b_campulung = {
+                    dacian = "Jidava"
+                }
+            }
+        }
+        d_oltenia = {
+            c_severin = {
+                dacian = "Sucidava"
+
+                b_severin = {
+                    dacian = "Sucidava"
+                }
+                b_craiova = {
+                    dacian = "Pelendava" # Or "Pelendaua"
+                }
+            }
+        }
+    }
+    k_moldau = {
+        d_moldau = {
+            c_bacau = {
+                b_piatra_neamt = {
+                    dacian = "Petrodava" # Or "Petrodaua"
+                }
+            }
+        }
+    }
+    k_hungary = {
+        d_ungvar = {
+            c_zemplen = {
+                dacian = "Susudava"
+
+                b_zemplen = {
+                    dacian = "Susudava"
+                }
+            }
+        }
+        d_csanad = {
+            dacian = "Ziridava" # Or "Ziridaua"
+
+            c_csanad = {
+                dacian = "Ziridava" # Or "Ziridaua"
+
+                b_csanad = {
+                    dacian = "Ziridava" # Or "Ziridaua"
+                }
+            }
+        }
+    }
+}
