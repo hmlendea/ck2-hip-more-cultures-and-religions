@@ -105,5 +105,20 @@ e_carpathia = {
                 }
             }
         }
+        d_transylvania = {
+            c_szekelyfold = {
+                b_kukullovar = {
+                    dacian = "Napoca"
+                }
+                b_torda = {
+                    dacian = "Potaissa" # Or "Patavissa"
+                }
+            }
+            c_marmaros = {
+                b_zilah = {
+                    daican = "Porolissum"
+                }
+            }
+        }
     }
 }
