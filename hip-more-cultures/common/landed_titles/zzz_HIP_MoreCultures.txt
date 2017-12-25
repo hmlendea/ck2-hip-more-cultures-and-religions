@@ -9,6 +9,8 @@ e_byzantium = {
         }
     }
     k_bulgaria = {
+        dacia = "Moesia"
+
         d_turnovo = {
             dacian = "Zikideva"
 
@@ -20,10 +22,29 @@ e_byzantium = {
                 }
             }
         }
+        d_karvuna = {
+            c_karvuna = {
+                b_mangalia = {
+                    dacian = "Callatis" # This was a greek town, and this name is also actually greek
+                }
+            }
+            c_constantia = {
+                dacian = "Tomis"
+
+                b_constantia = {
+                    dacian = "Tomis"
+                }
+            }
+        }
         d_ohrid = {
             c_velbazhd = {
                 b_pernik = {
                     dacian = "Adeva"
+                }
+            }
+            c_naissus = {
+                b_pirot = {
+                    dacian = "Aiadava" # Modern-day Bela Palanka, Serbia
                 }
             }
         }
@@ -55,6 +76,8 @@ e_poland = {
 }
 e_carpathia = {
     k_wallachia = {
+        dacian = "Dacia"
+
         d_wallachia = {
             c_tirgoviste = {
                 b_campulung = {
@@ -76,6 +99,8 @@ e_carpathia = {
         }
     }
     k_moldau = {
+        dacian = "Moldava"
+
         d_moldau = {
             c_bacau = {
                 b_piatra_neamt = {
