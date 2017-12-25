@@ -84,6 +84,17 @@ e_carpathia = {
                     dacian = "Jidava"
                 }
             }
+            c_turnu = {
+                b_bucuresti = {
+                    dacian = "Bucuridava" # Not historical - "bucur" is a word of dacian origin, and "dava" is the dacian word for settlement
+                }
+                b_giurgiu = {
+                    dacian = "Argedava" # Not Giurgiu itself, but nearby
+                }
+            }
+            c_buzau = {
+                dacian = "Bouzeos" # Thracian name or at thracian origin (you don't say)
+            }
         }
         d_oltenia = {
             c_severin = {
@@ -96,6 +107,11 @@ e_carpathia = {
                     dacian = "Pelendava" # Or "Pelendaua"
                 }
             }
+            c_targujiu = {
+                b_ramnicu_valcea = {
+                    dacian = "Buridava"
+                }
+            }
         }
     }
     k_moldau = {
@@ -105,6 +121,13 @@ e_carpathia = {
             c_bacau = {
                 b_piatra_neamt = {
                     dacian = "Petrodava" # Or "Petrodaua"
+                }
+            }
+        }
+        d_basarabia = {
+            c_galaz = {
+                b_oblucita = {
+                    dacian = "Genucla" # *Might* be just a nearby settlement
                 }
             }
         }
