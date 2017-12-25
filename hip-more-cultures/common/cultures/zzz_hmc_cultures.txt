@@ -1,0 +1,30 @@
+celtic = {
+    dacian = {
+        graphical_cultures = { celticgfx }
+        color = { 0.45 0.29 0.15 }
+        male_names = {﻿
+            Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso Dablosa Dadas Dadazi Daizus Damanais Dapyx Dardanos Dardiolai
+            Decaeneus Decebalus Dekinais Denzibalos Dicomes Dida Dida Diegis Diengis Dieri Diernais Diourdanos Diurpaneus Dotos Dotouzi Dourpokis Drilgisa
+            Dromichaetes Kaigiza Komakiza Komozoi Mucapor Mucatra Natoporus Oroles Petipor Petoporus Pieporus Pouridour Rigozus Rolouzis Scorylo Sinna Tarbus
+            Thiamarkos Thiaper Tiati Tiatitis Tsinna Tsiru Vezina Zinnas Zyraxes
+        }
+        female_names = {
+            Rescuturme Zia
+        }
+        from_dynasty_prefix = "de " # fallback value from romanian
+        male_patronym = "per " # this is the dacian word for "son". Doesn't fit completely, but good enough for now
+        prefix = yes
+
+        # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+        pat_grf_name_chance = 40
+        mat_grf_name_chance = 10
+        father_name_chance = 10
+
+        # Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 40
+        mother_name_chance = 5
+
+        modifier = romanian_culture_modifier
+    }
+}
