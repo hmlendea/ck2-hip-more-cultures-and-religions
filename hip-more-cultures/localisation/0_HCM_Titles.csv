@@ -9,31 +9,52 @@
 ################################################################################
 # NOBLE TITLES - GENERIC
 ################################################################################
+king_dacian;Rezas;;;;;;;;;;;;;x # Fallback from thracian
+king_thracian;Rezas;;;;;;;;;;;;;x
 ### CITY
 ### IMPERIAL
 ### NOMADIC
-### TEMPLE
+### TEMPLE (Barony)
 temple_baron_male_dacian;Ktístai;;;;;;;;;;;;;x # Fallback from thracian
+temple_baron_male_thracian;Ktístai;;;;;;;;;;;;;x # Meaning: celibate monk
 ### TRIBAL
 
 ################################################################################
 # TITLES
 ################################################################################
-### GENERIC
+### FEUDAL (Barony)
 barony_of_dacian;Dava;;;;;;;;;;;;;x
 barony_dacian;Dava;;;;;;;;;;;;;x
+barony_of_thracian;Diza;;;;;;;;;;;;;x
+barony_thracian;Diza;;;;;;;;;;;;;x
+### FEUDAL (County)
 county_of_dacian;Dina;;;;;;;;;;;;;x
 county_dacian;Dina;;;;;;;;;;;;;x
+county_of_thracian;Gava;;;;;;;;;;;;;x # Meaning: Place, countryside
+county_thracian;Gava;;;;;;;;;;;;;x # Meaning: Place, countryside
+### FEUDAL (Kingdom)
 kingdom_of_dacian;Tauta;;;;;;;;;;;;;x
 kingdom_dacian;Tauta;;;;;;;;;;;;;x
-### CITY
+kingdom_of_thracian;Rezodon;;;;;;;;;;;;;x
+kingdom_thracian;Rezodon;;;;;;;;;;;;;x
+### CITY (Barony)
 city_barony_of_dacian;Dava;;;;;;;;;;;;;x
 city_barony_dacian;Dava;;;;;;;;;;;;;x
-### TRIBAL
+city_barony_of_thracian;Bria;;;;;;;;;;;;;x
+city_barony_thracian;Bria;;;;;;;;;;;;;x
+### TRIBAL (Barony)
 tribal_barony_of_dacian;Dava;;;;;;;;;;;;;x
 tribal_barony_dacian;Dava;;;;;;;;;;;;;x
+tribal_barony_of_thracian;Dentu;;;;;;;;;;;;;x
+tribal_barony_thracian;Dentu;;;;;;;;;;;;;x
+### TRIBAL (County)
 tribal_county_of_dacian;Dina;;;;;;;;;;;;;x
 tribal_county_dacian;Dina;;;;;;;;;;;;;x
+tribal_county_of_thracian;Dina;;;;;;;;;;;;;x
+tribal_county_thracian;Dina;;;;;;;;;;;;;x
+### TRIBAL (Kingdom)
 tribal_kingdom_of_dacian;Tauta;;;;;;;;;;;;;x
 tribal_kingdom_dacian;Tauta;;;;;;;;;;;;;x
+tribal_kingdom_of_thracian;Rezodon;;;;;;;;;;;;;x
+tribal_kingdom_thracian;Rezodon;;;;;;;;;;;;;x
 
