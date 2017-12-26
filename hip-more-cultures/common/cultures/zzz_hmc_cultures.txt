@@ -1,24 +1,53 @@
 thracian = {
     graphical_cultures = { germangfx }
 
+    thracian = {
+        graphical_culture = { byzantinegfx }
+        color = { 0.45 0.76 0.76 }
+        male_names = {
+            Abrupolis Adaeus Adaios Amadocus Amatokos_Metokos Beithys_Byzas Berisades Biz_Byzas Byses_Byzas Byzas_Byzas Cersobleptes Cetriporis Cotys_Cotiso Dentupes
+            Deopus Deospuris Desakenthos Diagil_Diagylis Diagylis_Diagylis Diegylos_Diagylis Diygyles_Diagylis Dizapor Eptaper Hebryzelmis Kersivaulos Maisades
+            Metokos_Metokos Mukaboris_Mucapor Mukabur_Mucapor Mukaporis_Mucapor Odoroes Odryses Orsoaltios Pleuratus Pythodoris Raizdos_Raizdos Rhaskuporis
+            Rhescuporis Rhesus Rhoemetaces Roigos_Raizdos Sadalas Sadocos Scostodos Seuthes Sitalecs Skostodokos Sothimes Sparatocos Sparatokos Teres Tsizelmi
+            Ziepyrus Zipaibes Ziper Zipyron
+        }
+        female_names = {
+            Aidezyres Benzeis Bidia Blosta_Blostis Blostis_Blostis Cosingis Dentusykos Eptesuchis Maisira Mania Meda Mokasokos Reptatercos
+
+        }
+        from_dynasty_prefix = "per "
+        male_patronym = "per " # fallback from dacian
+        prefix = yes
+
+        # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+        pat_grf_name_chance = 40
+        mat_grf_name_chance = 10
+        father_name_chance = 10
+
+        # Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 40
+        mother_name_chance = 5
+
+        modifier = romanian_culture_modifier
+    }
+
     dacian = {
         graphical_cultures = { germangfx }
         color = { 0.45 0.29 0.15 }
         male_names = {﻿
-            Aptasa Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso Dablosa Dadas Dadazi Daidour Daizus Damanais Dapyx
-            Dardanos Dardiolai Decaeneus Decebalus Dekibalos Dekinais Dekinsada Denzibalos Dezibalos Diapalai Dicomes Dida Diegis Diengi Diengis Dieri Diernais
-            Diolizis Diourdanos Diourpa Diourpliz Ditoulai Diurpaneus Dotos Dotouzi Dourpokis Drilgisa Dromichaetes Eithazi Eithias Eithiokalos Geithozi Ithiokalos
-            Kaigiza Komakiza Komozoi Mucapor Mucatra Naisoulai Natopor Natoporus Neisto Oroles Petipor Petoporus Pieporus Pouridour Rigozus Rolouzis Scorylo Sinna
-            Tarbus Thiadicem Thiais Thiamarkos Thiaper Thiapor Thiati Thouthoila Tia Tiati Tiatitis Tiato Titila Tsinna Tsiru Vezina Zinnas Zoubliza Zourai Zourazi
-            Zourdanos Zouroblost Zoutula Zyraxes 
+            Aptasa Avizina_Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso_Cotiso Dablosa Dadas Dadazi Daidour Daizus
+            Damanais Dapyx Dardanos Dardiolai Decaeneus Decebalus Dekibalos Dekinais Dekinsada Denzibalos Dezibalos Diapalai Dicomes Dida Diegis Diengi Diengis Dieri
+            Diernais Diolizis Diourdanos Diourpa Diourpliz Ditoulai Diurpaneus Dotos Dotouzi Dourpokis Drilgisa Dromichaetes Eithazi Eithias Eithiokalos Geithozi
+            Ithiokalos Kaigiza Komakiza Komozoi Mucapor Mucatra Naisoulai Natopor Natoporus Neisto Oroles Petipor Petoporus Pieporus Pouridour Rigozus Rolouzis
+            Scorylo Sinna Tarbus Thiadicem Thiais Thiamarkos Thiaper Thiapor Thiati Thouthoila Tia Tiati Tiatitis Tiato Titila Tsinna Tsiru Vezina_Avizina Zinnas
+            Zoubliza Zourai Zourazi Zourdanos Zouroblost Zoutula Zyraxes 
         }
         female_names = {
             Dokia Meda Rescuturme Zia Zina Arsinoe Bendidora Dentusykos Dokia Eptesykos Eurydike Makris Meda Mokasokos Reskuturme Romula Zia Zina
-
-            Bendis # Is a godess
         }
         from_dynasty_prefix = "per "
-        male_patronym = "per " # from the "Decebalus per Scorillo" inscription (translated as "Decebalus, son of Scorillo")
+        male_patronym = "per " # from the "Decebalus per Scorillo" inscription (translated as "Decebalus, son of Scorilo")
         prefix = yes
 
         # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
