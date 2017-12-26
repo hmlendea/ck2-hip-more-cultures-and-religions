@@ -1,9 +1,17 @@
 e_byzantium = {
     k_byzantium = {
         d_thrace = {
+            c_byzantion = {
+                thracian = "Byzantion" # thraco-illyrian
+
+                b_constantinople = {
+                    thracian = "Byzantion" # thraco-illyrian
+                }
+            }
             c_thrake = {
                 b_arkadiopolis = {
                     dacian = "Bergula"
+                    thracian = "Bergula"
                 }
             }
         }
@@ -13,53 +21,68 @@ e_byzantium = {
 
         d_turnovo = {
             dacian = "Moesia" # Or "Zikideva"
+            thracian = "Moesia" # Or "Zikideva"
 
             c_tyrnovo = {
                 dacian = "Zikideva"
+                thracian = "Zikideva" # dacian
 
                 b_tarnovo = {
                     dacian = "Zikideva"
+                    thracian = "Zikideva" # dacian
                 }
                 b_lovech = {
                     dacian = "Metla" # thracian
+                    thracian = "Serdica"
                 }
             }
             c_serdica = {
                 dacian = "Serdica" # thracian
+                thracian = "Serdica"
 
                 b_serdica = {
                     dacian = "Serdica" # thracian
+                    thracian = "Serdica"
                 }
             }
             c_dorostotum = {
                 dacian = "Silistra" # thracian. Istra may come from Istros, the dacian & thracian name for Danube
+                thracian = "Silistra"
 
                 b_silistra = {
                     dacian = "Silistra" # thracian. Istra may come from Istros, the dacian & thracian name for Danube
+                    thracian = "Silistra"
                 }
             }
             c_nikopolis = {
                 dacian = "Seuthopolis" # thracian (the only thracian polis)
+                thracian = "Seuthopolis"
 
                 b_kran= {
                     dacian = "Seuthopolis" # thracian (the only thracian polis)
+                    thracian = "Seuthopolis"
                 }
             }
         }
         d_karvuna = {
-            dacian = "Dionysopolis" # This was a greek town, and this name is also actually greek
+            dacian = "Krobyzon" # Not historical. Based on the name of the tribe that used to inhabit the area (the Krobyzoi)
+            thracian = "Krobyzon" # Not historical. Based on the name of the tribe that used to inhabit the area (the Krobyzoi)
 
             c_karvuna = {
                 dacian = "Dionysopolis" # This was a greek town, and this name is also actually greek
+                thracian = "Dionysopolis" # This was a greek town, and this name is also actually greek
 
                 b_kaliakra = {
                     dacian = "Tirizis" # thracian
+                    thracian = "Tirizis"
                 }
                 b_karvuna = {
                     dacian = "Dionysopolis" # This was a greek town, and this name is also actually greek
+                    thracian = "Dionysopolis" # This was a greek town, and this name is also actually greek
                 }
                 b_mangalia = {
                     dacian = "Callatis" # This was a greek town, and this name is also actually greek
+                    thracian = "Callatis" # This was a greek town, and this name is also actually greek
                 }
             }
             c_constantia = {
@@ -67,15 +90,19 @@ e_byzantium = {
 
                 b_tulcea = {
                     dacian = "Aegyssus" # thracian or greek
+                    thracian = "Aegyssus" # may be greek
                 }
                 b_constantia = {
-                    dacian = "Tomis"
+                    dacian = "Tomis" # may be thracian or greek
+                    thracian = "Tomis" # may be dacian or greek
                 }
                 b_chilia = {
                     dacian = "Achillea" # greek
+                    thracian = "Achillea" # greek
                 }
                 b_harsova = {
                     dacian = "Carsium" # Latinised form of the original daco-thracian name (which was lost?)
+                    thracian = "Carsium" # Latinised form of the original daco-thracian name (which was lost?)
                 }
             }
         }
@@ -83,69 +110,93 @@ e_byzantium = {
             c_velbazhd = {
                 b_pernik = {
                     dacian = "Adeva"
+                    thracian = "Adeva" # dacian
                 }
             }
             c_naissus = {
                 b_pirot = {
                     dacian = "Aiadava" # Not the same. Modern-day Bela Palanka, Serbia
+                    thracian = "Aiadava" # Not the same. Modern-day Bela Palanka, Serbia. Also, it's dacian
                 }
             }
         }
         d_adrianopolis = {
-            dacian = "Pulpudeva" # Or "Eumolpias" but this is more ancient
+            dacian = "Odryssa" # thracian
+            thracian = "Odryssa" # Chose this since this is roughly the land that was once inhabited by odrysians, and also the name of its capital
 
             c_adrianopolis = {
                 dacian = "Odryssa" # thracian
+                thracian = "Odryssa"
+
+                b_adrianopolis = {
+                    dacian = "Odryssa" # Thracian
+                    thracian = "Odryssa" # Or "Uscudama" but that is more ancient
+                }
             }
             c_philippopolis = {
                 dacian = "Pulpudeva" # Or "Eumolpias" but this is more ancient
+                thracian = "Pulpudeva" # dacian
 
                 b_plovdiv = {
                     dacian = "Pulpudeva" # Or "Eumolpias" but this is more ancient
+                    thracian = "Pulpudeva" # dacian
                 }
                 b_steinmahos = {
                     dacian = "Stenímachos" # thracian
+                    thracian = "Stenímachos" #
                 }
             }
             c_mesembria = {
-                dacian = "Menebria" # Thracian
+                dacian = "Menebria" # Thracian - Could be "Menedava" in dacian, but that's a made-up name
+                thracian = "Menebria"
 
                 b_sozopol = {
                     dacian = "Apollonia" # greek
+                    thracian = "Apollonia" # greek
                 }
                 b_aetos_bulgaria = {
                     dacian = "Aytos" # thracian
+                    thracian = "Aytos"
                 }
                 b_yambol = {
                     dacian = "Kabyle" # thracian
+                    thracian = "Kabyle"
                 }
                 b_pomorie = {
                     dacian = "Anchialos" # greek
+                    thracian = "Anchialos" # greek
                 }
                 b_mesembria = {
                     dacian = "Menebria" # thracian
+                    thracian = "Menebria"
                 }
                 b_debelt = {
                     dacian = "Debelton" # thracian
+                    thracian = "Debelton"
                 }
             }
             c_kopsis = {
                 b_beroe = {
-                    dacian = "Beroea" # dacian OR thracian, not sure
+                    dacian = "Beroea" # daco-thracian
+                    thracian = "Beroea" # daco-thracian
                 }
             }
         }
         d_vidin = {
             dacian = "Dononia" # from celtic
+            thracian = "Dononia" # from celtic
 
             c_vidin = {
                 dacian = "Dononia" # from celtic
+                thracian = "Dononia" # from celtic
 
                 b_archar = {
                     dacian = "Ratiaria"
+                    thracian = "Ratiaria" # dacian
                 }
                 b_vidin = {
                     dacian = "Dononia" # from celtic
+                    thracian = "Dononia" # from celtic
                 }
             }
         }
@@ -155,10 +206,12 @@ e_poland = {
     k_poland = {
         d_greater_poland = {
             c_kaliskie = {
-                romanian = "Setidava"
+                dacian = "Setidava"
+                thracian = "Setidava"
 
                 b_kalisz = {
-                    romanian = "Setidava"
+                    dacian = "Setidava"
+                    thracian = "Setidava"
                 }
             }
         }
@@ -172,55 +225,72 @@ e_carpathia = {
             c_tirgoviste = {
                 b_campulung = {
                     dacian = "Jidava"
+                    thracian = "Jidava" # dacian
                 }
             }
             c_turnu = {
                 b_bucuresti = {
                     dacian = "Bucuridava" # Not historical - "bucur" is a word of dacian origin, and "dava" is the dacian word for settlement
+                    thracian = "Bucuridava" # Not historical - "bucur" is a word of dacian origin, and "dava" is the dacian word for settlement
                 }
                 b_giurgiu = {
                     dacian = "Argedava" # Not Giurgiu itself, but nearby
+                    thracian = "Argedava" # Not Giurgiu itself, but nearby. Also, it's dacian
                 }
             }
             c_ialomita = {
                 dacian = "Naparis" # The Ialomita river is named Naparis in dacian
+                thracian = "Naparis" # Dacian. The Ialomita river is named Naparis in dacian
             }
             c_buzau = {
                 dacian = "Bouzeos" # Thracian name or at thracian origin (you don't say)
+                thracian = "Bouzeos"
             }
         }
         d_oltenia = {
             c_severin = {
                 dacian = "Drobeta"
+                thracian = "Drobeta" # Dacian
 
                 b_severin = {
                     dacian = "Drobeta"
+                    thracian = "Drobeta" # Dacian
                 }
                 b_craiova = {
                     dacian = "Pelendava" # Or "Pelendaua"
+                    thracian = "Pelendava" # Or "Pelendaua". Also, it's dacian
                 }
             }
             c_targujiu = {
                 b_ramnicu_valcea = {
                     dacian = "Buridava"
+                    thracian = "Buridava" # Dacian
                 }
             }
         }
     }
     k_moldau = {
-        dacian = "Moldava"
+        dacian = "Moldava" # Not historical? Dacianised version of "Moldova"
 
         d_moldau = {
+            dacian = "Carpia" # Not historical. Based on the name of the tribe that used to inhabit the area (the Carpi)
+            thracian = "Carpia" # Not historical. Based on the name of the tribe that used to inhabit the area (the Carpi)
+
             c_bacau = {
                 b_piatra_neamt = {
                     dacian = "Petrodava" # Or "Petrodaua"
+                    thracian = "Petrodava" # Or "Petrodaua". Also, it's dacian
                 }
             }
         }
         d_basarabia = {
+            dacian = "Bastarnae" # Not historical. Based on the name of the tribe that used to inhabit the area (the Bastarnae)
+            thracian = "Bastarnae" # Not historical. Based on the name of the tribe that used to inhabit the area (the Bastarnae)
+
             c_galaz = {
                 b_oblucita = {
                     dacian = "Genucla" # *Might* be just a nearby settlement
+                    thracian = "Genucla" # *Might* be just a nearby settlement. Also, it's dacian
                 }
             }
         }
@@ -229,20 +299,25 @@ e_carpathia = {
         d_ungvar = {
             c_zemplen = {
                 dacian = "Susudava"
+                thracian = "Susudava" # Dacian
 
                 b_zemplen = {
                     dacian = "Susudava"
+                    thracian = "Susudava" # Dacian
                 }
             }
         }
         d_csanad = {
             dacian = "Ziridava" # Or "Ziridaua"
+            thracian = "Ziridava" # Or "Ziridaua". Also, it's dacian
 
             c_csanad = {
                 dacian = "Ziridava" # Or "Ziridaua"
+                thracian = "Ziridava" # Or "Ziridaua". Also, it's dacian
 
                 b_csanad = {
                     dacian = "Ziridava" # Or "Ziridaua"
+                    thracian = "Ziridava" # Or "Ziridaua". Also, it's dacian
                 }
             }
         }
@@ -250,28 +325,35 @@ e_carpathia = {
             c_szekelyfold = {
                 b_kukullovar = {
                     dacian = "Napoca"
+                    thracian = "Napoca" # Dacian
                 }
                 b_torda = {
                     dacian = "Potaissa" # Or "Patavissa"
+                    thracian = "Potaissa" # Or "Patavissa". Also, it's dacian
                 }
             }
             c_feher = {
                 dacian = "Apoulon"
+                thracian = "Apoulon" # Dacian
 
                 b_gyulafehervar = {
                     dacian = "Apoulon"
+                    thracian = "Apoulon" # Dacian
                 }
             }
             c_burzenland = {
                 b_torcsvar = {
                     dacian = "Cumidava" # Not the same, just nearby
+                    thracian = "Cumidava" # Not the same, just nearby. Also, it's dacian
                 }
             }
             c_marmaros = {
                 b_zilah = {
                     daican = "Porolissum"
+                    thracian = "Porolissum" # Dacian
                 }
             }
         }
     }
 }
+
