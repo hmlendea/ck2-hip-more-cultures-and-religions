@@ -5,18 +5,20 @@ thracian = {
         graphical_cultures = { westernslavicgfx }
         color = { 0.45 0.29 0.15 }
         male_names = {﻿
-            Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso Dablosa Dadas Dadazi Daizus Damanais Dapyx Dardanos Dardiolai
-            Decaeneus Decebalus Dekinais Denzibalos Dicomes Dida Dida Diegis Diengis Dieri Diernais Diourdanos Diurpaneus Dotos Dotouzi Dourpokis Drilgisa
-            Dromichaetes Kaigiza Komakiza Komozoi Mucapor Mucatra Natoporus Oroles Petipor Petoporus Pieporus Pouridour Rigozus Rolouzis Scorylo Sinna Tarbus
-            Thiamarkos Thiaper Tiati Tiatitis Tsinna Tsiru Vezina Zinnas Zyraxes
+            Aptasa Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso Dablosa Dadas Dadazi Daidour Daizus Damanais Dapyx
+            Dardanos Dardiolai Decaeneus Decebalus Dekibalos Dekinais Dekinsada Denzibalos Dezibalos Diapalai Dicomes Dida Diegis Diengi Diengis Dieri Diernais
+            Diolizis Diourdanos Diourpa Diourpliz Ditoulai Diurpaneus Dotos Dotouzi Dourpokis Drilgisa Dromichaetes Eithazi Eithias Eithiokalos Geithozi Ithiokalos
+            Kaigiza Komakiza Komozoi Mucapor Mucatra Naisoulai Natopor Natoporus Neisto Oroles Petipor Petoporus Pieporus Pouridour Rigozus Rolouzis Scorylo Sinna
+            Tarbus Thiadicem Thiais Thiamarkos Thiaper Thiapor Thiati Thouthoila Tia Tiati Tiatitis Tiato Titila Tsinna Tsiru Vezina Zinnas Zoubliza Zourai Zourazi
+            Zourdanos Zouroblost Zoutula Zyraxes 
         }
         female_names = {
-            Rescuturme Zia
+            Dokia Meda Rescuturme Zia Zina
 
             Bendis # Is a godess
         }
-        from_dynasty_prefix = "de " # fallback value from romanian
-        male_patronym = "per " # this is the dacian word for "son". Doesn't fit completely, but good enough for now
+        from_dynasty_prefix = "per "
+        male_patronym = "per " # from the "Decebalus per Scorillo" inscription (translated as "Decebalus, son of Scorillo")
         prefix = yes
 
         # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -32,3 +34,4 @@ thracian = {
         modifier = romanian_culture_modifier
     }
 }
+
