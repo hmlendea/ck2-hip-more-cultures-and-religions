@@ -1,8 +1,8 @@
 thracian = {
-    graphical_cultures = { westernslavicgfx }
+    graphical_cultures = { germangfx }
 
     dacian = {
-        graphical_cultures = { westernslavicgfx }
+        graphical_cultures = { germangfx }
         color = { 0.45 0.29 0.15 }
         male_names = {﻿
             Aptasa Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso Dablosa Dadas Dadazi Daidour Daizus Damanais Dapyx
@@ -13,7 +13,7 @@ thracian = {
             Zourdanos Zouroblost Zoutula Zyraxes 
         }
         female_names = {
-            Dokia Meda Rescuturme Zia Zina
+            Dokia Meda Rescuturme Zia Zina Arsinoe Bendidora Dentusykos Dokia Eptesykos Eurydike Makris Meda Mokasokos Reskuturme Romula Zia Zina
 
             Bendis # Is a godess
         }
