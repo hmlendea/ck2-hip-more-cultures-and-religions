@@ -9,7 +9,7 @@ e_byzantium = {
         }
     }
     k_bulgaria = {
-        dacia = "Odrysia"
+        dacian = "Odrysia"
 
         d_turnovo = {
             dacian = "Moesia" # Or "Zikideva"
