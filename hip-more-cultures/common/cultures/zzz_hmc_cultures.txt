@@ -1,3 +1,45 @@
+celtic = {
+    boii = {
+        graphical_cultures = { celticgfx }
+        color = { 0.53 0.43 0.23 }
+        male_names = {
+            Acco Adcobrovatos Adiatuanos Ainorix Akikhorios Amminos Andecombogios Aneirin Arandio Armorix Atis Badicandos Baeren Barrivendos Berdic Biatekos
+            Boduognatos Boiorix Bolgios Bossomaros Brennos Brigomaglos Brycham Budic Caburos Cacumattos Calpornos Camulogenos Caradog Caratacos Casticos Casticos
+            Catamantaloedis Catavignos Catuvolcos Cavarillos Cavarinos Ceanatis Celtillos Cerethreos Cintugnatos Cocolitanos Cogidubnos Conconnetodom Convictolitavis
+            Correos Cotos Critognatos Cunobelin Cunovindos Custennyn Darnos Dejotaros Dennoros Diviciacos Diviciacos Divicoi Domnotauros Dorulatos Drappes Drustan
+            Dumnacos Duratios Eathomos Enemnogenos Enestinos Epasnactos Eporedemoros Erbin Estes Euoiurix Fariarix Faros Fergalos Fergusoe Flarn Galatos Galligos
+            Geraint Glasobrin Gobannitio Gorteyrn Iccios Iantomaros Indutiomaros Ivomagos Kambaules Kombutis Komontorios Kondomos Korbrouomaros Kouiomaros Kritasiros
+            Lannildot Liscos Litaviccos Lucco Lucterios Lugort Mabon Maglocunos Magulos Malac Malacos Malbore Malechor Mallis Mandubracios Marikkos Matugenos Meriadoc
+            Messianuroc Moggortos Morbhe Morbo Moritasgos Motios Mulgotoros Nammeios Ollovico Orestorios Orgetoros Orro Pallando Periadoc Piso Praesutagos Prasutagos
+            Riankiadoc Sedannuae Sedullos Segovax Senaculos Sennianos Suros Tancogeistla Tasciovanos Tasgetios Tauronos Taximagulos Teuristorix Teutobodus
+            Teutomalios Teutomatos Teutomos Tincommios Togodumnos Tredain Tregemlos Troinos Troucillos Tyranos Ulrigos Valetiacos Vellocatos Vertico Vertiscos
+            Verucloetios Vindex Vindomorucios Viridomaros Viridovix Virssuccios
+        }
+        female_names = {
+            Aedarca Aerros Andoran Barita Bathmadh Bergo Boudecea Cannoda Cartimandua Cathbe Cuniovenda Cunoarda Diedre Eannao Esselt Eudaf Faran Galae Gindonno
+            Huctia Iseult Keyne Kianki Margeria_Margaret Mariga_Maria Marricandora Mavica Medwando Morian Mymba Mynne_Minna Roibhan Uctia Verctissa Adbogissa
+            Adiatussia Adnemia Akaunissa Ammossa Atebodua Aterissa Attisagi Belatussa Bitona Boniata Brixsa Dedika Derkeia Deuognata Dumia Eppaxsia Giamilla Glama
+            Ieuinkata Kakudi Kala Kamuloriga Kassimara Kobruna Kontauinda Krasanikna Krikoni Loxsia Luguselua Lutussa Magara Manduissa Masuetinka Matutina Merokli
+            Nemetogena Nemorata Nertamara Noibia Oxsidubna Pintilisina Rituka Reueta Sapossa Senonda Seneuara Silibika Suruka Tokia Uelagena Uenna Ueriuga Uindelia
+        }
+        from_dynasty_prefix = "of "
+        male_patronym = "of "
+        prefix = yes
+
+        # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+        pat_grf_name_chance = 30
+        mat_grf_name_chance = 15
+        father_name_chance = 5
+
+        # Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+        pat_grm_name_chance = 30
+        mat_grm_name_chance = 15
+        mother_name_chance = 10
+
+        modifier = default_culture_modifier
+    }
+}
+
 thracian = {
     graphical_cultures = { germangfx }
 
