@@ -183,20 +183,20 @@ e_byzantium = {
             }
         }
         d_vidin = {
-            dacian = "Dononia" # from celtic
-            thracian = "Dononia" # from celtic
+            dacian = "Dunonia" # from celtic
+            thracian = "Dunonia" # from celtic
 
             c_vidin = {
-                dacian = "Dononia" # from celtic
-                thracian = "Dononia" # from celtic
+                dacian = "Dunonia" # from celtic
+                thracian = "Dunonia" # from celtic
 
                 b_archar = {
                     dacian = "Ratiaria"
                     thracian = "Ratiaria" # dacian
                 }
                 b_vidin = {
-                    dacian = "Dononia" # from celtic
-                    thracian = "Dononia" # from celtic
+                    dacian = "Dunonia" # from celtic
+                    thracian = "Dunonia" # from celtic
                 }
             }
         }
