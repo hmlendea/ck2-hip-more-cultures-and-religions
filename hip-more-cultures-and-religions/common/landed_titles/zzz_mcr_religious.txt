@@ -1,0 +1,40 @@
+c_feher = {
+    holy_site = zamolxian
+    holy_site = zamolxian_reformed
+    zamolxian_reformed = 500
+}
+c_byzantion = {
+    holy_site = zamolxian
+    holy_site = zamolxian_reformed
+    zamolxian_reformed = 200
+}
+c_roma = {
+    holy_site = zamolxian
+    holy_site = zamolxian_reformed
+    zamolxian_reformed = 200
+}
+c_constantia = {
+    holy_site = zamolxian
+    holy_site = zamolxian_reformed
+    zamolxian_reformed = 200
+}
+c_adrianopolis = {
+    holy_site = zamolxian
+    holy_site = zamolxian_reformed
+    zamolxian_reformed = 200
+}
+
+d_zamolxian_reformed = {
+    color = { 115 75 40 }
+    color2 = { 105 65 30 }
+    capital = 519
+	title = THRACIAN_PRIEST
+	foa = THRACIAN_PRIEST_FOA
+	short_name = yes
+	landless = yes
+    religion = zamolxian_reformed
+    controls_religion = zamolxian_reformed
+    culture = dacian
+	primary = yes
+	dynasty_title_names = no
+}

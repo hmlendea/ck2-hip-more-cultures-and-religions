@@ -1,0 +1,23 @@
+# RELIGIONS
+zamolxian;Zamolxian;;;;;;;;;;;;;x
+zamolxian_reformed;Zamolxian;;;;;;;;;;;;;x#
+
+ RELIGION DESCRIPTIONS
+zamolxian_DESC;Zamolxianism is the ancient religion of the dacians. They primarly worship Zamolxis and consider him the greatest of the gods. The religion is characterised by strict order and belief in immortality, its followers considering death as a mere passage to another plane and happily fighting to their deaths.;;;;;;;;;;;;;x
+zamolxian_reformed_DESC;Zamolxianism is the ancient religion of the dacians. They primarly worship Zamolxis and consider him the greatest of the gods. The religion is characterised by strict order and belief in immortality, its followers considering death as a mere passage to another plane and happily fighting to their deaths.;;;;;;;;;;;;;x
+
+# DEITIES
+GOD_ZAMOLXIS;Zamolxis;Zamolxis;Zamolxis;;Zamolxis;;;;;;;;;x
+GOD_BENDIS;Bendis;Bendis;Bendis;;Bendis;;;;;;;;;x
+GOD_DERZELAS;Derzelas;Derzelas;Derzelas;;Derzelas;;;;;;;;;x
+
+# PRIESTS
+THRACIAN_PRIEST;Ktístai;Zamolxis;Zamolxis;;Zamolxis;;;;;;;;;x
+THRACIAN_PRIEST_FOA;Your Holiness;Votre Sainteté;Eure Heiligkeit;;Su Santidad;;;;;;;;;x
+
+# LANDED TITLES
+d_zamolxian_reformed;Zamolxian Church;;;;;;;;;;;;;x
+
+# Titles
+temple_baron_zamolxian;Ktístai;Zamolxis;Zamolxis;;Zamolxis;;;;;;;;;x
+temple_baron_zamolxian_reformed;Ktístai;Zamolxis;Zamolxis;;Zamolxis;;;;;;;;;x
