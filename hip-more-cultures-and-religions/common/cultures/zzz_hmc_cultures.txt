@@ -40,7 +40,7 @@ celtic = {
     }
 }
 
-thracian = {
+thracian_group = {
     graphical_cultures = { germangfx }
 
     thracian = {
