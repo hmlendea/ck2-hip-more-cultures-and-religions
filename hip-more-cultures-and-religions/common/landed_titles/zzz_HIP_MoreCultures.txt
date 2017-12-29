@@ -222,6 +222,9 @@ e_carpathia = {
         dacian = "Dacia"
 
         d_wallachia = {
+            dacian = "Dacia"
+            thracian = "Dacia"
+
             c_tirgoviste = {
                 b_campulung = {
                     dacian = "Jidava"
@@ -230,8 +233,15 @@ e_carpathia = {
             }
             c_turnu = {
                 b_bucuresti = {
+                    asturian = "Bucarest"
+                    corsican = "Bucarest"
                     dacian = "Bucuridava" # Not historical - "bucur" is a word of dacian origin, and "dava" is the dacian word for settlement
+                    lower_sorbian = "Bukarest"
+                    manx = "Bucharest"
+                    piedmontese = "Bùcarest"
                     thracian = "Bucuridava" # Not historical - "bucur" is a word of dacian origin, and "dava" is the dacian word for settlement
+                    upper_sorbian = "Bukarest"
+                    walloon = "Bucaresse"
                 }
                 b_giurgiu = {
                     dacian = "Argedava" # Not Giurgiu itself, but nearby
