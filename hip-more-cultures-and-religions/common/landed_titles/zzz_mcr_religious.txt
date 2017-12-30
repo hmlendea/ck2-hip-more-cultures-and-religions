@@ -28,13 +28,18 @@ d_zamolxian_reformed = {
     color = { 115 75 40 }
     color2 = { 105 65 30 }
     capital = 519
-	title = THRACIAN_PRIEST
-	foa = THRACIAN_PRIEST_FOA
-	short_name = yes
-	landless = yes
+    title = THRACIAN_PRIEST
+    foa = THRACIAN_PRIEST_FOA
+    short_name = yes
     religion = zamolxian_reformed
     controls_religion = zamolxian_reformed
     culture = dacian
-	primary = yes
-	dynasty_title_names = no
+    primary = yes
+    dynasty_title_names = no
+
+    allow = {
+        religion = zamolxian_reformed
+        num_of_holy_sites = 3
+        piety = 500
+    }
 }
