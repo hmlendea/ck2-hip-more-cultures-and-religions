@@ -1,0 +1,212 @@
+######################################
+# Trakoi dynasties
+######################################
+# Those names are just thracian and thraco-illyrian tribe names
+# The spelling is mostly greek or latin
+######################################
+# Range 1018730100-1018730199
+######################################
+1018730100 = {
+    name = "Agrianes"
+    culture = thracian
+}
+1018730101 = {
+    name = "Apsίnthioi"
+    culture = thracian
+}
+1018730102 = {
+    name = "Astoί"
+    culture = thracian
+}
+1018730103 = {
+    name = "Beni"
+    culture = thracian
+}
+1018730104 = {
+    name = "Bessoi"
+    culture = thracian
+}
+1018730105 = {
+    name = "Bisaltai"
+    culture = thracian
+}
+1018730106 = {
+    name = "Bίstones"
+    culture = thracian
+}
+1018730107 = {
+    name = "Bithynoί"
+    culture = thracian
+}
+1018730108 = {
+    name = "Brenai"
+    culture = thracian
+}
+1018730109 = {
+    name = "Kroysaioi" # Tribe of Crousi
+    culture = thracian
+}
+1018730110 = {
+    name = "Kebrenioi" # Tribe of Cebrenii
+    culture = thracian
+}
+1018730111 = {
+    name = "Koilaletoi" # Tribe of Coelaletae
+    culture = thracian
+}
+1018730112 = {
+    name = "Dersaioi"
+    culture = thracian
+}
+1018730113 = {
+    name = "Edonoi"
+    culture = thracian
+}
+1018730114 = {
+    name = "Denthelatai"
+    culture = thracian
+}
+1018730115 = {
+    name = "Derrones" # Might be paionian, not thracian
+    culture = thracian
+}
+1018730116 = {
+    name = "Dίgeroi"
+    culture = thracian
+}
+1018730117 = {
+    name = "Dίoi"
+    culture = thracian
+}
+1018730118 = {
+    name = "Diobesi"
+    culture = thracian
+}
+1018730119 = {
+    name = "Dόlogkoi" # Tribe of Dolonci
+    culture = thracian
+}
+1018730120 = {
+    name = "Kainoί" # Tribe of Caeni
+    culture = thracian
+}
+1018730121 = {
+    name = "Kíkones"
+    culture = thracian
+}
+1018730122 = {
+    name = "Koreli"
+    culture = thracian
+}
+1018730123 = {
+    name = "Korpiloi"
+    culture = thracian
+}
+1018730124 = {
+    name = "Krestonoί"
+    culture = thracian
+}
+1018730125 = {
+    name = "Maduateni"
+    culture = thracian
+}
+1018730126 = {
+    name = "Maidoi" # Tribe of Maedi
+    culture = thracian
+}
+1018730127 = {
+    name = "Melandίtai"
+    culture = thracian
+}
+1018730128 = {
+    name = "Melinophagoi"
+    culture = thracian
+}
+1018730129 = {
+    name = "Nipsaίoi"
+    culture = thracian
+}
+1018730130 = {
+    name = "Odomantes"
+    culture = thracian
+}
+1018730131 = {
+    name = "Odrysoi"
+    culture = thracian
+}
+1018730132 = {
+    name = "Paίtoi"
+    culture = thracian
+}
+1018730133 = {
+    name = "Phryges"
+    culture = thracian
+}
+1018730134 = {
+    name = "Pίeres"
+    culture = thracian
+}
+1018730135 = {
+    name = "Sapaioi"
+    culture = thracian
+}
+1018730136 = {
+    name = "Satrai"
+    culture = thracian
+}
+1018730137 = {
+    name = "Sykaiboai"
+    culture = thracian
+}
+1018730138 = {
+    name = "Skyrmiadai"
+    culture = thracian
+}
+1018730139 = {
+    name = "Sίnties"
+    culture = thracian
+}
+1018730140 = {
+    name = "Sίthones"
+    culture = thracian
+}
+1018730141 = {
+    name = "Thynoί"
+    culture = thracian
+}
+1018730142 = {
+    name = "Tilataίoi"
+    culture = thracian
+}
+1018730143 = {
+    name = "Tralleis"
+    culture = thracian
+}
+1018730144 = {
+    name = "Tranίpsai"
+    culture = thracian
+}
+1018730145 = {
+    name = "Traysoi"
+    culture = thracian
+}
+1018730146 = {
+    name = "Treroi"
+    culture = thracian
+}
+1018730147 = {
+    name = "Triballoί"
+    culture = thracian
+}
+1018730148 = {
+    name = "Dardanioi"
+    culture = thracian
+}
+1018730149 = {
+    name = "Galabrioi"
+    culture = thracian
+}
+1018730150= {
+    name = "Thoynatai"
+    culture = thracian
+}

@@ -1,0 +1,148 @@
+######################################
+# Daoi dynasties
+######################################
+# Those names are just dacian and daco-thracian tribe names
+# The spelling is mostly greek or latin
+######################################
+# Range 1018730000-1018730099
+######################################
+1018730000 = {
+    name = "Aidoi" # Tribe of Aedi
+    culture = dacian
+}
+1018730001 = {
+    name = "Albocense"
+    culture = dacian
+}
+1018730002 = {
+    name = "Anartoi" # Tribe of Anartes
+    culture = dacian
+}
+1018730003 = {
+    name = "Apuli"
+    culture = dacian
+}
+1018730004 = {
+    name = "Biephi"
+    culture = dacian
+}
+1018730005 = {
+    name = "Biessoi"
+    culture = dacian
+}
+1018730006 = {
+    name = "Buredeense"
+    culture = dacian
+}
+1018730007 = {
+    name = "Bouroi" # Tribe of Buri
+    culture = dacian
+}
+1018730008 = {
+    name = "Karpates" # Tribe of Carpi
+    culture = dacian
+}
+1018730009 = {
+    name = "Caucoense"
+    culture = dacian
+}
+1018730010 = {
+    name = "Cauci" # Just a different spelling of Caucoense
+    culture = dacian
+}
+1018730011 = {
+    name = "Ciaginsi"
+    culture = dacian
+}
+1018730012 = {
+    name = "Clariae"
+    culture = dacian
+}
+1018730013 = {
+    name = "Koistobokoi" # Tribe of Costoboci
+    culture = dacian
+}
+1018730014 = {
+    name = "Montanoi" # Just a different spelling of Koistobokoi
+    culture = dacian
+}
+1018730015 = {
+    name = "Krobyzoi" # Tribe of Crobidae
+    culture = dacian
+}
+1018730016 = {
+    name = "Daoi" # Tribe of Daci
+    culture = dacian
+}
+1018730017 = {
+    name = "Getai"
+    culture = dacian
+}
+1018730018 = {
+    name = "Napae" # Dacinised scythian tribe
+    culture = dacian
+}
+1018730019 = {
+    name = "Piephigi"
+    culture = dacian
+}
+1018730020 = {
+    name = "Potulatense"
+    culture = dacian
+}
+1018730021 = {
+    name = "Predasense"
+    culture = dacian
+}
+1018730022 = {
+    name = "Rhadacense"
+    culture = dacian
+}
+1018730023 = {
+    name = "Sabokoi"
+    culture = dacian
+}
+1018730024 = {
+    name = "Saldense"
+    culture = dacian
+}
+1018730025 = {
+    name = "Scaugdae"
+    culture = dacian
+}
+1018730026 = {
+    name = "Sense"
+    culture = dacian
+}
+1018730027 = {
+    name = "Soukoi" # Tribe of Suci
+    culture = dacian
+}
+1018730028 = {
+    name = "Terici"
+    culture = dacian
+}
+1018730029 = {
+    name = "Teurisci"
+    culture = dacian
+}
+1018730030 = {
+    name = "Trixae"
+    culture = dacian
+}
+1018730031 = {
+    name = "Tyregetai"
+    culture = dacian
+}
+1018730032 = {
+    name = "Troglodutai"
+    culture = dacian
+}
+1018730033 = {
+    name = "Artakioi"
+    culture = dacian
+}
+1018730034 = {
+    name = "Moisoi" # Tribe of Moesi
+    culture = dacian
+}
