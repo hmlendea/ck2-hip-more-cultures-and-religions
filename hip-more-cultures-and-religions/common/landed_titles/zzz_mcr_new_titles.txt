@@ -1,0 +1,109 @@
+e_thrace = {
+    color = { 90 230 230 }
+    color2 = { 80 220 220 }
+
+    bohemian = "Thrákie"
+    bulgarian = "Trakija"
+    catalan = "Tràcia"
+    croatian = "Trakija"
+    dacian = "Odryssa"
+    danish = "Thrakien"
+    dutch = "Thracië"
+    finnish = "Traakia"
+    frankish = "Thrace"
+    german = "Thrakien"
+    hungarian = "Trákia"
+    irish = "an Tráicia"
+    italian = "Tracia"
+    moravian = "Trácko"
+    norman = "Thrace"
+    oghuz = "Trakya"
+    pecheneg = "Trakya"
+    polish = "Tracja"
+    portuguese = "Trácia"
+    romanian = "Tracia"
+    serbian = "Trakija"
+    spanish = "Tracia"
+    swedish = "Thrakien"
+    thracian = "Odryssa"
+    turkish = "Trakya"
+    turkmen = "Trakya"
+
+    allow = {
+        title_king_basic_allow = yes
+        hidden_tooltip = {
+            AND = {
+                culture_group = thracian_group
+                OR = {
+                    ai = no
+                    NOT = { has_landed_title = e_carpathia }
+                }
+            }
+        }
+    }
+
+    k_mcr_dacia = {
+        color = { 115 75 40 }
+        color2 = { 105 65 30 }
+        culture = dacian
+        capital = 519
+        allow = {
+            title_king_basic_allow = yes
+            hidden_tooltip = {
+                AND = {
+                    culture_group = thracian_group
+                    OR = {
+                        ai = no
+                        NOT = { has_landed_title = k_wallachia }
+                    }
+                }
+            }
+        }
+    }
+    k_thrace = {
+        color = { 115 195 195 }
+        color2 = { 105 185 185 }
+        culture = thracian
+        capital = 519
+
+        allow = {
+            title_king_basic_allow = yes
+            hidden_tooltip = {
+                AND = {
+                    culture_group = thracian_group
+                    OR = {
+                        ai = no
+                        NOT = { has_landed_title = k_bulgaria }
+                    }
+                }
+            }
+        }
+
+        bohemian = "Thrákie"
+        bulgarian = "Trakija"
+        catalan = "Tràcia"
+        croatian = "Trakija"
+        dacian = "Odryssa"
+        danish = "Thrakien"
+        dutch = "Thracië"
+        finnish = "Traakia"
+        frankish = "Thrace"
+        german = "Thrakien"
+        hungarian = "Trákia"
+        irish = "an Tráicia"
+        italian = "Tracia"
+        moravian = "Trácko"
+        norman = "Thrace"
+        oghuz = "Trakya"
+        pecheneg = "Trakya"
+        polish = "Tracja"
+        portuguese = "Trácia"
+        romanian = "Tracia"
+        serbian = "Trakija"
+        spanish = "Tracia"
+        swedish = "Thrakien"
+        thracian = "Odryssa"
+        turkish = "Trakya"
+        turkmen = "Trakya"
+    }
+}
