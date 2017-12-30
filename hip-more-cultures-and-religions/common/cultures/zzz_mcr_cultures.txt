@@ -47,19 +47,18 @@ thracian_group = {
         graphical_culture = { byzantinegfx }
         color = { 0.45 0.76 0.76 }
         male_names = {
-            Abrupolis Adaeus Adaios Amadocus Amatokos_Metokos Beithys_Byzas Berisades Biz_Byzas Byses_Byzas Byzas_Byzas Cersobleptes Cetriporis Cotys_Cotiso Dentupes
-            Deopus Deospuris Desakenthos Diagil_Diagylis Diagylis_Diagylis Diegylos_Diagylis Diygyles_Diagylis Dizapor Eptaper Hebryzelmis Kersivaulos Maisades
-            Metokos_Metokos Mukaboris_Mucapor Mukabur_Mucapor Mukaporis_Mucapor Odoroes Odryses Orsoaltios Pleuratus Pythodoris Raizdos_Raizdos Rhaskuporis
-            Rhescuporis Rhesus Rhoemetaces Roigos_Raizdos Sadalas Sadocos Scostodos Seuthes Sitalecs Skostodokos Sothimes Sparatocos Sparatokos Teres Tsizelmi
-            Ziepyrus Zipaibes Ziper Zipyron
+            Abrupolis Adaeus Adaios Amadocus Amatokos_Metokos Beithys_Byzas Berisades Biz_Byzas Byses_Byzas Byzas_Byzas Cersobleptes Cetri Cotys_Cotiso Dentupes
+            Deo_Deos Deos_Deos Desakenthos Diagil_Diagylis Diagylis_Diagylis Diegylos_Diagylis Diygyles_Diagylis Diza Epta Hebryzelmis Kersivaulos Maisades
+            Metokos_Metokos Muka_Mucatra Odoroes Odryses Orsoaltios Pleuratus Pythodoris Raizdos_Raizdos Rhasku Rhesus Rhoemetaces Roigos_Raizdos Sadalas Sadocos
+            Scostodos Seuthes Sitalecs Skostodokos Sothimes Sparatocos Sparatokos Teres Tsizelmi Ziepyrus Zipaibes Ziper Zipyron
         }
         female_names = {
             Aidezyres Benzeis Bidia Blosta_Blostis Blostis_Blostis Cosingis Dentusykos Eptesuchis Maisira Mania Meda Mokasokos Reptatercos
 
         }
-        from_dynasty_prefix = "per "
-        male_patronym = "per " # fallback from dacian
-        prefix = yes
+        from_dynasty_prefix = "por "
+        male_patronym = "por"
+        prefix = no
 
         # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
         pat_grf_name_chance = 40
@@ -79,18 +78,19 @@ thracian_group = {
         color = { 0.45 0.29 0.15 }
         male_names = {﻿
             Aptasa Avizina_Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso_Cotiso Dablosa Dadas Dadazi Daidour Daizus
-            Damanais Dapyx Dardanos Dardiolai Decaeneus Decebalus Dekibalos Dekinais Dekinsada Denzibalos Dezibalos Diapalai Dicomes Dida Diegis Diengi Diengis Dieri
-            Diernais Diolizis Diourdanos Diourpa Diourpliz Ditoulai Diurpaneus Dotos Dotouzi Dourpokis Drilgisa Dromichaetes Eithazi Eithias Eithiokalos Geithozi
-            Ithiokalos Kaigiza Komakiza Komozoi Mucapor Mucatra Naisoulai Natopor Natoporus Neisto Oroles Petipor Petoporus Pieporus Pouridour Rigozus Rolouzis
-            Scorylo Sinna Tarbus Thiadicem Thiais Thiamarkos Thiaper Thiapor Thiati Thouthoila Tia Tiati Tiatitis Tiato Titila Tsinna Tsiru Vezina_Avizina Zinnas
-            Zoubliza Zourai Zourazi Zourdanos Zouroblost Zoutula Zyraxes 
+            Damanais Dapyx Dardanos Dardiolai Decaeneus Decebalus Dekibalos Dekinais Dekinsada Denzibalos Dezibalos Diapalai Dicomes Dida Diegis_Diegis Diengi_Diegis
+            Diengis_Diegis Dieri_Dieri Diernais_Dieri Diolizis Diourdanos Diourpa_Diurpaneus Diourpliz_Diurpaneus Ditoulai Diurpaneus_Diurpaneus Dotos_Dotos
+            Dotouzi_Dotos Dourpokis Drilgisa Dromichaetes Eithazi Eithias Eithiokalos Geithozi Ithiokalos Kaigiza Komakiza Komozoi Muca_Mucatra Mucatra_Mucatra
+            Naisoulai Nato Neisto Oroles Peti_Peto Peto_Peto Pouridour Rigozus Rolouzis Scorylo Sinna_Tsinna Thiadicem Thia_Thiamarkos Thiais_Thiamarkos
+            Thiamarkos_Thiamarkos Thiati_Thiamarkos Thouthoila Tia_Thiamarkos Tiati_Thiamarkos Tiatitis_Thiamarkos Tiato_Thiamarkos Titila_Thiamarkos Tsinna_Tsinna
+            Tsiru Vezina_Avizina Zinnas Zoubliza Zourai_Zourazi Zourazi_Zourazi Zourdanos Zouroblost Zoutula Zyraxes
         }
         female_names = {
-            Dokia Meda Rescuturme Zia Zina Arsinoe Bendidora Dentusykos Dokia Eptesykos Eurydike Makris Meda Mokasokos Reskuturme Romula Zia Zina
+            Arsinoe Bendidora Dentusykos Dokia Eptesykos Eurydike Makris Meda Mokasokos Reskuturme Romula Zia Zina
         }
         from_dynasty_prefix = "per "
-        male_patronym = "per " # from the "Decebalus per Scorillo" inscription (translated as "Decebalus, son of Scorilo")
-        prefix = yes
+        male_patronym = "per" # from the "Decebalus per Scorillo" inscription (translated as "Decebalus, son of Scorilo") and thracian suffix "por" = "son of"
+        prefix = no
 
         # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
         pat_grf_name_chance = 40
