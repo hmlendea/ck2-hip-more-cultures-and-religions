@@ -1,4 +1,9 @@
-pagan_group = {
+balkan_religious_group = {
+    color = { 0.45 0.29 0.15 }
+    graphical_culture = westerngfx
+    has_coa_on_barony_only = yes
+    playable = yes
+
     zamolxian_reformed = {
         graphical_culture = byzantinegfx
 
