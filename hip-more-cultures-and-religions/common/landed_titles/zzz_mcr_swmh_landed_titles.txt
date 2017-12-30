@@ -81,8 +81,12 @@ e_byzantium = {
                 thracian = "Dionysopolis" # This was a greek town, and this name is also actually greek
 
                 b_kaliakra = {
-                    dacian = "Tirizis" # thracian
+                    dacian = "Tirizis" # Thracian
                     thracian = "Tirizis"
+                }
+                b_varna = {
+                    dacian = "Odessos" # Greek
+                    thracian = "Odessos" # Greek
                 }
                 b_karvuna = {
                     dacian = "Dionysopolis" # This was a greek town, and this name is also actually greek
@@ -224,6 +228,14 @@ e_poland = {
             }
         }
     }
+    k_galicia = {
+        d_galich = {
+            c_terebovl = {
+                dacian = "Petridava" # Or "Klepidava"
+                thracian = "Petridava" # Dacian. Or "Klepidava"
+            }
+        }
+    }
 }
 e_carpathia = {
     k_wallachia = {
@@ -249,12 +261,19 @@ e_carpathia = {
                     dacian = "Targodava" # Made-up
                     thracian = "Targodava" # Dacian. Made-up
                 }
+                b_curteadearges = {
+                    dacian = "Ordessa" # Made-up. Based on "Ordessus", the ancient name of river Arges
+                    thracian = "Ordessa" # Made-up.
+                }
                 b_campulung = {
                     dacian = "Jidava"
                     thracian = "Jidava" # dacian
                 }
             }
             c_turnu = {
+                dacian = "Malva"
+                thracian = "Malva" # Dacian
+
                 b_bucuresti = {
                     asturian = "Bucarest"
                     corsican = "Bucarest"
@@ -266,9 +285,17 @@ e_carpathia = {
                     upper_sorbian = "Bukarest"
                     walloon = "Bucaresse"
                 }
+                b_slazialea = {
+                    dacian = "Malva" # Not historical. I have no idea what Slazialea is and where it is located, so I'm just gonna put Malva here
+                    thracian = "Malva" # Dacian
+                }
                 b_giurgiu = {
                     dacian = "Argedava" # Not Giurgiu itself, but nearby
                     thracian = "Argedava" # Not Giurgiu itself, but nearby. Also, it's dacian
+                }
+                b_turnu = {
+                    dacian = "Sucidava" # Not this one, but nearby
+                    thracian = "Sucidava"
                 }
             }
             c_ialomita = {
@@ -327,9 +354,16 @@ e_carpathia = {
             thracian = "Carpia" # Not historical. Based on the name of the tribe that used to inhabit the area (the Carpi)
 
             c_bacau = {
+                dacian = "Bonasson" # Made-up. Based on the thracian word for bull, "bonassos"
+                thracian = "Bonasson" # Made-up. Based on the thracian word for bull, "bonassos"
+
                 b_piatra_neamt = {
                     dacian = "Petrodava" # Or "Petrodaua"
                     thracian = "Petrodava" # Or "Petrodaua". Also, it's dacian
+                }
+                b_roman = {
+                    dacian = "Zargidava" # Not this one, but nearby
+                    thracian = "Zargidava" # Dacian
                 }
             }
         }
@@ -341,6 +375,10 @@ e_carpathia = {
                 dacian = "Kratadava" # Made-up. Krata = swamp, dava = settlement. Bârlad is thought to may be derived from the slavic word for swamp, birlo
                 thracian = "Kratadava" # Made-up. Dacian
 
+                b_adjud = {
+                    dacian = "Piroboridava" # Not this one, just nearby
+                    thracian = "Piroboridava" # Dacian
+                }
                 b_barladmoldavia = {
                     dacian = "Kratadava" # Made-up. Krata = swamp, dava = settlement. Bârlad is thought to may be derived from the slavic word for swamp, birlo
                     thracian = "Kratadava" # Made-up. Dacian
@@ -417,6 +455,9 @@ e_carpathia = {
         }
         d_transylvania = {
             c_szekelyfold = {
+                dacian = "Napoca"
+                thracian = "Napoca" # Dacian
+
                 b_kukullovar = {
                     dacian = "Napoca"
                     thracian = "Napoca" # Dacian
@@ -433,6 +474,10 @@ e_carpathia = {
                 b_maros = {
                     dacian = "Murisdava" # Made-up
                     thracian = "Murisdava" # Dacian. Made-up
+                }
+                b_vajdahunyadi = {
+                    dacian = "Zarmizegethoúsa" # Not here, just nearby
+                    thracian = "Zarmizegethoúsa" # Dacian
                 }
                 b_gyulafehervar = {
                     dacian = "Apoulon"
@@ -456,6 +501,10 @@ e_carpathia = {
                 dacian = "Porolissum"
                 thracian = "Porolissum" # Dacian
 
+                b_nagykaroly = {
+                    dacian = "Docidava" # Historical? The location of Docidava is very debated, so it might not be here
+                    thracian = "Docidava" # Thracian
+                }
                 b_zilah = {
                     daican = "Porolissum"
                     thracian = "Porolissum" # Dacian
@@ -470,6 +519,15 @@ e_carpathia = {
 }
 e_null = {
     k_taurica = {
+        d_zaporizhia = {
+            dacian = "Ister"
+            thracian = "Ister"
+
+            c_lower_dniepr = {
+                dacian = "Ister"
+                thracian = "Ister"
+            }
+        }
         d_podolia = {
             c_olvia = {
                 b_odessa = {
