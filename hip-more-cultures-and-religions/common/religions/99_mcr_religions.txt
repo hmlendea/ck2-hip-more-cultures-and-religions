@@ -25,8 +25,8 @@ balkan_religious_group = {
 
         defensive_attrition = yes
 
-        religious_clothing_head = 3
-        religious_clothing_priest = 3
+        religious_clothing_head = 6
+        religious_clothing_priest = 11
 
         allow_in_ruler_designer = no
 
@@ -57,8 +57,8 @@ balkan_religious_group = {
 
         defensive_attrition = yes
 
-        religious_clothing_head = 3
-        religious_clothing_priest = 3
+        religious_clothing_head = 6
+        religious_clothing_priest = 11
 
         allow_in_ruler_designer = yes
 
