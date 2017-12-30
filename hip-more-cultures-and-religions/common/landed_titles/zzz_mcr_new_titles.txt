@@ -1,6 +1,15 @@
 e_thrace = {
     color = { 90 230 230 }
     color2 = { 80 220 220 }
+    allow = {
+        title_king_basic_allow = yes
+        hidden_tooltip = {
+            AND = {
+                culture_group = thracian_group
+                NOT = { has_landed_title = e_carpathia }
+            }
+        }
+    }
 
     bohemian = "Thrákie"
     bulgarian = "Trakija"
@@ -29,33 +38,17 @@ e_thrace = {
     turkish = "Trakya"
     turkmen = "Trakya"
 
-    allow = {
-        title_king_basic_allow = yes
-        hidden_tooltip = {
-            AND = {
-                culture_group = thracian_group
-                OR = {
-                    ai = no
-                    NOT = { has_landed_title = e_carpathia }
-                }
-            }
-        }
-    }
-
     k_mcr_dacia = {
         color = { 115 75 40 }
         color2 = { 105 65 30 }
         culture = dacian
-        capital = 519
+        capital = 519 # Fehér
         allow = {
             title_king_basic_allow = yes
             hidden_tooltip = {
                 AND = {
                     culture_group = thracian_group
-                    OR = {
-                        ai = no
-                        NOT = { has_landed_title = k_wallachia }
-                    }
+                    NOT = { has_landed_title = k_wallachia }
                 }
             }
         }
@@ -64,17 +57,13 @@ e_thrace = {
         color = { 115 195 195 }
         color2 = { 105 185 185 }
         culture = thracian
-        capital = 519
-
+        capital = 494 # Adrianopol
         allow = {
             title_king_basic_allow = yes
             hidden_tooltip = {
                 AND = {
                     culture_group = thracian_group
-                    OR = {
-                        ai = no
-                        NOT = { has_landed_title = k_bulgaria }
-                    }
+                    NOT = { has_landed_title = k_bulgaria }
                 }
             }
         }

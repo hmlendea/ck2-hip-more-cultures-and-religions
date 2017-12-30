@@ -17,8 +17,6 @@ e_byzantium = {
         }
     }
     k_bulgaria = {
-        dacian = "Odrysia"
-
         d_turnovo = {
             dacian = "Moesia" # Or "Zikideva"
             thracian = "Moesia" # Or "Zikideva"
@@ -219,8 +217,6 @@ e_poland = {
 }
 e_carpathia = {
     k_wallachia = {
-        dacian = "Dacia"
-
         d_wallachia = {
             dacian = "Dacia"
             thracian = "Dacia"
