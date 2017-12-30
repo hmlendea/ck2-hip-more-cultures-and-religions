@@ -96,3 +96,31 @@ e_thrace = {
         turkmen = "Trakya"
     }
 }
+d_carpi = { # Karpates
+	color = { 206 17 38 }
+	color2 = { 255 255 255 }
+	culture = dacian
+	#tribe = yes
+	capital = 1146 # Iasi
+    allow = {
+        title_duke_basic_allow = yes
+        hidden_tooltip = {
+            culture_group = thracian_group
+        }
+    }
+
+    roman = "Carpi"
+}
+d_apuli = { # Apuli
+    color = { 245 62 62 }
+	color2 = { 255 255 255 }
+	culture = dacian
+	#tribe = yes
+	capital = 519 # Fehér
+    allow = {
+        title_duke_basic_allow = yes
+        hidden_tooltip = {
+            culture_group = thracian_group
+        }
+    }
+}
