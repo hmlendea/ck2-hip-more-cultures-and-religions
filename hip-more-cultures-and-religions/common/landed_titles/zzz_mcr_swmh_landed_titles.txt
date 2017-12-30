@@ -17,6 +17,16 @@ e_byzantium = {
         }
     }
     k_bulgaria = {
+        allow = {
+            title_king_basic_allow = yes
+            hidden_tooltip = {
+                AND = {
+                    NOT = { culture_group = thracian_group }
+                    NOT = { has_landed_title = k_thrace }
+                }
+            }
+        }
+
         d_turnovo = {
             dacian = "Moesia" # Or "Zikideva"
             thracian = "Moesia" # Or "Zikideva"
@@ -217,6 +227,16 @@ e_poland = {
 }
 e_carpathia = {
     k_wallachia = {
+        allow = {
+            title_king_basic_allow = yes
+            hidden_tooltip = {
+                AND = {
+                    NOT = { culture_group = thracian_group }
+                    NOT = { has_landed_title = k_mcr_dacia }
+                }
+            }
+        }
+
         d_wallachia = {
             dacian = "Dacia"
             thracian = "Dacia"
@@ -276,6 +296,16 @@ e_carpathia = {
         }
     }
     k_moldau = {
+        allow = {
+            title_king_basic_allow = yes
+            hidden_tooltip = {
+                AND = {
+                    NOT = { culture_group = thracian_group }
+                    NOT = { has_landed_title = k_mcr_dacia }
+                }
+            }
+        }
+
         dacian = "Moldava" # Not historical? Dacianised version of "Moldova"
 
         d_moldau = {
