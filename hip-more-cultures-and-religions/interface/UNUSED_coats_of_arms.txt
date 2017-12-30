@@ -1,0 +1,104 @@
+culture =
+{
+    religion = {
+        "zamolxian"
+    }
+
+    templates = { 
+        "coa_plain_pagan:1"
+    }
+
+    color = {
+        { 250 190 0 }   # 0 #FCD116 Chrome Yellow
+        { 230 230 230 } # 1 #E6E6E6 Argent
+        { 0 43 127 }    # 2 #002B7F Cobalt Blue
+        { 206 17 38 }   # 3 #CE1126 Vermilion Red
+        { 115 75 40 }   # 4 #734B28 Dacian Brown
+        { 115 195 195 } # 5 #73C3C3 Thracian Cyan
+        { 20 110 20 }   # 6 #146E14 Sinople
+        { 20 20 20 }    # 7 #141414 Sable
+        { 120 5 120 }   # 8 #780578 Pourpre
+    }
+
+    rebel_colors = { 0 1 3 }
+
+    banned_colors =
+    {
+        { 3 4 }
+    }
+
+    emblem = {
+        file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+        noOfFrames = 1
+    }
+
+    # WHEN ADDING NEW, ALWAYS ADD AT THE END
+    textures = {
+        texture = {
+            file = "gfx\\coats_of_arms\\balkan_zamolxian.tga"
+            size = { x = 7 y = 1 }
+            noOfFrames = 7
+            color = 2
+            emblem = no
+        }
+        texture = {
+            file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+            size = { x = 10 y = 2 }
+            noOfFrames = 20
+            color = 3
+            emblem = no
+        }
+    }
+}
+culture =
+{
+    religion = {
+        "zamolxian_reformed"
+    }
+
+    templates = { 
+        "coa_plain_pagan_reformed:1"
+    }
+
+    color = {
+        { 250 190 0 }   # 0 #FCD116 Chrome Yellow
+        { 230 230 230 } # 1 #E6E6E6 Argent
+        { 0 43 127 }    # 2 #002B7F Cobalt Blue
+        { 206 17 38 }   # 3 #CE1126 Vermilion Red
+        { 115 75 40 }   # 4 #734B28 Dacian Brown
+        { 115 195 195 } # 5 #73C3C3 Thracian Cyan
+        { 20 110 20 }   # 6 #146E14 Sinople
+        { 20 20 20 }    # 7 #141414 Sable
+        { 120 5 120 }   # 8 #780578 Pourpre
+    }
+
+    rebel_colors = { 0 1 3 }
+
+    banned_colors =
+    {
+        { 3 4 }
+    }
+
+    emblem = {
+        file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+        noOfFrames = 1
+    }
+
+    # WHEN ADDING NEW, ALWAYS ADD AT THE END
+    textures = {
+        texture = {
+            file = "gfx\\coats_of_arms\\balkan_zamolxian.tga"
+            size = { x = 7 y = 1 }
+            noOfFrames = 7
+            color = 2
+            emblem = no
+        }
+        texture = {
+            file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+            size = { x = 10 y = 2 }
+            noOfFrames = 20
+            color = 3
+            emblem = no
+        }
+    }
+}
