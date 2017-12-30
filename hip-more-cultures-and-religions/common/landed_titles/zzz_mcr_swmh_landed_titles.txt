@@ -242,6 +242,13 @@ e_carpathia = {
             thracian = "Dacia"
 
             c_tirgoviste = {
+                dacian = "Targodava" # Made-up
+                thracian = "Targodava" # Dacian. Made-up
+
+                b_targoviste = {
+                    dacian = "Targodava" # Made-up
+                    thracian = "Targodava" # Dacian. Made-up
+                }
                 b_campulung = {
                     dacian = "Jidava"
                     thracian = "Jidava" # dacian
@@ -288,9 +295,16 @@ e_carpathia = {
                 }
             }
             c_targujiu = {
+                dacian = "Rabodava" # Made-up
+                thracian = "Rabodava" Dacian. Made-up
+
                 b_ramnicu_valcea = {
                     dacian = "Buridava"
                     thracian = "Buridava" # Dacian
+                }
+                b_targujiu = {
+                    dacian = "Rabodava" # Made-up
+                    thracian = "Rabodava" Dacian. Made-up
                 }
             }
         }
@@ -323,7 +337,19 @@ e_carpathia = {
             dacian = "Bastarnae" # Not historical. Based on the name of the tribe that used to inhabit the area (the Bastarnae)
             thracian = "Bastarnae" # Not historical. Based on the name of the tribe that used to inhabit the area (the Bastarnae)
 
+            c_birlad = {
+                dacian = "Kratadava" # Made-up. Krata = swamp, dava = settlement. Bârlad is thought to may be derived from the slavic word for swamp, birlo
+                thracian = "Kratadava" # Made-up. Dacian
+
+                b_barladmoldavia = {
+                    dacian = "Kratadava" # Made-up. Krata = swamp, dava = settlement. Bârlad is thought to may be derived from the slavic word for swamp, birlo
+                    thracian = "Kratadava" # Made-up. Dacian
+                }
+            }
             c_galaz = {
+                dacian = "Bessa" # Made-up. Named after the tribe of Bessi which the name Bessarabia is supposed to (maybe) be derived from
+                thracian = "Bessa" # Made-up
+
                 b_oblucita = {
                     dacian = "Genucla" # *Might* be just a nearby settlement
                     thracian = "Genucla" # *Might* be just a nearby settlement. Also, it's dacian
@@ -356,6 +382,38 @@ e_carpathia = {
                     thracian = "Ziridava" # Or "Ziridaua". Also, it's dacian
                 }
             }
+            c_krasso = {
+                dacian = "Dierna" # Latin
+                thracian = "Dierna" # Latin
+
+                b_orsova = {
+                    dacian = "Dierna" # Latin
+                    thracian = "Dierna" # Latin
+                }
+            }
+            c_temes = {
+                dacian = "Teyss" # Made-up (?) name of the river with the same name
+                thracian = "Teyss" # Made-up (?) name of the river with the same name
+
+                b_temesvar = {
+                    dacian = "Teyssdava" # Made-up (?) name of the river with the same name
+                    thracian = "Teyssdava" # Made-up (?) name of the river with the same name
+                }
+            }
+        }
+        d_pest = {
+            dacian = "Biharea" # May be daco-thracian
+            thracian = "Biharea" # May be daco-thracian
+
+            c_bihar = {
+                dacian = "Biharea" # May be daco-thracian
+                thracian = "Biharea" # May be daco-thracian
+
+                b_bihar = {
+                    dacian = "Biharea" # May be daco-thracian
+                    thracian = "Biharea" # May be daco-thracian
+                }
+            }
         }
         d_transylvania = {
             c_szekelyfold = {
@@ -372,21 +430,51 @@ e_carpathia = {
                 dacian = "Apoulon"
                 thracian = "Apoulon" # Dacian
 
+                b_maros = {
+                    dacian = "Murisdava" # Made-up
+                    thracian = "Murisdava" # Dacian. Made-up
+                }
                 b_gyulafehervar = {
                     dacian = "Apoulon"
                     thracian = "Apoulon" # Dacian
                 }
             }
             c_burzenland = {
+                dacian = "Barsadina" # Made-up. Barsa ?= bârsã (?) and dina = land/region
+                thracian = "Barsadina" # Dacian. Made-up
+
                 b_torcsvar = {
                     dacian = "Cumidava" # Not the same, just nearby
                     thracian = "Cumidava" # Not the same, just nearby. Also, it's dacian
                 }
+                b_feketehalom = {
+                    dacian = "Axiodava" # Made-up. Axio = black, dava = fortified settlement (castle in this case?)
+                    thracian = "Axiodava" # Dacian. Made-up
+                }
             }
             c_marmaros = {
+                dacian = "Porolissum"
+                thracian = "Porolissum" # Dacian
+
                 b_zilah = {
                     daican = "Porolissum"
                     thracian = "Porolissum" # Dacian
+                }
+                b_szatmarvar = {
+                    dacian = "Merdava" # Made-up. Mer in thracian = large/big, dava = settlement/village; => Large Village = Satu Mare / Satmar
+                    thracian = "Merdava" # Made-up. Dacian
+                }
+            }
+        }
+    }
+}
+e_null = {
+    k_taurica = {
+        d_podolia = {
+            c_olvia = {
+                b_odessa = {
+                    dacian = "Tyras" # Greek
+                    thracian = "Tyras" # Greek
                 }
             }
         }
