@@ -41,7 +41,7 @@ celtic = {
 }
 
 thracian_group = {
-    graphical_cultures = { germangfx }
+    graphical_cultures = { byzantinegfx }
 
     thracian = {
         graphical_culture = { byzantinegfx }
@@ -75,7 +75,7 @@ thracian_group = {
     }
 
     dacian = {
-        graphical_cultures = { germangfx }
+        graphical_cultures = { byzantinegfx }
         color = { 0.45 0.29 0.15 }
         male_names = {﻿
             Aptasa Avizina_Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso_Cotiso Dablosa Dadas Dadazi Daidour Daizus

@@ -1,6 +1,6 @@
 pagan_group = {
     zamolxian_reformed = {
-        graphical_culture = germangfx
+        graphical_culture = byzantinegfx
 
         icon = 5
 
@@ -32,7 +32,7 @@ pagan_group = {
         intermarry = christian
     }
     zamolxian = {
-        graphical_culture = germangfx
+        graphical_culture = byzantinegfx
 
         icon = 5
 
