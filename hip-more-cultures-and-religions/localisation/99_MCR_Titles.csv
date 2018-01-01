@@ -33,9 +33,14 @@ county_of_dacian;Dina;;;;;;;;;;;;;x
 county_dacian;Dina;;;;;;;;;;;;;x
 county_of_thracian;Gava;;;;;;;;;;;;;x # Meaning: Place, countryside
 county_thracian;Gava;;;;;;;;;;;;;x # Meaning: Place, countryside
+### FEUDAL (Duchy)
+duchy_of_dacian;Tauta;;;;;;;;;;;;;x
+duchy_dacian;Tauta;;;;;;;;;;;;;x
+duchy_of_thracian;Tauta;;;;;;;;;;;;;x
+duchy_thracian;Tauta;;;;;;;;;;;;;x
 ### FEUDAL (Kingdom)
-kingdom_of_dacian;Tauta;;;;;;;;;;;;;x
-kingdom_dacian;Tauta;;;;;;;;;;;;;x
+kingdom_of_dacian;Rezodon;;;;;;;;;;;;;x
+kingdom_dacian;Rezodon;;;;;;;;;;;;;x
 kingdom_of_thracian;Rezodon;;;;;;;;;;;;;x
 kingdom_thracian;Rezodon;;;;;;;;;;;;;x
 ### CITY (Barony)
@@ -53,9 +58,14 @@ tribal_county_of_dacian;Dina;;;;;;;;;;;;;x
 tribal_county_dacian;Dina;;;;;;;;;;;;;x
 tribal_county_of_thracian;Dina;;;;;;;;;;;;;x
 tribal_county_thracian;Dina;;;;;;;;;;;;;x
+### TRIBAL (Duchy)
+tribal_duchy_of_dacian;Tauta;;;;;;;;;;;;;x
+tribal_duchy_dacian;Tauta;;;;;;;;;;;;;x
+tribal_duchy_of_thracian;Tauta;;;;;;;;;;;;;x
+tribal_duchy_thracian;Tauta;;;;;;;;;;;;;x
 ### TRIBAL (Kingdom)
-tribal_kingdom_of_dacian;Tauta;;;;;;;;;;;;;x
-tribal_kingdom_dacian;Tauta;;;;;;;;;;;;;x
+tribal_kingdom_of_dacian;Rezodon;;;;;;;;;;;;;x
+tribal_kingdom_dacian;Rezodon;;;;;;;;;;;;;x
 tribal_kingdom_of_thracian;Rezodon;;;;;;;;;;;;;x
 tribal_kingdom_thracian;Rezodon;;;;;;;;;;;;;x
 
