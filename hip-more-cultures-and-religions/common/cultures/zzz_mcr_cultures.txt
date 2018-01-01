@@ -44,7 +44,7 @@ thracian_group = {
     graphical_cultures = { byzantinegfx }
 
     thracian = {
-        graphical_culture = { byzantinegfx }
+        graphical_cultures = { byzantinegfx }
         color = { 0.45 0.76 0.76 }
         male_names = {
             Abrupolis Adaeus Adaios Amadocus Amatokos_Metokos Beithys_Byzas Berisades Biz_Byzas Byses_Byzas Byzas_Byzas Cersobleptes Cetri Cotys_Cotiso Dentupes
@@ -54,11 +54,10 @@ thracian_group = {
         }
         female_names = {
             Aidezyres Benzeis Bidia Blosta_Blostis Blostis_Blostis Cosingis Dentusykos Eptesuchis Maisira Mania Meda Mokasokos Reptatercos
-
         }
         from_dynasty_prefix = "por "
-        male_patronym = "por"
-        prefix = no
+        male_patronym = "por " # from the "Decebalus per Scorillo" inscription (translated as "Decebalus, son of Scorilo") and thracian suffix "por" = "son of"
+        prefix = yes
 
         # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
         pat_grf_name_chance = 40
@@ -76,7 +75,7 @@ thracian_group = {
     dacian = {
         graphical_cultures = { byzantinegfx }
         color = { 0.45 0.29 0.15 }
-        male_names = {﻿
+        male_names = {
             Aptasa Avizina_Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso_Cotiso Dablosa Dadas Dadazi Daidour Daizus
             Damanais Dapyx Dardanos Dardiolai Decaeneus Decebalus Dekibalos Dekinais Dekinsada Denzibalos Dezibalos Diapalai Dicomes Dida Diegis_Diegis Diengi_Diegis
             Diengis_Diegis Dieri_Dieri Diernais_Dieri Diolizis Diourdanos Diourpa_Diurpaneus Diourpliz_Diurpaneus Ditoulai Diurpaneus_Diurpaneus Dotos_Dotos
@@ -89,8 +88,8 @@ thracian_group = {
             Arsinoe Bendidora Dentusykos Dokia Eptesykos Eurydike Makris Meda Mokasokos Reskuturme Romula Zia Zina
         }
         from_dynasty_prefix = "per "
-        male_patronym = "per" # from the "Decebalus per Scorillo" inscription (translated as "Decebalus, son of Scorilo") and thracian suffix "por" = "son of"
-        prefix = no
+        male_patronym = "per " # from the "Decebalus per Scorillo" inscription (translated as "Decebalus, son of Scorilo") and thracian suffix "por" = "son of"
+        prefix = yes
 
         # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
         pat_grf_name_chance = 40
