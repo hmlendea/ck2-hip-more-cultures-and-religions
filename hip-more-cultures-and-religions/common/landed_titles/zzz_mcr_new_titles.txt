@@ -42,7 +42,7 @@ e_thrace = {
         color = { 115 75 40 }
         color2 = { 105 65 30 }
         culture = dacian
-        capital = 519 # Fehér
+        capital = 519 # c_feher
         allow = {
             title_king_basic_allow = yes
             hidden_tooltip = {
@@ -96,7 +96,7 @@ e_thrace = {
         turkmen = "Trakya"
     }
 }
-d_carpi = { # Karpates
+d_carpi = { # Karpatoi
 	color = { 206 17 38 }
 	color2 = { 255 255 255 }
 	culture = dacian
@@ -109,9 +109,10 @@ d_carpi = { # Karpates
         }
     }
 
+    greek = "Karpates"
     roman = "Carpi"
 }
-d_apuli = { # Apuli
+d_apuli = { # Apouloi
     color = { 245 62 62 }
 	color2 = { 255 255 255 }
 	culture = dacian
@@ -123,4 +124,6 @@ d_apuli = { # Apuli
             culture_group = thracian_group
         }
     }
+
+    roman = "Apuli"
 }

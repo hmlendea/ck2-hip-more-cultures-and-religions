@@ -19,7 +19,7 @@
     culture = dacian
 }
 1018730003 = {
-    name = "Apuli"
+    name = "Apouloi" # Tribe of Apuli
     culture = dacian
 }
 1018730004 = {
@@ -39,7 +39,7 @@
     culture = dacian
 }
 1018730008 = {
-    name = "Karpates" # Tribe of Carpi
+    name = "Karpatoi" # Tribe of Carpi
     culture = dacian
 }
 1018730009 = {
