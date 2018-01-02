@@ -1,0 +1,407 @@
+######################################
+# Ellen dynasties
+######################################
+#
+######################################
+# Range 1018730300-1018730399
+######################################
+1018730300 = {
+    name = "Abantes"
+    culture = old_greek
+}
+1018730301 = {
+    name = "Agiades"
+    culture = old_greek
+}
+1018730302 = {
+    name = "Aiakides"
+    culture = old_greek
+}
+1018730303 = {
+    name = "Aithikes"
+    culture = old_greek
+}
+1018730304 = {
+    name = "Aixonios"
+    culture = old_greek
+}
+1018730305 = {
+    name = "Akraleston"
+    culture = old_greek
+}
+1018730306 = {
+    name = "Amantes"
+    culture = old_greek
+}
+1018730307 = {
+    name = "Amantieus"
+    culture = old_greek
+}
+1018730308 = {
+    name = "Karpatoi"
+    culture = old_greek
+}
+1018730309 = {
+    name = "Amphilochos"
+    culture = old_greek
+}
+1018730310 = {
+    name = "Amumonos"
+    culture = old_greek
+}
+1018730311 = {
+    name = "Antigoneus"
+    culture = old_greek
+}
+1018730312 = {
+    name = "Arbaios"
+    culture = old_greek
+}
+1018730313 = {
+    name = "Argeios"
+    culture = old_greek
+}
+1018730314 = {
+    name = "Argethiaios"
+    culture = old_greek
+}
+1018730315 = {
+    name = "Argethies"
+    culture = old_greek
+}
+1018730316 = {
+    name = "Arktan"
+    culture = old_greek
+}
+1018730317 = {
+    name = "Artichiaios"
+    culture = old_greek
+}
+1018730318 = {
+    name = "Athamanes"
+    culture = old_greek
+}
+1018730319 = {
+    name = "Atherionios"
+    culture = old_greek
+}
+1018730320 = {
+    name = "Atintan"
+    culture = old_greek
+}
+1018730321 = {
+    name = "Aulonites"
+    culture = old_greek
+}
+1018730322 = {
+    name = "Berenikeus"
+    culture = old_greek
+}
+1018730323 = {
+    name = "Bolourios"
+    culture = old_greek
+}
+1018730324 = {
+    name = "Bouchetios"
+    culture = old_greek
+}
+1018730325 = {
+    name = "Bounimaios"
+    culture = old_greek
+}
+1018730326 = {
+    name = "Bouthrotios"
+    culture = old_greek
+}
+1018730327 = {
+    name = "Bruanios"
+    culture = old_greek
+}
+1018730328 = {
+    name = "Byllideus"
+    culture = old_greek
+}
+1018730329 = {
+    name = "Byllion"
+    culture = old_greek
+}
+1018730330 = {
+    name = "Chalkideus"
+    culture = old_greek
+}
+1018730331 = {
+    name = "Charadros"
+    culture = old_greek
+}
+1018730332 = {
+    name = "Cheimerieus"
+    culture = old_greek
+}
+1018730333 = {
+    name = "Chimolios"
+    culture = old_greek
+}
+1018730334 = {
+    name = "Dexamenaios"
+    culture = old_greek
+}
+1018730335 = {
+    name = "Dodonaios"
+    culture = old_greek
+}
+1018730336 = {
+    name = "Doesstos"
+    culture = old_greek
+}
+1018730337 = {
+    name = "Donettinos"
+    culture = old_greek
+}
+1018730338 = {
+    name = "Drytes"
+    culture = old_greek
+}
+1018730339 = {
+    name = "Edonesates"
+    culture = old_greek
+}
+1018730340 = {
+    name = "Elaiousios"
+    culture = old_greek
+}
+1018730341 = {
+    name = "Elatrieus"
+    culture = old_greek
+}
+1018730342 = {
+    name = "Eleaios"
+    culture = old_greek
+}
+1018730343 = {
+    name = "Ephurios"
+    culture = old_greek
+}
+1018730344 = {
+    name = "Eriboikos"
+    culture = old_greek
+}
+1018730345 = {
+    name = "Ethnestes"
+    culture = old_greek
+}
+1018730346 = {
+    name = "Euboikos"
+    culture = old_greek
+}
+1018730347 = {
+    name = "Euroikos"
+    culture = old_greek
+}
+1018730348 = {
+    name = "Europios"
+    culture = old_greek
+}
+1018730349 = {
+    name = "Gargareus"
+    culture = old_greek
+}
+1018730350 = {
+    name = "Genuaios"
+    culture = old_greek
+}
+1018730351 = {
+    name = "Gitanaios"
+    culture = old_greek
+}
+1018730352 = {
+    name = "Hekatompedonios"
+    culture = old_greek
+}
+1018730353 = {
+    name = "Helinaios"
+    culture = old_greek
+}
+1018730354 = {
+    name = "Hoplainos"
+    culture = old_greek
+}
+1018730355 = {
+    name = "Horiatas"
+    culture = old_greek
+}
+1018730356 = {
+    name = "Horreonios"
+    culture = old_greek
+}
+1018730357 = {
+    name = "Hynchestos"
+    culture = old_greek
+}
+1018730358 = {
+    name = "Ideonos"
+    culture = old_greek
+}
+1018730359 = {
+    name = "Iliakos"
+    culture = old_greek
+}
+1018730360 = {
+    name = "Kalyratos"
+    culture = old_greek
+}
+1018730361 = {
+    name = "Kammanos"
+    culture = old_greek
+}
+1018730362 = {
+    name = "Kareiaios"
+    culture = old_greek
+}
+1018730363 = {
+    name = "Kariopos"
+    culture = old_greek
+}
+1018730364 = {
+    name = "Kartatos"
+    culture = old_greek
+}
+1018730365 = {
+    name = "Kartonos"
+    culture = old_greek
+}
+1018730366 = {
+    name = "Kassandreus"
+    culture = old_greek
+}
+1018730367 = {
+    name = "Kassopios"
+    culture = old_greek
+}
+1018730368 = {
+    name = "Kastideus"
+    culture = old_greek
+}
+1018730369 = {
+    name = "Kathraios"
+    culture = old_greek
+}
+1018730370 = {
+    name = "Kelaithos"
+    culture = old_greek
+}
+1018730371 = {
+    name = "Kelkaionios"
+    culture = old_greek
+}
+1018730372 = {
+    name = "Kemaraios"
+    culture = old_greek
+}
+1018730373 = {
+    name = "Kestrideus"
+    culture = old_greek
+}
+1018730374 = {
+    name = "Kestrinos"
+    culture = old_greek
+}
+1018730375 = {
+    name = "Kichyrikos"
+    culture = old_greek
+}
+1018730376 = {
+    name = "Klathiatos"
+    culture = old_greek
+}
+1018730377 = {
+    name = "Koilopos"
+    culture = old_greek
+}
+1018730378 = {
+    name = "Komarios"
+    culture = old_greek
+}
+1018730379 = {
+    name = "Kossikos"
+    culture = old_greek
+}
+1018730380 = {
+    name = "Kotaios"
+    culture = old_greek
+}
+1018730381 = {
+    name = "Kotylaios"
+    culture = old_greek
+}
+1018730382 = {
+    name = "Kraneiates"
+    culture = old_greek
+}
+1018730383 = {
+    name = "Kranonios"
+    culture = old_greek
+}
+1018730384 = {
+    name = "Kropios"
+    culture = old_greek
+}
+1018730385 = {
+    name = "Kuestos"
+    culture = old_greek
+}
+1018730386 = {
+    name = "Lakmonios"
+    culture = old_greek
+}
+1018730387 = {
+    name = "Larisaios"
+    culture = old_greek
+}
+1018730388 = {
+    name = "Larruos"
+    culture = old_greek
+}
+1018730389 = {
+    name = "Maiandriaios"
+    culture = old_greek
+}
+1018730390 = {
+    name = "Megarikos"
+    culture = old_greek
+}
+1018730391 = {
+    name = "Messaneos"
+    culture = old_greek
+}
+1018730392 = {
+    name = "Molosseios"
+    culture = old_greek
+}
+1018730393 = {
+    name = "Naipaios"
+    culture = old_greek
+}
+1018730394 = {
+    name = "Omphales"
+    culture = old_greek
+}
+1018730395 = {
+    name = "Orikios"
+    culture = old_greek
+}
+1018730396 = {
+    name = "Paralios"
+    culture = old_greek
+}
+1018730397 = {
+    name = "Sybotios"
+    culture = old_greek
+}
+1018730398 = {
+    name = "Torydaios"
+    culture = old_greek
+}
+1018730399 = {
+    name = "Zmarathaios"
+    culture = old_greek
+}
