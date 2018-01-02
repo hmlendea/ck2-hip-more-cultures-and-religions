@@ -1,7 +1,69 @@
+byzantine = {
+    old_greek = {
+        graphical_cultures = { byzantinegfx }
+        color = { 0.85 0.23 0.23 }
+
+        male_names = {
+            Achilleus Adamatas Admatos Admetos Aeropos Agapetos Agathidas_Agathonikos Ageas Agelaios Agelaos Agilaios Aiakides Aigestes Ailianos Ainetos Airopos
+            Aischrion Albidios Alexandros_Alexander Alexanor Alexikrates Aleximachos Alkaios Alkemachos Alketas Alkias Alkimos Alkon Alypos_Alypios Ambrax Amitios
+            Ammias Amymnos Amynandros Amynas Amyntas Anaxandros Androkadas Androkleides Androkleion Androkos Andromachos Andromenes Andron Andronikos_Andronicus
+            Anereas Anereias Aneroitas Angelos Anikatos Antandros Antanor Antarchos Antibolos Antigonos Antikras Antimachos Antinoos Antinous Antiochos Antipatros
+            Antiphas Aornon Apeiros Aphrodisios Apollodoros Apolonios Appoitas Archadas Archeias Archelaos Archiadas Archias Archinnys Aretaphilos Argeades Argos
+            Aristarchos Aristides Aristion Aristodamos Aristokrates Aristolas Aristomachos Aristomenes Ariston Aristos Aristotimos Armenos Arropos Artamitios
+            Artemidoros Arybbas Aruptaios Asandros Aspetos Aspimmas Atiochos Attalos Attidas Axiochos Balakros Bardyllis_Bardas Barianos Bios Blastos Boiskos
+            Bouchetios Bouchetos Chabrias Chaireias Chaonikos Charikles Charopidas Charops Chaunos Chlidanon Damas Damis Damoitas Damonikos Damophilos Damosthenes
+            Deinarchos Deinon Demetrios_Demetrius Demophilos Derdas Derkas Dexamenos Dexandros Dexilaos Dikaios Dikakrates Diodoros Diokles Dionysios_Dionysus
+            Diozotos Dmokritos Dokimos Dorieus Dorilaos Doropsos Draipos Droatas Echelaos Echemenes Echenikos Eioneus Epandros Epimenes Epinikos Erchelaos Ethnestes
+            Eualkos Eucharon Eucheiros Euchon Eudamos Eudikos Eudymas Euegoros Eukleidas Eumedes Eunostidas Eunous Euphranor_Euphranor Euphrasnor_Euphranor
+            Eurylochos Eurynous Eustratos_Eustratios Euthymidas_Euthymios Eutyches Galaithos Gallithos Geiton Gelon Gennadas Genuos Glauketas Glaukias Glaukos
+            Gorgias Gyras Hagasidamos Hagemachos Hagesias Harmodios Heiros Hektor Helenos Herakleias_Heracles Herakleitos_Heracles Herakleon_Heracles
+            Hermokrates Herodoros Hieron Hipparchos Hippias Hippokrates Horaikidas Hymenios Iason Iounios Ischron Kallias Kallidromos Kallikles Kallikrates
+            Kallistratos Kallon Kamandros Kanopos Kartomos Kastellanos Katomachos Katonikos Kephalinos Kephalos Kestrinos Kineas Klaudios Klearchos Kleoboulos
+            Kleomachos Kleon Kleonymos Kleophanes Kleoptolemos Korithos Korradas Korragos Kourtios Krainys Krater Krateraios Kratillos Kreskention Kyniskos Lagoros
+            Lakmos Lamios Lamiskos Laphyrgas Leandros Leokrates Leon Leonikos Leonteus_Leontius Leontios_Leontius Leontis_Leontius Leontiskos_Leontius Leukaros
+            Leukios Louparion Loupos Lykiskos Lykkaortas Lykomedes Lykophron Lykopos Lykos Lykotas Lysanias Lysen Lysias Lysimachos Lysippos Lyson Machatas Mallios
+            Megakles Menandros Menecharmos Menedemos Menelaos Menemos Menephylos Menestas Menoitias Milon Mnasilaidas Mnasippos Monounios Mytilos Myrton Mystron
+            Neandros Neikandros Neikodamos Neoptolemos Nesstor Nikadas Nikaios Nikandros Nikanor Nikanos Nikarchos Nikasilas Nikias Nikodamos Nikokrates Nikolaos
+            Nikomachos Nikosthenes Nikostratos Nisos Onasimos Orestes Oroidos Oulamos Oxouchares Pamphilos Pandaros Panphilos Pantaleon Parmenion Parmeniskos
+            Paroditas Pasion Patron Pausanias Pauson Peiandros Peleichinas Peleon Pergamos Petoas Phalakrion Pheidolaos Phelix_Felix Pherenikos Philandros
+            Philiarchos Philippos Philiskos Philisstes Philistion Phillios Philokles Philomedos Philon Philonidas Philonikos Philostratos Philoxenos Phinakos
+            Phintias Phinton Phlabios Phormiskos Photuos Phronesis Phylas
+            Piales Pialos Plator Poionos Politarchas Polyanon Polyanthes Polykleas Polynikes Polypeithes Ponponios Poplios Poublios Pragissos Prax Proxenos Ptolemaios
+            Pyrrhos Pyrrichos Pystakos Rhobrios Rhodippos Rhouphos Sabon Sabyron Samon Saotas Sateles Satyros Schidas Seambys Seimias Seleukos Silanos Silbanos
+            Simakos Simias Skepas Skopaios Skymnos Skythos Sodamos Sokleion Sokrates Sopatros Sophokleos Sosandros Sosibios Sosistratos Sospis Sostratos Sostrion
+            Sotas Soterichos Sotimos Sotion Soton Stephanos Stomios Straton Suaitas Tauriskos Teimaios Teimas Teisandros Tekmon Teledas Tellys Temmandros Termon
+            Teukros Tharypas Theodoros Theodotos Theopompos Theudotos Thoinos Thrason Thrasymachos Timagoras Timodamos Timogenes Timokrates Titos_Titus Tomaros
+            Xanthippos Xenarchos Xenoklaos Xenolaos Xenon Xenys Zenon Zoilos Zopyros Zopuros
+        }
+        female_names = {
+            Ambrakia Andromache Annaia Antigone Aphrodisia Aristonika Beroa Beronike Birkenna Chryse Damnagora Danae Deidameia Edonia Epaphra Euippe Eurydike Glaukon
+            Halikea Harmonoa Herine Hesychia Kadmeia Kallidike Karmonne Klaudia Kleopatra Kornelia Laeta Lamiska Lanassa Laodameia Laodike Lyka Lysidika Matydika
+            Melitea Memmia Mnasareta Neikodika Neopatra Nereis Nikaia Nikandre Nikopolis Olympias Ouergilia Pamphila Panphile Paula_Paula Pelousia Pheidyla Pheonika
+            Philia Philotera Philotis Photike Phthia Pirepta Plaetoria Pompeia Pothine Prasaibia Preimeigeneia Promeneia Rhodope Roupheina Samytha Satyrnina Saupheia
+            Silana Sostrata Sotia Sotiche Teimagora Terentia Tertia Timodika Trochilla Troias Tycha Urbana Xenotima
+        }
+
+        from_dynasty_prefix = "of "
+
+        # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+        pat_grf_name_chance = 50
+        mat_grf_name_chance = 50
+        father_name_chance = 0
+
+        # Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+        pat_grm_name_chance = 50
+        mat_grm_name_chance = 50
+        mother_name_chance = 0
+
+        disinherit_from_blinding = yes
+        modifier = greek_culture_modifier
+    }
+}
 celtic = {
     boii = {
         graphical_cultures = { celticgfx }
         color = { 0.53 0.43 0.23 }
+
         male_names = {
             Acco Adcobrovatos Adiatuanos Ainorix Akikhorios Amminos Andecombogios Aneirin Arandio Armorix Atis Badicandos Baeren Barrivendos Berdic Biatekos
             Boduognatos Boiorix Bolgios Bossomaros Brennos Brigomaglos Brycham Budic Caburos Cacumattos Calpornos Camulogenos Caradog Caratacos Casticos Casticos
@@ -22,6 +84,7 @@ celtic = {
             Ieuinkata Kakudi Kala Kamuloriga Kassimara Kobruna Kontauinda Krasanikna Krikoni Loxsia Luguselua Lutussa Magara Manduissa Masuetinka Matutina Merokli
             Nemetogena Nemorata Nertamara Noibia Oxsidubna Pintilisina Rituka Reueta Sapossa Senonda Seneuara Silibika Suruka Tokia Uelagena Uenna Ueriuga Uindelia
         }
+
         from_dynasty_prefix = "of "
         male_patronym = "of "
         prefix = yes
@@ -46,6 +109,7 @@ thracian_group = {
     thracian = {
         graphical_cultures = { byzantinegfx }
         color = { 0.45 0.76 0.76 }
+
         male_names = {
             Abrupolis Adaeus Adaios Amadocus Amatokos_Metokos Beithys_Byzas Berisades Biz_Byzas Byses_Byzas Byzas_Byzas Cersobleptes Cetri Cotys_Cotiso Dentupes
             Deo_Deos Deos_Deos Desakenthos Diagil_Diagylis Diagylis_Diagylis Diegylos_Diagylis Diygyles_Diagylis Diza Epta Hebryzelmis Kersivaulos Maisades
@@ -75,6 +139,7 @@ thracian_group = {
     dacian = {
         graphical_cultures = { byzantinegfx }
         color = { 0.45 0.29 0.15 }
+
         male_names = {
             Aptasa Avizina_Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso_Cotiso Dablosa Dadas Dadazi Daidour Daizus
             Damanais Dapyx Dardanos Dardiolai Decaeneus Decebalus Dekibalos Dekinais Dekinsada Denzibalos Dezibalos Diapalai Dicomes Dida Diegis_Diegis Diengi_Diegis
@@ -87,6 +152,7 @@ thracian_group = {
         female_names = {
             Arsinoe Bendidora Dentusykos Dokia Eptesykos Eurydike Makris Meda Mokasokos Reskuturme Romula Zia Zina
         }
+
         from_dynasty_prefix = "per "
         male_patronym = "per " # from the "Decebalus per Scorillo" inscription (translated as "Decebalus, son of Scorilo") and thracian suffix "por" = "son of"
         prefix = yes
