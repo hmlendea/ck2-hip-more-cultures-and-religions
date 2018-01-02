@@ -1,0 +1,122 @@
+spriteTypes = {
+    ##################
+    ### HOLDINGS   ###
+    ##################
+    spriteType = {
+        name = "GFX_settlement_castle_thraciangfx"
+        texturefile = "gfx\\interface\\placeholder_castle_norse.tga"
+        noOfFrames = 1
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_settlement_castle_thraciangfx_looted"
+        texturefile = "gfx\\interface\\placeholder_castle_norse_looted.tga"
+        noOfFrames = 1
+        norefcount = yes
+    }
+
+    spriteType = {
+        name = "GFX_settlement_temple_thraciangfx_westerngfx"
+        texturefile = "gfx\\interface\\placeholder_temple_thracian.tga"
+        noOfFrames = 1
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_settlement_temple_thraciangfx_westerngfx_looted"
+        texturefile = "gfx\\interface\\placeholder_temple_thracian_looted.tga"
+        noOfFrames = 1
+        norefcount = yes
+    }
+
+
+    spriteType = {
+        name = "GFX_settlement_city_thraciangfx"
+        texturefile = "gfx\\interface\\placeholder_city_norse.tga"
+        noOfFrames = 1
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_settlement_city_thraciangfx_looted"
+        texturefile = "gfx\\interface\\placeholder_city_norse_looted.tga"
+        noOfFrames = 1
+        norefcount = yes
+    }
+
+    spriteType = {
+        name = "GFX_settlement_tribal_thraciangfx"
+        texturefile = "gfx\\interface\\placeholder_tribal.tga"
+        noOfFrames = 1
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_settlement_tribal_thraciangfx_looted"
+        texturefile = "gfx\\interface\\placeholder_tribal_looted.tga"
+        noOfFrames = 1
+        norefcount = yes
+    }
+
+    spriteType = {
+        name = "GFX_settlement_family_palace_thraciangfx"
+        texturefile = "gfx/interface/placeholder_palace.tga"
+        noOfFrames = 3
+        norefcount = yes
+    }
+
+    ##################
+    ### CHARACTERS ###
+    ##################
+    spriteType = {
+        name = "GFX_thracian_male_clothes_behind_early"
+        texturefile = "gfx\\characters\\western_pagan_male\\western_pagan_male_clothes_behind.dds"
+        noOfFrames = 12
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_thracian_male_headgear_behind_early"
+        texturefile = "gfx\\characters\\western_male\\western_male_headgear_behind.dds"
+        noOfFrames = 12
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_thracian_male_clothes_early"
+        texturefile = "gfx\\characters\\western_pagan_male\\western_pagan_male_clothes.dds"
+        noOfFrames = 12
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_thracian_male_headgear_early"
+        texturefile = "gfx\\characters\\western_male\\western_male_headgear.dds"
+        noOfFrames = 12
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_thracian_female_clothes_behind_early"
+        texturefile = "gfx\\characters\\western_pagan_female\\western_pagan_female_clothes_behind.dds"
+        noOfFrames = 12
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_thracian_female_headgear_behind_early"
+        texturefile = "gfx\\characters\\western_female\\western_female_headgear_behind.dds"
+        noOfFrames = 12
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_thracian_female_clothes_early"
+        texturefile = "gfx\\characters\\western_pagan_female\\western_pagan_female_clothes.dds"
+        noOfFrames = 12
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_thracian_female_headgear_mid_early"
+        texturefile = "gfx\\characters\\western_female\\western_female_headgear_mid.dds"
+        noOfFrames = 12
+        norefcount = yes
+    }
+    spriteType = {
+        name = "GFX_thracian_female_headgear_early"
+        texturefile = "gfx\\characters\\western_female\\western_female_headgear.dds"
+        noOfFrames = 12
+        norefcount = yes
+    }
+}

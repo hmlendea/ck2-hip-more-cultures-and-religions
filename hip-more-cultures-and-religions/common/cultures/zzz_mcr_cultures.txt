@@ -104,10 +104,10 @@ celtic = {
 }
 
 thracian_group = {
-    graphical_cultures = { byzantinegfx }
+    graphical_cultures = { thraciangfx }
 
     thracian = {
-        graphical_cultures = { byzantinegfx }
+        graphical_cultures = { thraciangfx }
         color = { 0.45 0.76 0.76 }
 
         male_names = {
@@ -137,7 +137,7 @@ thracian_group = {
     }
 
     dacian = {
-        graphical_cultures = { byzantinegfx }
+        graphical_cultures = { thraciangfx }
         color = { 0.45 0.29 0.15 }
 
         male_names = {
