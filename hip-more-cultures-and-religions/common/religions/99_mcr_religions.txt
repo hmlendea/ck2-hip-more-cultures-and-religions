@@ -1,3 +1,40 @@
+pagan_group = {
+    hellenic_pagan = {
+        graphical_culture = westerngfx
+
+        pre_reformed = yes
+
+        icon = 37
+
+        color = { 0.6 0.1 0.1 }
+
+        high_god_name = GOD_SATURN
+
+        god_names = {
+            GOD_JUPITER GOD_MERCURY GOD_MARS GOD_VENUS GOD_MINERVA GOD_VESTA
+        }
+        evil_god_names = {
+            PLUTO
+        }
+
+        crusade_name = GREAT_HOLY_WAR
+        scripture_name = THE_LEGENDS
+        priest_title = AUGUR
+
+        priests_can_marry = yes
+        female_temple_holders = yes
+        max_consorts = 3
+
+        religious_clothing_head = 3
+        religious_clothing_priest = 3
+
+        allow_in_ruler_designer = yes
+        intermarry = christian
+
+        dynamic_cult = no
+        secret_religion = no
+    }
+}
 balkan_religious_group = {
     color = { 0.45 0.29 0.15 }
     graphical_culture = westerngfx
@@ -25,8 +62,8 @@ balkan_religious_group = {
 
         defensive_attrition = yes
 
-        religious_clothing_head = 6
-        religious_clothing_priest = 11
+        religious_clothing_head = 3
+        religious_clothing_priest = 3
 
         allow_in_ruler_designer = no
 
@@ -57,8 +94,8 @@ balkan_religious_group = {
 
         defensive_attrition = yes
 
-        religious_clothing_head = 6
-        religious_clothing_priest = 11
+        religious_clothing_head = 3
+        religious_clothing_priest = 3
 
         allow_in_ruler_designer = yes
 
