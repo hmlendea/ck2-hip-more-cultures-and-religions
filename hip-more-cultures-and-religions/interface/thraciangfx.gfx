@@ -4,13 +4,13 @@ spriteTypes = {
     ##################
     spriteType = {
         name = "GFX_settlement_castle_thraciangfx"
-        texturefile = "gfx\\interface\\placeholder_castle_norse.tga"
+        texturefile = "gfx\\interface\\placeholder_castle_thracian.tga"
         noOfFrames = 1
         norefcount = yes
     }
     spriteType = {
         name = "GFX_settlement_castle_thraciangfx_looted"
-        texturefile = "gfx\\interface\\placeholder_castle_norse_looted.tga"
+        texturefile = "gfx\\interface\\placeholder_castle_thracian_looted.tga"
         noOfFrames = 1
         norefcount = yes
     }
