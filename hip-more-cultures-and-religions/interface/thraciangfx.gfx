@@ -31,13 +31,13 @@ spriteTypes = {
 
     spriteType = {
         name = "GFX_settlement_city_thraciangfx"
-        texturefile = "gfx\\interface\\placeholder_city_norse.tga"
+        texturefile = "gfx\\interface\\placeholder_city.tga"
         noOfFrames = 1
         norefcount = yes
     }
     spriteType = {
         name = "GFX_settlement_city_thraciangfx_looted"
-        texturefile = "gfx\\interface\\placeholder_city_norse_looted.tga"
+        texturefile = "gfx\\interface\\placeholder_city_looted.tga"
         noOfFrames = 1
         norefcount = yes
     }
