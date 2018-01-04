@@ -327,17 +327,35 @@ e_byzantium =
             }
         }
         d_thrace = {
+            c_kaliopolis = {
+                b_selymbria = {
+                    dacian = "Selymbria"
+                    thracian = "Selymbria"
+                }
+            }
             c_byzantion = {
-                thracian = "Byzantion" # thraco-illyrian
+                dacian = "Lygos"
+                old_greek = "Byzantium"
+                thracian = "Lygos"
 
                 b_constantinople = {
-                    thracian = "Byzantion" # thraco-illyrian
+                    dacian = "Lygos"
+                    old_greek = "Byzantium"
+                    thracian = "Lygos"
                 }
             }
             c_thrake = {
                 b_arkadiopolis = {
                     dacian = "Bergula"
                     thracian = "Bergula"
+                }
+            }
+        }
+        d_strymon = {
+            c_traianopolis = {
+                b_maroneia = {
+                    dacian = "Tyrida" # Thracian.
+                    thracian = "Tyrida" # Might not be here.
                 }
             }
         }
@@ -448,7 +466,9 @@ e_byzantium =
                 }
                 b_oryahovo =
                 {
+                    dacian = "Oescus"
                     old_greek = "Oískos" # Took from greek (Graikos)
+                    thracian = "Oescus"
                 }
                 b_tarnovo =
                 {
@@ -460,7 +480,7 @@ e_byzantium =
             c_serdica =
             {
                 dacian = "Serdica" # thracian
-                old_greek = "Triaditsa" # Took from greek (Graikos)
+                old_greek = "Serdica"
                 thracian = "Serdica"
 
                 b_vratsa =
@@ -470,7 +490,7 @@ e_byzantium =
                 b_serdica =
                 {
                     dacian = "Serdica" # thracian
-                    old_greek = "Triaditsa" # Took from greek (Graikos)
+                    old_greek = "Serdica"
                     thracian = "Serdica"
                 }
             }
@@ -506,7 +526,7 @@ e_byzantium =
             c_nikopolis =
             {
                 dacian = "Seuthopolis" # thracian (the only thracian polis)
-                old_greek = "Seuthoupolis" # Took from greek (Graikos)
+                old_greek = "Seuthopolis"
                 thracian = "Seuthopolis"
 
                 b_silven =
@@ -546,7 +566,7 @@ e_byzantium =
                 b_varna =
                 {
                     dacian = "Odessos" # Greek
-                    old_greek = "Odessus" # Took from greek (Graikos)
+                    old_greek = "Odessos
                     thracian = "Odessos" # Greek
                 }
                 b_karvuna =
@@ -566,6 +586,7 @@ e_byzantium =
             {
                 dacian = "Tomis"
                 old_greek = "Tomis"
+                thracian = "Tomis"
 
                 b_vicina =
                 {
@@ -586,7 +607,7 @@ e_byzantium =
                 b_chilia =
                 {
                     dacian = "Achillea" # greek
-                    old_greek = "Kellia" # Took from greek (Graikos)
+                    old_greek = "Achillea"
                     thracian = "Achillea" # greek
                 }
                 b_harsova =
@@ -601,13 +622,13 @@ e_byzantium =
         {
             dacian = "Odryssa" # thracian
             old_greek = "Makedonía" # Took from greek (Graikos)
-            thracian = "Odryssa" # Chose this since this is roughly the land that was once inhabited by odrysians, and also the name of its capital
+            thracian = "Odryssa" # Chose this since this is roughly the land that was once inhabited by odrysians
 
             c_adrianopolis =
             {
-                dacian = "Odryssa" # thracian
+                dacian = "Uskudama" # Or "Odryssa". Thracian
                 old_greek = "Hadrianoúpolis" # Took from greek (Graikos)
-                thracian = "Odryssa"
+                thracian = "Uskudama" # Or "Odryssa"
 
                 b_matochina =
                 {
@@ -623,9 +644,9 @@ e_byzantium =
                 }
                 b_adrianopolis =
                 {
-                    dacian = "Odryssa" # Thracian
+                    dacian = "Uskudama" # Or "Odryssa". thracian
                     old_greek = "Adrianoupolis" # Took from greek (Graikos)
-                    thracian = "Odryssa" # Or "Uscudama" but that is more ancient
+                    thracian = "Uskudama" # Or "Odryssa"
                 }
                 b_kardzahli =
                 {
@@ -635,7 +656,7 @@ e_byzantium =
             c_philippopolis =
             {
                 dacian = "Pulpudeva" # Or "Eumolpias" but this is more ancient
-                old_greek = "Philippoupolis" # Took from greek (Graikos)
+                old_greek = "Philippopolis"
                 thracian = "Pulpudeva" # dacian
 
                 b_bachkovo =
@@ -645,7 +666,7 @@ e_byzantium =
                 b_plovdiv =
                 {
                     dacian = "Pulpudeva" # Or "Eumolpias" but this is more ancient
-                    old_greek = "Philippoupolis" # Took from greek (Graikos)
+                    old_greek = "Philippopolis"
                     thracian = "Pulpudeva" # dacian
                 }
                 b_tespina =
@@ -680,7 +701,7 @@ e_byzantium =
                 b_yambol =
                 {
                     dacian = "Kabyle" # thracian
-                    old_greek = "Diampolis" # Took from greek (Graikos)
+                    old_greek = "Diospolis"
                     thracian = "Kabyle"
                 }
                 b_pomorie =
@@ -692,7 +713,7 @@ e_byzantium =
                 b_mesembria =
                 {
                     dacian = "Menebria" # thracian
-                    old_greek = "Mesembria" # Took from greek (Graikos)
+                    old_greek = "Mesembria"
                     thracian = "Menebria"
                 }
                 b_debelt =
@@ -860,7 +881,7 @@ e_byzantium =
             }
             c_ochrid =
             {
-                old_greek = "Achrída" # Took from greek (Graikos)
+                old_greek = "Lychnis"
 
                 b_resen =
                 {
@@ -880,7 +901,7 @@ e_byzantium =
                 }
                 b_ohrid =
                 {
-                    old_greek = "Achrída" # Took from greek (Graikos)
+                    old_greek = "Lychnis"
                 }
                 b_kastoria =
                 {
@@ -889,7 +910,7 @@ e_byzantium =
             }
             c_naissus =
             {
-                old_greek = "Nysos" # Took from greek (Graikos)
+                old_greek = "Naissos"
 
                 b_knjazevac =
                 {
@@ -903,7 +924,7 @@ e_byzantium =
                 }
                 b_nish =
                 {
-                    old_greek = "Nisos" # Took from greek (Graikos)
+                    old_greek = "Naissos"
                 }
                 b_prokuplje =
                 {
@@ -974,6 +995,7 @@ e_byzantium =
             }
             c_belgrade =
             {
+                boii = "Singidun" # celtic
                 old_greek = "Singidounon" # Took from greek (Graikos)
 
                 b_smederevo =
@@ -986,6 +1008,7 @@ e_byzantium =
                 }
                 b_belgrade =
                 {
+                    boii = "Singidun" # celtic
                     old_greek = "Singidounon" # Took from greek (Graikos)
                 }
             }
@@ -1033,7 +1056,9 @@ e_byzantium =
                 }
                 b_skadar =
                 {
-                    old_greek = "Skoutarion" # Took from greek (Graikos)
+                    dacian = "Germidava" # Not this one but nearby
+                    old_greek = "Chrysopolis"
+                    thracian = "Germidava" # Dacian
                 }
                 b_dioclea =
                 {
@@ -1110,8 +1135,7 @@ e_byzantium =
         }
     }
 }
-e_scandinavia =
-{
+e_scandinavia = {
     old_greek = "Thule" # Took from greek (Graikos)
 }
 e_russia =
@@ -1140,10 +1164,8 @@ e_poland = {
         }
     }
 }
-e_carpathia =
-{
-    k_wallachia =
-    {
+e_carpathia = {
+    k_wallachia = {
         allow = {
             title_king_basic_allow = yes
             hidden_tooltip = {
@@ -1154,8 +1176,7 @@ e_carpathia =
             }
         }
 
-        d_wallachia =
-        {
+        d_wallachia = {
             dacian = "Dacia"
             thracian = "Dacia"
 
@@ -1176,8 +1197,7 @@ e_carpathia =
                     thracian = "Jidava" # dacian
                 }
             }
-            c_turnu =
-            {
+            c_turnu = {
                 dacian = "Malva"
                 thracian = "Malva" # Dacian
 
@@ -1196,8 +1216,11 @@ e_carpathia =
                     dacian = "Malva" # Not historical. I have no idea what Slazialea is and where it is located, so I'm just gonna put Malva here
                     thracian = "Malva" # Dacian
                 }
+                b_rosiorriidevede = {
+                    dacian = "Pirus" # Latin name. Based on dacian?
+                    thracian = "Pirus" # Latin
+                }
                 b_giurgiu = {
-                {
                     dacian = "Argedava" # Not Giurgiu itself, but nearby
                     old_greek = "Theodorapolis" # Took from greek (Graikos)
                     thracian = "Argedava" # Not Giurgiu itself, but nearby. Also, it's dacian
@@ -1217,16 +1240,16 @@ e_carpathia =
             }
         }
         d_oltenia = {
-            dacian = "Drobeta"
-            thracian = "Drobeta" # Dacian
+            dacian = "Drobeta" # Or "Drubetis"
+            thracian = "Drobeta" # Dacian. Or "Drubetis"
 
             c_severin = {
-                dacian = "Drobeta"
-                thracian = "Drobeta" # Dacian
+                dacian = "Drobeta" # Or "Drubetis"
+                thracian = "Drobeta" # Dacian. Or "Drubetis"
 
                 b_severin = {
-                    dacian = "Drobeta"
-                    thracian = "Drobeta" # Dacian
+                    dacian = "Drobeta" # Or "Drubetis"
+                    thracian = "Drobeta" # Dacian. Or "Drubetis"
                 }
                 b_craiova = {
                     dacian = "Pelendava" # Or "Pelendaua"
@@ -1477,15 +1500,17 @@ e_carpathia =
         }
         d_syrmia =
         {
-            old_greek = "Sirmiou" # Took from greek (Graikos)
+            old_greek = "Syrmia"
 
             c_syrmia =
             {
-                old_greek = "Sirmiou" # Took from greek (Graikos)
+                old_greek = "Syrmia"
 
                 b_sremska_mitrovica =
                 {
-                    old_greek = "Sirmium" # Took from greek (Graikos)
+                    dacian = "Sirmium"
+                    old_greek = "Sirmium"
+                    thracian = "Sirmium" # Latinised thracian?
                 }
                 b_slankamen =
                 {
