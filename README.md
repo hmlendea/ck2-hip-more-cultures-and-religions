@@ -15,13 +15,20 @@ It's intended purpose is to be used in alternative history scenarios.
 # Features
 
 ## Cultures
-- Dacian (Daoi) - new Thracian group
 - Thracian (Thrakoi) - new Thracian group
-- Hellenic / Old Greek (Ellen) - Byzantine group
+- Dacian (Daoi) - new Thracian group
+- Boii (Boio) - Celtic group
+- Hellenic/Old Greek (Ellen) - Byzantine group
 
 ## Religions
 - Zamolxian - new Balkan group
 - Hellenistic - Pagan group (It's the same as in vanilla, but made playable)
+
+## Others
+- Many new landed title dynamic cultural names for the newly added cultures
+- Some new titular landed titles
+- Some new graphical culture types
+- New dynasties for the new cultures
 
 # Installation
 
@@ -53,9 +60,6 @@ It would also be very helpful if you could provide a link to a source that can a
 
 The guidelines and roadmap can be found in the GitHub project description.
 
-## Others
-- Some new titular titles to go along with the new cultures
-
 # Development guidelines
 
 - Encode files with the `WINDOWS-1252` character set
@@ -67,6 +71,9 @@ Additional guidelines and rules can be found in header comments inside specific 
 # Bibliography - Sources
 
 The following is a list of sources that attest the authenticity of the names provided by this mod:
+
+Mods:
+- [Europa Barbarorum II](http://www.europabarbarorum.com/) mod for Medieval II: Total War
 
 Other:
 - Wikipedia pages in various languages
