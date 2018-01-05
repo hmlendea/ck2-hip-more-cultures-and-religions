@@ -15,13 +15,14 @@ It's intended purpose is to be used in alternative history scenarios.
 # Features
 
 ## Cultures
-* Thracian (Thrakoi) - new Thracian group
-* Dacian (Daoi) - new Thracian group
+* Thracian (Thrakoi) - Thracian group (new)
+* Dacian (Daoi) - Thracian group (new)
 * Boii (Boio) - Celtic group
 * Hellenic/Old Greek (Ellen) - Byzantine group
+* Macedonian (Makedon) - Byzantine group
 
 ## Religions
-* Zamolxian - new Balkan group
+* Zamolxian - Balkan group (new)
 * Hellenistic - Pagan group (It's the same as in vanilla, but made playable)
 
 ## Others
