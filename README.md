@@ -9,42 +9,42 @@ It's intended purpose is to be used in alternative history scenarios.
 
 # Useful links
 
-- [GitHub page](https://github.com/hmlendea/ck2-hip-more-cultures-and-religions)
-- [Steam Workshop page](http://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxx)
+* [GitHub page](https://github.com/hmlendea/ck2-hip-more-cultures-and-religions)
+* [Steam Workshop page](http://steamcommunity.com/workshop/filedetails/discussion/1258219157)
 
 # Features
 
 ## Cultures
-- Thracian (Thrakoi) - new Thracian group
-- Dacian (Daoi) - new Thracian group
-- Boii (Boio) - Celtic group
-- Hellenic/Old Greek (Ellen) - Byzantine group
+* Thracian (Thrakoi) - new Thracian group
+* Dacian (Daoi) - new Thracian group
+* Boii (Boio) - Celtic group
+* Hellenic/Old Greek (Ellen) - Byzantine group
 
 ## Religions
-- Zamolxian - new Balkan group
-- Hellenistic - Pagan group (It's the same as in vanilla, but made playable)
+* Zamolxian - new Balkan group
+* Hellenistic - Pagan group (It's the same as in vanilla, but made playable)
 
 ## Others
-- Many new landed title dynamic cultural names for the newly added cultures
-- Some new titular landed titles
-- Some new graphical culture types
-- New dynasties for the new cultures
+* Many new landed title dynamic cultural names for the newly added cultures
+* Some new titular landed titles
+* Some new graphical culture types
+* New dynasties for the new cultures
 
 # Installation
 
-Just subscribe to the [Steam Workshop page](http://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxx) of this mod.
+Just subscribe to the [Steam Workshop page](http://steamcommunity.com/workshop/filedetails/discussion/1258219157) of this mod.
 
 If you don't own this game on Steam, or you want to try the in-development version, you can download the latest release from the [GitHub page](https://github.com/hmlendea/ck2-hip-more-cultures-and-religions/releases) and extract the contents into your "mod" directory alongside your current HIP installation.
 
 **Note:** This mod is OS-agnostic, which means it will work on all operating systems supported by CK2 and HIP (Windows, Linux and Mac)
 
 **REQUIREMENTS:**
-- This mod requires up-to-date HIP with at least the SWMH module installed.
-- Also, this mod officially supports HIP with only the default modules installed, but it should work with any setup as long as SWMH is there.
+* This mod requires up-to-date HIP with at least the SWMH module installed.
+* Also, this mod officially supports HIP with only the default modules installed, but it should work with any setup as long as SWMH is there.
 
 **UPDATING THE MOD:**
-- If you subscribed to the [Steam Workshop page](http://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxx), the mod will be updated automatically
-- If you downloaded it manually, just _delete the old version_ and replace it with the latest.
+* If you subscribed to the [Steam Workshop page](http://steamcommunity.com/workshop/filedetails/discussion/1258219157), the mod will be updated automatically
+* If you downloaded it manually, just _delete the old version_ and replace it with the latest.
 
 # Contributions
 
@@ -54,7 +54,7 @@ There are a few ways you can do so:
 
 1. You can create git pull requests for this repository (This requires git knowledge)
 2. You can raise a new "[issue](https://github.com/hmlendea/ck2-hip-more-cultures-and-religions/issues)" for this project
-4. You can reply on the [Steam discussion thread](http://steamcommunity.com/workshop/filedetails/discussion/xxxxxxx/xxxxxxx/)
+4. You can reply on the [Steam discussion thread](http://steamcommunity.com/workshop/filedetails/discussion/1258219157/1620600279663730361/)
 
 It would also be very helpful if you could provide a link to a source that can atest the authenticity of the names you submitted, when possible.
 
@@ -62,9 +62,9 @@ The guidelines and roadmap can be found in the GitHub project description.
 
 # Development guidelines
 
-- Encode files with the `WINDOWS-1252` character set
-- Make sure the names you add are historically accurate if they exist, or are based on educated guesses when creating artificial ones (and write a comment explaining the thought proccess)
-- Make sure there are no other dependencies than the default HIP modules. Do not add names for optional modules or other submods.
+* Encode files with the `WINDOWS-1252` character set
+* Make sure the names you add are historically accurate if they exist, or are based on educated guesses when creating artificial ones (and write a comment explaining the thought proccess)
+* Make sure there are no other dependencies than the default HIP modules. Do not add names for optional modules or other submods.
 
 Additional guidelines and rules can be found in header comments inside specific files
 
@@ -73,7 +73,7 @@ Additional guidelines and rules can be found in header comments inside specific 
 The following is a list of sources that attest the authenticity of the names provided by this mod:
 
 Mods:
-- [Europa Barbarorum II](http://www.europabarbarorum.com/) mod for Medieval II: Total War
+* [Europa Barbarorum II](http://www.europabarbarorum.com/) mod for Medieval II: Total War
 
 Other:
-- Wikipedia pages in various languages
+* Wikipedia pages in various languages
