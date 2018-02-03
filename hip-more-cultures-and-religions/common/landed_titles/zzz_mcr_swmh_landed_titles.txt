@@ -513,15 +513,15 @@ e_byzantium = {
             c_philippopolis = {
                 dacian = "Pulpudeva" # Or "Eumolpias" but this is more ancient
                 old_greek = "Philippopolis"
-                thracian = "Pulpudeva" # dacian
+                thracian = "Pulpupara" # Not historical - Constructed using the same reasoning as Pulpudeva but with para (meaning dava/polis in thracian)
 
                 b_bachkovo = {
                     old_greek = "Petritsoni" # Took from greek (Graikos)
                 }
                 b_plovdiv = {
-                    dacian = "Pulpudeva" # Or "Eumolpias" but this is more ancient
+                    dacian = "Pulpudeva" # Pulpu=Philip, deva=polis. Or "Eumolpias" but this is more ancient
                     old_greek = "Philippopolis"
-                    thracian = "Pulpudeva" # dacian
+                    thracian = "Pulpupara" # Not historical - Constructed using the same reasoning as Pulpudeva but with para (meaning dava/polis in thracian)
                 }
                 b_tespina = {
                     old_greek = "Tzepania" # Took from greek (Graikos)
