@@ -177,13 +177,16 @@ thracian_group = {
         color = { 0.45 0.76 0.76 }
 
         male_names = {
-            Abrupolis Adaeus Adaios Amadocus Amatokos_Metokos Beithys_Byzas Berisades Biz_Byzas Byses_Byzas Byzas_Byzas Cersobleptes Cetri Cotys_Cotiso Dentupes
-            Deo_Deos Deos_Deos Desakenthos Diagil_Diagylis Diagylis_Diagylis Diegylos_Diagylis Diygyles_Diagylis Diza Epta Hebryzelmis Kersivaulos Maisades
-            Metokos_Metokos Muka_Mucatra Odoroes Odryses Orsoaltios Pleuratus Pythodoris Raizdos_Raizdos Rhasku Rhesus Rhoemetaces Roigos_Raizdos Sadalas Sadocos
-            Scostodos Seuthes Sitalecs Skostodokos Sothimes Sparatocos Sparatokos Teres Tsizelmi Ziepyrus Zipaibes Ziper Zipyron
+            Abrupolis Adaeus_Adaeus Adaios Amadocus_Amadocus Amatokos_Amadocus Beithys_Beithys Berisades Bithyas_Beithys Biz_Byzas Byses_Byzas Byzas_Byzas
+            Cersebleptes_Cersobleptes Cersobleptes_Cersobleptes Cetriporis Chales_Hales Cotys_Cotiso Dentupes Deo_Deos Deos_Deos Desakenthos Diagil_Diagylis
+            Diagylis_Diagylis Diegylos_Diagylis Diygyles_Diagylis Diza Dyegilos Epta Hales_Hales Hebryzelmis Kersivaulos Kersobleptes_Cersobleptes Kotys_Cotiso
+            Maisades Metokos_Amadocus Muka_Mucatra Odoroes Odryses Orsoaltios Pythodoris Raizdos_Raizdos Rhescuporis Rhoemetalces Roigos_Raizdos Sadalas Sadocos
+            Scostodos Seuthes Sitalces_Sitalces Sitalkes_Sitalces Sitas_Sitalces Skostodokos Sothimes Sparatocos_Sparatocos Sparatokos_Sparatocos Spartacus
+            Syrmios_Syrmus Syrmos_Syrmus Syrmus_Syrmus Teres Tsizelmi Vologaeses Ziepyrus Zipaibes Ziper Zipyron Zoltes
         }
         female_names = {
-            Aidezyres Benzeis Bidia Blosta_Blostis Blostis_Blostis Cosingis Dentusykos Eptesuchis Maisira Mania Meda Mokasokos Reptatercos
+            Aidezyres Benzeis Bidia Blosta_Blostis Blostis_Blostis Cosingis Dentusucu_Dentusykos Dentusykos_Dentusykos Dentysykos_Dentusykos Eptesuchis_Eptesykos
+            Eptesykos_Eptesykos Gepaepyris Maisira Mania Meda Mokasokos Pythodorida_Pythodoris Pythodoris_Pythodoris Reptatercos
         }
         from_dynasty_prefix = "por "
         male_patronym = "por " # from the "Decebalus per Scorillo" inscription (translated as "Decebalus, son of Scorilo") and thracian suffix "por" = "son of"
@@ -207,16 +210,25 @@ thracian_group = {
         color = { 0.45 0.29 0.15 }
 
         male_names = {
-            Aptasa Avizina_Avizina Bastiza Biciclis Bikili Blaesus Blaikisa Blegissa Brasus Burebista Comosicus Cotiso_Cotiso Dablosa Dadas Dadazi Daidour Daizus
-            Damanais Dapyx Dardanos Dardiolai Decaeneus Decebalus Dekibalos Dekinais Dekinsada Denzibalos Dezibalos Diapalai Dicomes Dida Diegis_Diegis Diengi_Diegis
-            Diengis_Diegis Dieri_Dieri Diernais_Dieri Diolizis Diourdanos Diourpa_Diurpaneus Diourpliz_Diurpaneus Ditoulai Diurpaneus_Diurpaneus Dotos_Dotos
-            Dotouzi_Dotos Dourpokis Drilgisa Dromichaetes Eithazi Eithias Eithiokalos Geithozi Ithiokalos Kaigiza Komakiza Komozoi Muca_Mucatra Mucatra_Mucatra
-            Naisoulai Nato Neisto Oroles Peti_Peto Peto_Peto Pouridour Rigozus Rolouzis Scorylo Sinna_Tsinna Thiadicem Thia_Thiamarkos Thiais_Thiamarkos
-            Thiamarkos_Thiamarkos Thiati_Thiamarkos Thouthoila Tia_Thiamarkos Tiati_Thiamarkos Tiatitis_Thiamarkos Tiato_Thiamarkos Titila_Thiamarkos Tsinna_Tsinna
-            Tsiru Vezina_Avizina Zinnas Zoubliza Zourai_Zourazi Zourazi_Zourazi Zourdanos Zouroblost Zoutula Zyraxes
+            Aptasa Avezina_Vezina Avizina_Vezina Bastiza Biciclis Bikili_Bikili Bikilis_Bikili Blaesus Blaikisa Blegissa Brasus Burebista Charnabon Comosicus
+            Comozoi_Comozoi Coryllus_Scorilo Coson_Cotiso Cothelas_Cothelas Cotiso_Cotiso Cotison_Cotiso Dablosa Dadas Dadazi Daidour Daizus Damanais Danillo
+            Dapyg_Dapyx Dapyx_Dapyx Dardanos Dardiolai Decaeneus_Decaeneus Decebalus_Decebalus Decibalus_Decebalus Decinsada_Dekinsada Degis_Diegis
+            Dekaineos_Decaeneus Dekibalos_Decebalus Dekinais_Decaeneus Dekinsada_Dekinsada Denzibalos_Denzibalos Denzibalus_Denzibalos Dezibalos_Denzibalos Diapalai
+            Dicineus_Decaeneus Dicomes Dida_Dida Didas_Dida Diegis_Diegis Diengi_Diegis Diengis_Diegis Dieri_Dieri Diernais_Dieri Diolizis Diourdanos
+            Diourpa_Diurpaneus Diourpliz Ditoulai Diurpaneus_Diurpaneus Dorpaneus_Diurpaneus Dotos_Dotos Dotouzi_Dotos Dourpokis Drilgisa Dromichaeta_Dromichaetes
+            Dromichaetes_Dromichaetes Duras Eithazi Eithias Eithiokalos_Ithiokalos Geithozi Gudila_Cothelas Ithiokalos_Ithiokalos Kaigiza_Kaigiza Kaikeisa_Kaigiza
+            Komakiza Komozoi_Comozoi Moskon Muca_Mucatra Mucatra_Mucatra Naisoulai Nato Neisto Oroles Peti_Peto Peto_Peto Pouridour Rhemaxos Rholes_Rholes Rigozus
+            Roles_Rholes Rolouzis Rubobostes Scorillus_Scorilo Scorilo_Scorilo Scorylo_Scorilo Sinna_Tsinna Tarbus Thiadicem_Thiadicem Thiais_Thiatus
+            Thiamarkos_Thiamarkos Thia_Thiatus Thiati_Thiatus Thouthoila Tia_Thiatus Tiati_Thiatus Tiatitis_Thiatus Tiato_Thiatus Tiatus_Thiatus Titila_Thiatus
+            Tsinna_Tsinna Tsiru Vezina_Vezina Zalmodegicus_Zalmodegikos Zalmodegikos_Zalmodegikos Zalmodenicos_Zalmodegikos Zeuta Zinnas_Tsinna Zoltes Zoubliza
+            Zourai_Zourazi Zourazi_Zourazi Zourdanos Zouroblost Zoutula Zyraxes
         }
         female_names = {
-            Arsinoe Bendidora Dentusykos Dokia Eptesykos Eurydike Makris Meda Mokasokos Reskuturme Romula Zia Zina
+            Dokia Duccidava Meda Rescuturme_Rescuturme Reskuturme_Rescuturme Zia_Zia Ziais_Zia Zina
+            
+            # Thracian fallback names
+            Aidezyres Benzeis Bidia Blosta_Blostis Blostis_Blostis Cosingis Dentusucu_Dentusykos Dentusykos_Dentusykos Dentysykos_Dentusykos Eptesuchis_Eptesykos
+            Eptesykos_Eptesykos Gepaepyris Maisira Mania Mokasokos Pythodorida_Pythodoris Pythodoris_Pythodoris Reptatercos
         }
 
         from_dynasty_prefix = "per "
