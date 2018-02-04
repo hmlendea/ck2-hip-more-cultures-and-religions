@@ -51,7 +51,7 @@ balkan_religious_group = {
         high_god_name = GOD_ZAMOLXIS
 
         god_names = {
-            GOD_ZAMOLXIS GOD_BENDIS GOD_DERZELAS
+            GOD_ZAMOLXIS GOD_BENDIS GOD_DERZELAS GOD_KOTYS
         }
 
         crusade_name = GREAT_HOLY_WAR
