@@ -182,7 +182,7 @@ thracian_group = {
             Diagylis_Diagylis Diegylos_Diagylis Diygyles_Diagylis Diza Dyegilos Epta Hales_Hales Hebryzelmis Kersivaulos Kersobleptes_Cersobleptes Kotys_Cotiso
             Maisades Metokos_Amadocus Muka_Mucatra Odoroes Odryses Orsoaltios Pythodoris Raizdos_Raizdos Rhescuporis Rhoemetalces Roigos_Raizdos Sadalas Sadocos
             Scostodos Seuthes Sitalces_Sitalces Sitalkes_Sitalces Sitas_Sitalces Skostodokos Sothimes Sparatocos_Sparatocos Sparatokos_Sparatocos Spartacus
-            Syrmios_Syrmus Syrmos_Syrmus Syrmus_Syrmus Teres Tsizelmi Vologaeses Ziepyrus Zipaibes Ziper Zipyron Zoltes
+            Syrmios_Syrmus Syrmos_Syrmus Syrmus_Syrmus Teres Tsizelmi Vologaeses Ziepyrus Zipaibes Ziper Zipyron Zoltes 
         }
         female_names = {
             Aidezyres Benzeis Bidia Blosta_Blostis Blostis_Blostis Cosingis Dentusucu_Dentusykos Dentusykos_Dentusykos Dentysykos_Dentusykos Eptesuchis_Eptesykos
@@ -211,24 +211,24 @@ thracian_group = {
 
         male_names = {
             Aptasa Avezina_Vezina Avizina_Vezina Bastiza Biciclis Bikili_Bikili Bikilis_Bikili Blaesus Blaikisa Blegissa Brasus Burebista Charnabon Comosicus
-            Comozoi_Comozoi Coryllus_Scorilo Coson_Cotiso Cothelas_Cothelas Cotiso_Cotiso Cotison_Cotiso Dablosa Dadas Dadazi Daidour Daizus Damanais Danillo
-            Dapyg_Dapyx Dapyx_Dapyx Dardanos Dardiolai Decaeneus_Decaeneus Decebalus_Decebalus Decibalus_Decebalus Decinsada_Dekinsada Degis_Diegis
+            Comozoi_Comozoi Coryllus_Scorilo Coson_Cotiso Cotela_Cotiso Cothelas_Cothelas Cotiso_Cotiso Cotison_Cotiso Dablosa Dadas Dadazi Daidour Daizus Damanais
+            Danillo Dapyg_Dapyx Dapyx_Dapyx Dardanos Dardiolai Decaeneus_Decaeneus Decebalus_Decebalus Decibalus_Decebalus Decinsada_Dekinsada Degis_Diegis
             Dekaineos_Decaeneus Dekibalos_Decebalus Dekinais_Decaeneus Dekinsada_Dekinsada Denzibalos_Denzibalos Denzibalus_Denzibalos Dezibalos_Denzibalos Diapalai
             Dicineus_Decaeneus Dicomes Dida_Dida Didas_Dida Diegis_Diegis Diengi_Diegis Diengis_Diegis Dieri_Dieri Diernais_Dieri Diolizis Diourdanos
             Diourpa_Diurpaneus Diourpliz Ditoulai Diurpaneus_Diurpaneus Dorpaneus_Diurpaneus Dotos_Dotos Dotouzi_Dotos Dourpokis Drilgisa Dromichaeta_Dromichaetes
             Dromichaetes_Dromichaetes Duras Eithazi Eithias Eithiokalos_Ithiokalos Geithozi Gudila_Cothelas Ithiokalos_Ithiokalos Kaigiza_Kaigiza Kaikeisa_Kaigiza
             Komakiza Komozoi_Comozoi Moskon Muca_Mucatra Mucatra_Mucatra Naisoulai Nato Neisto Oroles Peti_Peto Peto_Peto Pouridour Rhemaxos Rholes_Rholes Rigozus
-            Roles_Rholes Rolouzis Rubobostes Scorillus_Scorilo Scorilo_Scorilo Scorylo_Scorilo Sinna_Tsinna Tarbus Thiadicem_Thiadicem Thiais_Thiatus
-            Thiamarkos_Thiamarkos Thia_Thiatus Thiati_Thiatus Thouthoila Tia_Thiatus Tiati_Thiatus Tiatitis_Thiatus Tiato_Thiatus Tiatus_Thiatus Titila_Thiatus
-            Tsinna_Tsinna Tsiru Vezina_Vezina Zalmodegicus_Zalmodegikos Zalmodegikos_Zalmodegikos Zalmodenicos_Zalmodegikos Zeuta Zinnas_Tsinna Zoltes Zoubliza
-            Zourai_Zourazi Zourazi_Zourazi Zourdanos Zouroblost Zoutula Zyraxes
+            Roles_Rholes Rolouzis Rubobostes Scorillus_Scorilo Scorilo_Scorilo Scorylo_Scorilo Sinna_Tsinna Tarbus Thia_Thiatus Thiadicem_Thiadicem Thiais_Thiatus
+            Thiamarkos_Thiamarkos Thiati_Thiatus Thouthoila Tia_Thiatus Tiati_Thiatus Tiatitis_Thiatus Tiato_Thiatus Tiatus_Thiatus Titila_Thiatus Tsinna_Tsinna
+            Tsiru Vezina_Vezina Zalmodegicus_Zalmodegikos Zalmodegikos_Zalmodegikos Zalmodenicos_Zalmodegikos Zeuta Zinnas_Tsinna Zoltes Zoubliza Zourai_Zourazi
+            Zourazi_Zourazi Zourdanos Zouroblost Zoutula Zyraxes
         }
         female_names = {
-            Dokia Duccidava Meda Rescuturme_Rescuturme Reskuturme_Rescuturme Zia_Zia Ziais_Zia Zina
-            
+            Dokia Duccidava Meda Rescuturme_Rescuturme Reskuturme_Rescuturme Ziais_Zia Zia_Zia Zina
+
             # Thracian fallback names
             Aidezyres Benzeis Bidia Blosta_Blostis Blostis_Blostis Cosingis Dentusucu_Dentusykos Dentusykos_Dentusykos Dentysykos_Dentusykos Eptesuchis_Eptesykos
-            Eptesykos_Eptesykos Gepaepyris Maisira Mania Mokasokos Pythodorida_Pythodoris Pythodoris_Pythodoris Reptatercos
+            Eptesykos_Eptesykos Gepaepyris Maisira Mania Meda Mokasokos Pythodorida_Pythodoris Pythodoris_Pythodoris Reptatercos
         }
 
         from_dynasty_prefix = "per "
