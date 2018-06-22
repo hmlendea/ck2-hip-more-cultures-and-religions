@@ -805,7 +805,7 @@ e_byzantium = {
                     old_greek = "Brescoa" # Took from greek (Graikos)
                 }
                 b_mileseva = {
-                    old_greek = "Moní Mile?eva" # Took from greek (Graikos)
+                    old_greek = "Moní Mileševa" # Took from greek (Graikos)
                 }
             }
             c_zachlumia = {
@@ -2145,6 +2145,417 @@ e_arabia = {
                 }
                 b_jerash = {
                     old_greek = "Gerasa" # Took from greek (Graikos)
+                }
+            }
+        }
+    }
+    k_jerusalem = {
+        old_greek = "Palaestina" # Took from greek (Graikos)
+
+        d_jerusalem = {
+            old_greek = "Palaestina Prima" # Took from greek (Graikos)
+
+            c_jerusalem = {
+                old_greek = "Hierosolyma" # Took from greek (Graikos)
+
+                b_towerofdavid = {
+                    old_greek = "Kastro David" # Took from greek (Graikos)
+                }
+                b_rammala = {
+                    old_greek = "Rámla" # Took from greek (Graikos)
+                }
+                b_blanchegarde = {
+                    old_greek = "Saphitha" # Took from greek (Graikos)
+                }
+                b_saintsamuel = {
+                    old_greek = "Monì tìs Agios Samuel" # Took from greek (Graikos)
+                }
+            }
+            c_beersheb = {
+                old_greek = "Neapolis" # Took from greek (Graikos)
+
+                b_bethsan = {
+                    old_greek = "Skythopolis" # Took from greek (Graikos)
+                }
+                b_nablus = {
+                    old_greek = "Neapolis" # Took from greek (Graikos)
+                }
+                b_jericho = {
+                    old_greek = "Ierichó" # Took from greek (Graikos)
+                }
+            }
+            c_hebron = {
+                old_greek = "Hebrón" # Took from greek (Graikos)
+
+                b_hebron = {
+                    old_greek = "Hebrón" # Took from greek (Graikos)
+                }
+                b_bethgibelin = {
+                    old_greek = "Eleutheroupolis" # Took from greek (Graikos)
+                }
+            }
+        }
+        d_acre = {
+            old_greek = "Tyros" # Took from greek (Graikos)
+
+            c_acre = {
+                old_greek = "Ptolemais" # Took from greek (Graikos)
+
+                b_acre = {
+                    old_greek = "Ptolemais" # Took from greek (Graikos)
+                }
+                b_castellumregis = {
+                    old_greek = "Kastro Basileios" # Took from greek (Graikos)
+                }
+                b_tyrus = {
+                    old_greek = "Tyros" # Took from greek (Graikos)
+                }
+                b_haifa = {
+                    old_greek = "Hepha" # Took from greek (Graikos)
+                }
+            }
+            c_caesarea = {
+                old_greek = "Parálios Kaisáreia" # Took from greek (Graikos)
+
+                b_caymont = {
+                    old_greek = "Cammona" # Took from greek (Graikos)
+                }
+                b_arsuf = {
+                    old_greek = "Apollonia" # Took from greek (Graikos)
+                }
+                b_syrcaesarea = {
+                    old_greek = "Parálios Kaisáreia" # Took from greek (Graikos)
+                }
+            }
+        }
+        d_oultrejourdain = {
+            old_greek = "Palaestina Salutaris" # Took from greek (Graikos)
+
+            c_petra = {
+                old_greek = "Aila" # Took from greek (Graikos)
+
+                b_jordanaqba = {
+                    old_greek = "Aila" # Took from greek (Graikos)
+                }
+            }
+            c_kerak = {
+                b_krakdemoab = {
+                    old_greek = "Characmoba" # Took from greek (Graikos)
+                }
+                b_kerak = {
+                    old_greek = "Harreketh" # Took from greek (Graikos)
+                }
+                b_tafila = {
+                    old_greek = "Taphila" # Took from greek (Graikos)
+                }
+                b_syralrabbah = {
+                    old_greek = "Areopolis" # Took from greek (Graikos)
+                }
+            }
+        }
+        d_ascalon = {
+            c_jaffa = {
+                old_greek = "Ioppa" # Took from greek (Graikos)
+
+                b_jaffa = {
+                    old_greek = "Ioppa" # Took from greek (Graikos)
+                }
+            }
+            c_ascalon = {
+                old_greek = "Iamnia" # Took from greek (Graikos)
+
+                b_ibelin = {
+                    old_greek = "Iamnia" # Took from greek (Graikos)
+                }
+            }
+        }
+        d_galilee = {
+            old_greek = "Palaestina Secunda" # Took from greek (Graikos)
+
+            c_tiberias = {
+                b_sepphoria = {
+                    old_greek = "Sepphoris" # Took from greek (Graikos)
+                }
+            }
+            c_beirut = {
+                old_greek = "Berytos" # Took from greek (Graikos)
+
+                b_beirut = {
+                    old_greek = "Berytos" # Took from greek (Graikos)
+                }
+            }
+            c_safed = {
+                old_greek = "Paneas" # Took from greek (Graikos)
+
+                b_safed = {
+                    old_greek = "Seph" # Took from greek (Graikos)
+                }
+                b_banyas = {
+                    old_greek = "Paneas" # Took from greek (Graikos)
+                }
+            }
+        }
+    }
+    k_antioch = {
+        old_greek = "Antiócheias" # Took from greek (Graikos)
+
+        d_edessa = {
+            c_edessa = {
+                b_sruk = {
+                    old_greek = "Batnai" # Took from greek (Graikos)
+                }
+                b_bile = {
+                    old_greek = "Birtha" # Took from greek (Graikos)
+                }
+                b_hromgla = {
+                    old_greek = "Romaion Koula" # Took from greek (Graikos)
+                }
+                b_samsat = {
+                    old_greek = "Samosata" # Took from greek (Graikos)
+                }
+            }
+            c_tell_bashir = {
+                b_nizip = {
+                    old_greek = "Nisibina" # Took from greek (Graikos)
+                }
+            }
+            c_aintab = {
+                b_duluk = {
+                    old_greek = "Doliche" # Took from greek (Graikos)
+                }
+            }
+            c_kaisun = {
+                old_greek = "Kaison" # Took from greek (Graikos)
+
+                b_kaisun = {
+                    old_greek = "Kaison" # Took from greek (Graikos)
+                }
+                b_behetselin = {
+                    old_greek = "Perre" # Took from greek (Graikos)
+                }
+                b_raban = {
+                    old_greek = "Rabaine" # Took from greek (Graikos)
+                }
+                b_hartanedessa = {
+                    old_greek = "Arsameia" # Took from greek (Graikos)
+                }
+            }
+        }
+        d_antioch = {
+            old_greek = "Antiokeias" # Took from greek (Graikos)
+
+            c_antiocheia = {
+                b_stsymeon = {
+                    old_greek = "Seleukeia Pieria" # Took from greek (Graikos)
+                }
+                b_darbsak = {
+                    old_greek = "Trapezon" # Took from greek (Graikos)
+                }
+                b_harenc = {
+                    old_greek = "Kastro Antiokheia" # Took from greek (Graikos)
+                }
+                b_baghras = {
+                    old_greek = "Pagrai" # Took from greek (Graikos)
+                }
+            }
+            c_saone = {
+                old_greek = "Laodikeia" # Took from greek (Graikos)
+
+                b_latakiah = {
+                    old_greek = "Laodikeia" # Took from greek (Graikos)
+                }
+                b_saone = {
+                    old_greek = "Sigon" # Took from greek (Graikos)
+                }
+                b_jabala = {
+                    old_greek = "Gabala" # Took from greek (Graikos)
+                }
+            }
+            c_archa = {
+                old_greek = "Apameia" # Took from greek (Graikos)
+
+                b_famia = {
+                    old_greek = "Apameia" # Took from greek (Graikos)
+                }
+                b_bourzeycastle = {
+                    old_greek = "Lysias" # Took from greek (Graikos)
+                }
+            }
+        }
+        d_tripoli = {
+            old_greek = "Phoiníkes" # Took from greek (Graikos)
+
+            c_tortosa = {
+                old_greek = "Antarados" # Took from greek (Graikos)
+
+                b_tortosa = {
+                    old_greek = "Antarados" # Took from greek (Graikos)
+                }
+                b_maraclea = {
+                    old_greek = "Marakleia" # Took from greek (Graikos)
+                }
+                b_valania = {
+                    old_greek = "Balanias" # Took from greek (Graikos)
+                }
+            }
+            c_monferrand = {
+                old_greek = "Raphaniai" # Took from greek (Graikos)
+
+                b_raphania = {
+                    old_greek = "Raphaniai" # Took from greek (Graikos)
+                }
+            }
+            c_masyaf = {
+                old_greek = "Marsyas" # Took from greek (Graikos)
+
+                b_masyaf = {
+                    old_greek = "Marsyas" # Took from greek (Graikos)
+                }
+            }
+            c_tripoli = {
+                b_citadeloftripoli = {
+                    old_greek = "Kastro Tripolis" # Took from greek (Graikos)
+                }
+                b_archa = {
+                    old_greek = "Archa" # Took from greek (Graikos)
+                }
+                b_nephin = {
+                    old_greek = "Nephioun" # Took from greek (Graikos)
+                }
+            }
+            c_gibelet = {
+                old_greek = "Byblos" # Took from greek (Graikos)
+
+                b_gibeletcastle = {
+                    old_greek = "Kastro Byblos" # Took from greek (Graikos)
+                }
+                b_gibelet = {
+                    old_greek = "Byblos" # Took from greek (Graikos)
+                }
+            }
+        }
+    }
+    k_aljazira = {
+        old_greek = "Assyria" # Took from greek (Graikos)
+
+        d_amida = {
+            old_greek = "Arzanene" # Took from greek (Graikos)
+
+            c_amida = {
+                b_ulucamii = {
+                    old_greek = "Monì tìs Agios Giragos" # Took from greek (Graikos)
+                }
+            }
+            c_hisn_kayf = {
+                old_greek = "Martyropolis" # Took from greek (Graikos)
+
+                b_mayyafarikin = {
+                    old_greek = "Martyropolis" # Took from greek (Graikos)
+                }
+                b_hisnkayf = {
+                    old_greek = "Kiphas" # Took from greek (Graikos)
+                }
+                b_siird = {
+                    old_greek = "Sirte" # Took from greek (Graikos)
+                }
+                b_arzan = {
+                    old_greek = "Nikephorion" # Took from greek (Graikos)
+                }
+            }
+        }
+        d_jazira = {
+            old_greek = "Euphratensis" # Took from greek (Graikos)
+
+            c_asas = {
+                old_greek = "Kallinikos" # Took from greek (Graikos)
+
+                b_rakka = {
+                    old_greek = "Kallinikos" # Took from greek (Graikos)
+                }
+                b_qalatjabar = {
+                    old_greek = "Dausara" # Took from greek (Graikos)
+                }
+                b_resafa = {
+                    old_greek = "Sergioupolis" # Took from greek (Graikos)
+                }
+            }
+            c_al_bichri = {
+                old_greek = "Kirkesion" # Took from greek (Graikos)
+
+                b_deiralzur = {
+                    old_greek = "Deir" # Took from greek (Graikos)
+                }
+                b_osrhoene = {
+                    old_greek = "Kirkesion" # Took from greek (Graikos)
+                }
+            }
+            c_harran = {
+                old_greek = "Karrai" # Took from greek (Graikos)
+
+                b_harran = {
+                    old_greek = "Karrai" # Took from greek (Graikos)
+                }
+                b_tallmazwan = {
+                    old_greek = "Konstantina" # Took from greek (Graikos)
+                }
+            }
+        }
+        d_diyareast = {
+            c_mardin = {
+                old_greek = "Marida" # Took from greek (Graikos)
+
+                b_maridin = {
+                    old_greek = "Marida" # Took from greek (Graikos)
+                }
+                b_dunaysir = {
+                    old_greek = "Margdis" # Took from greek (Graikos)
+                }
+                b_alsywaydaturkey = {
+                    old_greek = "Sevaverak" # Took from greek (Graikos)
+                }
+            }
+            c_amadiya = {
+                old_greek = "Corduene" # Took from greek (Graikos)
+            }
+            c_al_jazira = {
+                old_greek = "Bethzabde" # Took from greek (Graikos)
+
+                b_jazirat = {
+                    old_greek = "Bethzabde" # Took from greek (Graikos)
+                }
+                b_fenek = {
+                    old_greek = "Penek" # Took from greek (Graikos)
+                }
+            }
+            c_sinjar = {
+                old_greek = "Singara" # Took from greek (Graikos)
+
+                b_sinjar = {
+                    old_greek = "Singara" # Took from greek (Graikos)
+                }
+            }
+            c_bira = {
+                old_greek = "Nisibis" # Took from greek (Graikos)
+
+                b_nasibin = {
+                    old_greek = "Nisibis" # Took from greek (Graikos)
+                }
+            }
+            c_erbil = {
+                old_greek = "Arbela" # Took from greek (Graikos)
+
+                b_arbil = {
+                    old_greek = "Arbela" # Took from greek (Graikos)
+                }
+            }
+            c_mosul = {
+                old_greek = "Mepsila" # Took from greek (Graikos)
+
+                b_mosulcastle = {
+                    old_greek = "Kastron Mepsila" # Took from greek (Graikos)
+                }
+                b_mosul = {
+                    old_greek = "Mepsila" # Took from greek (Graikos)
                 }
             }
         }
@@ -4716,6 +5127,8 @@ e_persia = {
                 }
             }
         }
+    }
+    k_khwarzemia = {
         d_khwarazm = {
             c_uzboy = {
                 old_greek = "Nisaia" # Took from greek (Graikos)
@@ -4763,6 +5176,23 @@ e_persia = {
                     old_greek = "Korkyra" # Took from greek (Graikos)
                 }
             }
+        }
+    }
+    k_sistan = {
+        d_sistan = {
+            c_farah = {
+                old_greek = "Prophthasia" # Took from greek (Graikos)
+
+                b_farah = {
+                    old_greek = "Prophthasia" # Took from greek (Graikos)
+                }
+            }
+            c_rukhadj = {
+                old_greek = "Arachosia" # Took from greek (Graikos)
+            }
+        }
+        d_makran = {
+            old_greek = "Gedrosia" # Took from greek (Graikos)
         }
     }
 }
@@ -5002,417 +5432,6 @@ e_null = {
             }
         }
     }
-    k_jerusalem = {
-        old_greek = "Palaestina" # Took from greek (Graikos)
-
-        d_jerusalem = {
-            old_greek = "Palaestina Prima" # Took from greek (Graikos)
-
-            c_jerusalem = {
-                old_greek = "Hierosolyma" # Took from greek (Graikos)
-
-                b_towerofdavid = {
-                    old_greek = "Kastro David" # Took from greek (Graikos)
-                }
-                b_rammala = {
-                    old_greek = "Rámla" # Took from greek (Graikos)
-                }
-                b_blanchegarde = {
-                    old_greek = "Saphitha" # Took from greek (Graikos)
-                }
-                b_saintsamuel = {
-                    old_greek = "Monì tìs Agios Samuel" # Took from greek (Graikos)
-                }
-            }
-            c_beersheb = {
-                old_greek = "Neapolis" # Took from greek (Graikos)
-
-                b_bethsan = {
-                    old_greek = "Skythopolis" # Took from greek (Graikos)
-                }
-                b_nablus = {
-                    old_greek = "Neapolis" # Took from greek (Graikos)
-                }
-                b_jericho = {
-                    old_greek = "Ierichó" # Took from greek (Graikos)
-                }
-            }
-            c_hebron = {
-                old_greek = "Hebrón" # Took from greek (Graikos)
-
-                b_hebron = {
-                    old_greek = "Hebrón" # Took from greek (Graikos)
-                }
-                b_bethgibelin = {
-                    old_greek = "Eleutheroupolis" # Took from greek (Graikos)
-                }
-            }
-        }
-        d_acre = {
-            old_greek = "Tyros" # Took from greek (Graikos)
-
-            c_acre = {
-                old_greek = "Ptolemais" # Took from greek (Graikos)
-
-                b_acre = {
-                    old_greek = "Ptolemais" # Took from greek (Graikos)
-                }
-                b_castellumregis = {
-                    old_greek = "Kastro Basileios" # Took from greek (Graikos)
-                }
-                b_tyrus = {
-                    old_greek = "Tyros" # Took from greek (Graikos)
-                }
-                b_haifa = {
-                    old_greek = "Hepha" # Took from greek (Graikos)
-                }
-            }
-            c_caesarea = {
-                old_greek = "Parálios Kaisáreia" # Took from greek (Graikos)
-
-                b_caymont = {
-                    old_greek = "Cammona" # Took from greek (Graikos)
-                }
-                b_arsuf = {
-                    old_greek = "Apollonia" # Took from greek (Graikos)
-                }
-                b_syrcaesarea = {
-                    old_greek = "Parálios Kaisáreia" # Took from greek (Graikos)
-                }
-            }
-        }
-        d_oultrejourdain = {
-            old_greek = "Palaestina Salutaris" # Took from greek (Graikos)
-
-            c_petra = {
-                old_greek = "Aila" # Took from greek (Graikos)
-
-                b_jordanaqba = {
-                    old_greek = "Aila" # Took from greek (Graikos)
-                }
-            }
-            c_kerak = {
-                b_krakdemoab = {
-                    old_greek = "Characmoba" # Took from greek (Graikos)
-                }
-                b_kerak = {
-                    old_greek = "Harreketh" # Took from greek (Graikos)
-                }
-                b_tafila = {
-                    old_greek = "Taphila" # Took from greek (Graikos)
-                }
-                b_syralrabbah = {
-                    old_greek = "Areopolis" # Took from greek (Graikos)
-                }
-            }
-        }
-        d_ascalon = {
-            c_jaffa = {
-                old_greek = "Ioppa" # Took from greek (Graikos)
-
-                b_jaffa = {
-                    old_greek = "Ioppa" # Took from greek (Graikos)
-                }
-            }
-            c_ascalon = {
-                old_greek = "Iamnia" # Took from greek (Graikos)
-
-                b_ibelin = {
-                    old_greek = "Iamnia" # Took from greek (Graikos)
-                }
-            }
-        }
-        d_galilee = {
-            old_greek = "Palaestina Secunda" # Took from greek (Graikos)
-
-            c_tiberias = {
-                b_sepphoria = {
-                    old_greek = "Sepphoris" # Took from greek (Graikos)
-                }
-            }
-            c_beirut = {
-                old_greek = "Berytos" # Took from greek (Graikos)
-
-                b_beirut = {
-                    old_greek = "Berytos" # Took from greek (Graikos)
-                }
-            }
-            c_safed = {
-                old_greek = "Paneas" # Took from greek (Graikos)
-
-                b_safed = {
-                    old_greek = "Seph" # Took from greek (Graikos)
-                }
-                b_banyas = {
-                    old_greek = "Paneas" # Took from greek (Graikos)
-                }
-            }
-        }
-    }
-    k_antioch = {
-        old_greek = "Antiócheias" # Took from greek (Graikos)
-
-        d_edessa = {
-            c_edessa = {
-                b_sruk = {
-                    old_greek = "Batnai" # Took from greek (Graikos)
-                }
-                b_bile = {
-                    old_greek = "Birtha" # Took from greek (Graikos)
-                }
-                b_hromgla = {
-                    old_greek = "Romaion Koula" # Took from greek (Graikos)
-                }
-                b_samsat = {
-                    old_greek = "Samosata" # Took from greek (Graikos)
-                }
-            }
-            c_tell_bashir = {
-                b_nizip = {
-                    old_greek = "Nisibina" # Took from greek (Graikos)
-                }
-            }
-            c_aintab = {
-                b_duluk = {
-                    old_greek = "Doliche" # Took from greek (Graikos)
-                }
-            }
-            c_kaisun = {
-                old_greek = "Kaison" # Took from greek (Graikos)
-
-                b_kaisun = {
-                    old_greek = "Kaison" # Took from greek (Graikos)
-                }
-                b_behetselin = {
-                    old_greek = "Perre" # Took from greek (Graikos)
-                }
-                b_raban = {
-                    old_greek = "Rabaine" # Took from greek (Graikos)
-                }
-                b_hartanedessa = {
-                    old_greek = "Arsameia" # Took from greek (Graikos)
-                }
-            }
-        }
-        d_antioch = {
-            old_greek = "Antiokeias" # Took from greek (Graikos)
-
-            c_antiocheia = {
-                b_stsymeon = {
-                    old_greek = "Seleukeia Pieria" # Took from greek (Graikos)
-                }
-                b_darbsak = {
-                    old_greek = "Trapezon" # Took from greek (Graikos)
-                }
-                b_harenc = {
-                    old_greek = "Kastro Antiokheia" # Took from greek (Graikos)
-                }
-                b_baghras = {
-                    old_greek = "Pagrai" # Took from greek (Graikos)
-                }
-            }
-            c_saone = {
-                old_greek = "Laodikeia" # Took from greek (Graikos)
-
-                b_latakiah = {
-                    old_greek = "Laodikeia" # Took from greek (Graikos)
-                }
-                b_saone = {
-                    old_greek = "Sigon" # Took from greek (Graikos)
-                }
-                b_jabala = {
-                    old_greek = "Gabala" # Took from greek (Graikos)
-                }
-            }
-            c_archa = {
-                old_greek = "Apameia" # Took from greek (Graikos)
-
-                b_famia = {
-                    old_greek = "Apameia" # Took from greek (Graikos)
-                }
-                b_bourzeycastle = {
-                    old_greek = "Lysias" # Took from greek (Graikos)
-                }
-            }
-        }
-        d_tripoli = {
-            old_greek = "Phoiníkes" # Took from greek (Graikos)
-
-            c_tortosa = {
-                old_greek = "Antarados" # Took from greek (Graikos)
-
-                b_tortosa = {
-                    old_greek = "Antarados" # Took from greek (Graikos)
-                }
-                b_maraclea = {
-                    old_greek = "Marakleia" # Took from greek (Graikos)
-                }
-                b_valania = {
-                    old_greek = "Balanias" # Took from greek (Graikos)
-                }
-            }
-            c_monferrand = {
-                old_greek = "Raphaniai" # Took from greek (Graikos)
-
-                b_raphania = {
-                    old_greek = "Raphaniai" # Took from greek (Graikos)
-                }
-            }
-            c_masyaf = {
-                old_greek = "Marsyas" # Took from greek (Graikos)
-
-                b_masyaf = {
-                    old_greek = "Marsyas" # Took from greek (Graikos)
-                }
-            }
-            c_tripoli = {
-                b_citadeloftripoli = {
-                    old_greek = "Kastro Tripolis" # Took from greek (Graikos)
-                }
-                b_archa = {
-                    old_greek = "Archa" # Took from greek (Graikos)
-                }
-                b_nephin = {
-                    old_greek = "Nephioun" # Took from greek (Graikos)
-                }
-            }
-            c_gibelet = {
-                old_greek = "Byblos" # Took from greek (Graikos)
-
-                b_gibeletcastle = {
-                    old_greek = "Kastro Byblos" # Took from greek (Graikos)
-                }
-                b_gibelet = {
-                    old_greek = "Byblos" # Took from greek (Graikos)
-                }
-            }
-        }
-    }
-    k_aljazira = {
-        old_greek = "Assyria" # Took from greek (Graikos)
-
-        d_amida = {
-            old_greek = "Arzanene" # Took from greek (Graikos)
-
-            c_amida = {
-                b_ulucamii = {
-                    old_greek = "Monì tìs Agios Giragos" # Took from greek (Graikos)
-                }
-            }
-            c_hisn_kayf = {
-                old_greek = "Martyropolis" # Took from greek (Graikos)
-
-                b_mayyafarikin = {
-                    old_greek = "Martyropolis" # Took from greek (Graikos)
-                }
-                b_hisnkayf = {
-                    old_greek = "Kiphas" # Took from greek (Graikos)
-                }
-                b_siird = {
-                    old_greek = "Sirte" # Took from greek (Graikos)
-                }
-                b_arzan = {
-                    old_greek = "Nikephorion" # Took from greek (Graikos)
-                }
-            }
-        }
-        d_jazira = {
-            old_greek = "Euphratensis" # Took from greek (Graikos)
-
-            c_asas = {
-                old_greek = "Kallinikos" # Took from greek (Graikos)
-
-                b_rakka = {
-                    old_greek = "Kallinikos" # Took from greek (Graikos)
-                }
-                b_qalatjabar = {
-                    old_greek = "Dausara" # Took from greek (Graikos)
-                }
-                b_resafa = {
-                    old_greek = "Sergioupolis" # Took from greek (Graikos)
-                }
-            }
-            c_al_bichri = {
-                old_greek = "Kirkesion" # Took from greek (Graikos)
-
-                b_deiralzur = {
-                    old_greek = "Deir" # Took from greek (Graikos)
-                }
-                b_osrhoene = {
-                    old_greek = "Kirkesion" # Took from greek (Graikos)
-                }
-            }
-            c_harran = {
-                old_greek = "Karrai" # Took from greek (Graikos)
-
-                b_harran = {
-                    old_greek = "Karrai" # Took from greek (Graikos)
-                }
-                b_tallmazwan = {
-                    old_greek = "Konstantina" # Took from greek (Graikos)
-                }
-            }
-        }
-        d_diyareast = {
-            c_mardin = {
-                old_greek = "Marida" # Took from greek (Graikos)
-
-                b_maridin = {
-                    old_greek = "Marida" # Took from greek (Graikos)
-                }
-                b_dunaysir = {
-                    old_greek = "Margdis" # Took from greek (Graikos)
-                }
-                b_alsywaydaturkey = {
-                    old_greek = "Sevaverak" # Took from greek (Graikos)
-                }
-            }
-            c_amadiya = {
-                old_greek = "Corduene" # Took from greek (Graikos)
-            }
-            c_al_jazira = {
-                old_greek = "Bethzabde" # Took from greek (Graikos)
-
-                b_jazirat = {
-                    old_greek = "Bethzabde" # Took from greek (Graikos)
-                }
-                b_fenek = {
-                    old_greek = "Penek" # Took from greek (Graikos)
-                }
-            }
-            c_sinjar = {
-                old_greek = "Singara" # Took from greek (Graikos)
-
-                b_sinjar = {
-                    old_greek = "Singara" # Took from greek (Graikos)
-                }
-            }
-            c_bira = {
-                old_greek = "Nisibis" # Took from greek (Graikos)
-
-                b_nasibin = {
-                    old_greek = "Nisibis" # Took from greek (Graikos)
-                }
-            }
-            c_erbil = {
-                old_greek = "Arbela" # Took from greek (Graikos)
-
-                b_arbil = {
-                    old_greek = "Arbela" # Took from greek (Graikos)
-                }
-            }
-            c_mosul = {
-                old_greek = "Mepsila" # Took from greek (Graikos)
-
-                b_mosulcastle = {
-                    old_greek = "Kastron Mepsila" # Took from greek (Graikos)
-                }
-                b_mosul = {
-                    old_greek = "Mepsila" # Took from greek (Graikos)
-                }
-            }
-        }
-    }
     k_taurica = {
         old_greek = "Skythia" # Took from greek (Graikos)
 
@@ -5563,23 +5582,6 @@ e_null = {
                     old_greek = "Skhimar" # Took from greek (Graikos)
                 }
             }
-        }
-    }
-    k_sistan = {
-        d_sistan = {
-            c_farah = {
-                old_greek = "Prophthasia" # Took from greek (Graikos)
-
-                b_farah = {
-                    old_greek = "Prophthasia" # Took from greek (Graikos)
-                }
-            }
-            c_rukhadj = {
-                old_greek = "Arachosia" # Took from greek (Graikos)
-            }
-        }
-        d_makran = {
-            old_greek = "Gedrosia" # Took from greek (Graikos)
         }
     }
     k_georgia = {
