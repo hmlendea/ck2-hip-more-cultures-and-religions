@@ -124,6 +124,42 @@ byzantine = {
         disinherit_from_blinding = yes
         modifier = greek_culture_modifier
     }
+    romanian_russian = {
+        graphical_cultures = { byzantinegfx }
+        color = { 0.25 0.6 0.6 }
+
+        male_names = {
+            Alexandru_Alexander Alexei_Alexis Andrei_Andrew Arcadie_Arkadios Atanasie_Athanasius Boris_Boris Briachislav_Bretislaus
+            Chiril_Cyril Constantin_Constantine Cozma_Cosma Damian_Damian Daniel_Daniel David_David Dimitrie_Demetrius Eftimie_Yefimiy
+            Elisei_Yelisey Emil Feodor_Theodore Gavril_Gabriel Ghenadie_Gennadios Grigorie_Gregory Iacob_Jacob Iancu_John
+            Ieremia_Yeremey Igor_Ingvar Ilie_Elio Iurie_George Ivan_John Ladislau_Vladislav Matei_Matthew Metodie_Methodios
+            Mihail_Michael Nichita_Nikita Nicolaie_Nicholas Pavel_Paul Petre_Peter Radoslav Radovan_Radovan Rodislav Rogvolod
+            Roman_Roman Seneslav Serghei_Sergios Simion_Simon Stanislav_Stanislav Stefan_Stephen Svetozar Teodor_Theodore Tihomir
+            Timotei_Timotheos Trifon Vanghelie_Evangelos Vasile_Basil Veaceslav_Wenzel Vitalie_Vitalis Vladimir_Vladimir 
+        }
+        female_names = {
+			Alexandra_Alexandra Alexia Ana_Anna Anastasia_Anastasia Daria_Darya Ecaterina_Catherine Eftimia_Euphemia Elena_Helen
+            Elisaveta_Elisabeth Emilia_Emily Eudochia_Eudocia Eufrosina_Euphrosyne Feodora_Theodora Feodosia_Theodosia Iacoba
+            Ioana_Joan Irina_Irene Iulia_Juliana Maria_Maria Marina_Marina Mihaela Natalia_Natalie Nicola_Nicholas Olga_Helga
+            Petra Sofia_Sophia Stefana_Stephania Tatiana_Tatyana Teodora_Theodora Vasilica_Vasilisa 
+        }
+
+        from_dynasty_prefix = "de "
+        male_patronym = "ovici"
+        prefix = no
+
+        # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+        pat_grf_name_chance = 45
+        mat_grf_name_chance = 25
+        father_name_chance = 5
+
+        # Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+        pat_grm_name_chance = 20
+        mat_grm_name_chance = 35
+        mother_name_chance = 2
+
+		modifier = romanian_culture_modifier
+    }
 }
 celtic = {
     boii = {
