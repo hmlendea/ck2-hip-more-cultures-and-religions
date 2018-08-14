@@ -1,0 +1,20 @@
+######################################
+# Romanian-Russian dynasties
+######################################
+#
+######################################
+# Range 1018730500-1018730599
+######################################
+1018730500 = {
+    name = "Rusu"
+    culture = romanian_russian
+}
+1018730501 = {
+    name = "Chivu"
+    culture = romanian_russian
+}
+1018730502 = {
+    name = "Rumânschi"
+    culture = romanian_russian
+}
+

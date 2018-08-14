@@ -891,17 +891,129 @@ e_byzantium = {
 e_scandinavia = {
     old_greek = "Thule" # Took from greek (Graikos)
 }
+e_russia = {
+    k_vladimir = {
+        d_rostov = {
+            c_yaroslavl = {
+                romanian_russian = "Iaroslav"
+
+                b_yaroslavl = {
+                    romanian_russian = "Iaroslav"
+                }
+            }
+        }
+        d_moskva = {
+            romanian_russian = "Moscu" # Or "Moscova"
+
+            c_moskva = {
+                romanian_russian = "Moscu" # Or "Moscova"
+
+                b_moskva = {
+                    romanian_russian = "Moscu" # Or "Moscova"
+                }
+            }
+        }
+    }
+    k_ruthenia = {
+        romanian_russian = "Chiev"
+
+        d_kiev = {
+            romanian_russian = "Chiev"
+
+            c_zhytomyr = {
+                romanian_russian = "Jîtomîr"
+
+                b_berdychiv = {
+                    romanian_russian = "Berdîciv"
+                }
+                b_vinnytsia = {
+                    romanian_russian = "Vinita" # t has ,
+                }
+                b_zhitomir = {
+                    romanian_russian = "Jîtomîr"
+                }
+            }
+            c_iskorosten = {
+                romanian_russian = "Ovruci"
+                
+                b_ovruch = {
+                    romanian_russian = "Ovruci"
+                }
+                b_chernobel = {
+                    romanian_russian = "Cernobîl"
+                }
+            }
+        }
+    }
+}
 e_poland = {
     k_poland = {
+        romanian_russian = "Polonia"
+
+        d_mazovia = {
+            romanian_russian = "Mazovia"
+        }
         d_greater_poland = {
+            romanian_russian = "Polonia Mare"
+            
+            c_poznanskie = {
+                romanian_russian = "Posnania"
+
+                b_poznan = {
+                    romanian_russian = "Posnania"
+                }
+            }
             c_kaliskie = {
                 dacian = "Setidava"
+                romanian_russian = "Setidava" # Historical? Copied from barony name
                 thracian = "Setidava"
 
                 b_kalisz = {
                     dacian = "Setidava"
+                    romanian_russian = "Setidava"
                     thracian = "Setidava"
                 }
+            }
+        }
+        d_silesia = {
+            romanian_russian = "Silezia"
+
+            c_wroclaw = {
+                romanian_russian = "Breslavia"
+
+                b_wroclaw = {
+                    romanian_russian = "Breslavia"
+                }
+            }
+        }
+        d_sandomierz = {
+            c_wislica = {
+                b_tarnow = {
+                    romanian_russian = "Tarnovia"
+                }
+            }
+        }
+        d_lesser_poland = {
+            romanian_russian = "Polonia Micã" # Historical? Translated.
+
+            c_krakowskie = {
+                romanian_russian = "Cracovia"
+
+                b_krakow = {
+                    romanian_russian = "Cracovia"
+                }
+            }
+        }
+        d_kuyavia = {
+            romanian_russian = "Cuiava"
+            
+            c_chelminskie = {
+                b_thorn = {
+                    romanian_russian = "Turnu"
+                }
+            }
+            c_kujawy = {
+                romanian_russian = "Cuiava"
             }
         }
     }
