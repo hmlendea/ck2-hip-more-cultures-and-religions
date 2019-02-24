@@ -206,7 +206,7 @@
     name = "Galabrioi"
     culture = thracian
 }
-1018730150= {
+1018730150 = {
     name = "Thoynatai"
     culture = thracian
 }
