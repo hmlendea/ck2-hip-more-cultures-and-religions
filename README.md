@@ -14,7 +14,7 @@ It was last updated for HIP version Furry 1 from 14.02.2019, CK2 version 3.0.1.1
 # Useful links
 
 * [GitHub page](https://github.com/hmlendea/ck2-hip-more-cultures-and-religions)
-* [Steam Workshop page](http://steamcommunity.com/workshop/filedetails/discussion/1258219157)
+* [Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=1258219157)
 
 # Features
 
