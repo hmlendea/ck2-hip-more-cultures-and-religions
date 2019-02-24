@@ -24,6 +24,7 @@ It was last updated for HIP version Furry 1 from 14.02.2019, CK2 version 3.0.1.1
 * Boii (Boio) - Celtic group
 * Hellenic/Old Greek (Ellen) - Byzantine group
 * Macedonian (Makedon) - Byzantine group
+* Romanian-Russian (Rumân-Rus) - Byzantine group : Merger between Romanian and Russian, based on Romanian
 
 ## Religions
 * Zamolxian - Pagan group
