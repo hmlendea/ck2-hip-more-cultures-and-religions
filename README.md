@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/hmlendea/ck2-hip-more-cultures-and-religions.svg?branch=master)](https://travis-ci.com/hmlendea/ck2-hip-more-cultures-and-religions)
+
 # About
 
 This is a sub-mod for CK2's Historical Immersion Project that adds new cultures and religions.
