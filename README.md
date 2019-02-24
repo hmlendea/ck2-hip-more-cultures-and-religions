@@ -9,6 +9,8 @@ It requires CHEATS or RULER DESIGNER to set the new culture and religions to you
 
 It's intended purpose is to be used in alternative history scenarios.
 
+It was last updated for HIP version Furry 1 from 14.02.2019, CK2 version 3.0.1.1
+
 # Useful links
 
 * [GitHub page](https://github.com/hmlendea/ck2-hip-more-cultures-and-religions)

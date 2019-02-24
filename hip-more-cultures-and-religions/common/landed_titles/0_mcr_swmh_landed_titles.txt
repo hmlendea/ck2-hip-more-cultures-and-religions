@@ -215,9 +215,6 @@ e_hre = {
                 }
             }
         }
-        d_chur = {
-            old_greek = "Curia" # Took from greek (Graikos)
-        }
     }
     k_bohemia = {
         old_greek = "Boemías" # Took from greek (Graikos)
@@ -231,7 +228,7 @@ e_hre = {
     }
 }
 e_byzantium = {
-    k_byzantium = {
+    k_thrace = {
         old_greek = "Thessalonikes" # Took from greek (Graikos)
 
         d_aegean_islands = {
@@ -1819,11 +1816,11 @@ e_arabia = {
                 b_fustat = {
                     old_greek = "Phystaton" # Took from greek (Graikos)
                 }
-                b_qaylub = {
-                    old_greek = "Heliopolis" # Took from greek (Graikos)
-                }
                 b_alazhar = {
                     old_greek = "Kremastá Ekklisía" # Took from greek (Graikos)
+                }
+                b_ain_shams = {
+                    old_greek = "Heliopolis" # Took from greek (Graikos)
                 }
             }
             c_manupura = {
@@ -1849,7 +1846,7 @@ e_arabia = {
             c_sarqihya = {
                 old_greek = "Klysma" # Took from greek (Graikos)
 
-                b_quzlum = {
+                b_qulzum = {
                     old_greek = "Klysma" # Took from greek (Graikos)
                 }
             }
@@ -3242,7 +3239,7 @@ e_italy = {
             }
         }
     }
-    k_patrimoniumpetri = {
+    k_papacy = {
         old_greek = "Exarchos Ravenna" # Took from greek (Graikos)
 
         d_latium = {
@@ -4686,9 +4683,6 @@ e_africa = {
                 b_cartaghe = {
                     old_greek = "Karchedon" # Took from greek (Graikos)
                 }
-                b_zaghouan = {
-                    old_greek = "Thuburbo Maius" # Took from greek (Graikos)
-                }
                 b_hammamet = {
                     old_greek = "Pupput" # Took from greek (Graikos)
                 }
@@ -4731,7 +4725,7 @@ e_africa = {
                 b_sabiba = {
                     old_greek = "Sufes" # Took from greek (Graikos)
                 }
-                b_eljem = {
+                b_sabra = {
                     old_greek = "Aquae Regiae" # Took from greek (Graikos)
                 }
             }
@@ -4744,11 +4738,8 @@ e_africa = {
                 b_mahdia = {
                     old_greek = "Thapsos" # Took from greek (Graikos)
                 }
-                b_slakta = {
+                b_salakta = {
                     old_greek = "Sullecthum" # Took from greek (Graikos)
-                }
-                b_alhamma = {
-                    old_greek = "Thaenae" # Took from greek (Graikos)
                 }
             }
         }
@@ -4764,14 +4755,14 @@ e_africa = {
                 b_gabes = {
                     old_greek = "Tacape" # Took from greek (Graikos)
                 }
+                b_alhamma = {
+                    old_greek = "Thaenae" # Took from greek (Graikos)
+                }
                 b_tataouine = {
                     old_greek = "Tabalati" # Took from greek (Graikos)
                 }
                 b_medenine = {
                     old_greek = "Zitha" # Took from greek (Graikos)
-                }
-                b_jarjis = {
-                    old_greek = "Gergis" # Took from greek (Graikos)
                 }
             }
             c_djerba = {
@@ -4787,9 +4778,6 @@ e_africa = {
             c_nafzawa = {
                 old_greek = "Nepte" # Took from greek (Graikos)
 
-                b_nafta = {
-                    old_greek = "Nepte" # Took from greek (Graikos)
-                }
                 b_alqalah = {
                     old_greek = "Ad Templum" # Took from greek (Graikos)
                 }
@@ -4809,6 +4797,9 @@ e_africa = {
                 b_tazwir = {
                     old_greek = "Thusuros" # Took from greek (Graikos)
                 }
+                b_nafta = {
+                    old_greek = "Nepte" # Took from greek (Graikos)
+                }
             }
         }
         d_tripolitania = {
@@ -4816,11 +4807,14 @@ e_africa = {
                 b_libtripoli = {
                     old_greek = "Oía" # Took from greek (Graikos)
                 }
-                b_nalut = {
-                    old_greek = "Tabuinati" # Took from greek (Graikos)
+                b_leptismagna = {
+                    old_greek = "Lepcis Magna" # Took from greek (Graikos)
                 }
-                b_baniwaled = {
-                    old_greek = "Assaria" # Took from greek (Graikos)
+                b_sabrata = {
+                    old_greek = "Sabratha" # Took from greek (Graikos)
+                }
+                b_zawiya = {
+                    old_greek = "Pontos" # Took from greek (Graikos)
                 }
             }
             c_leptis_magna = {
@@ -4828,9 +4822,6 @@ e_africa = {
 
                 b_misratah = {
                     old_greek = "Thubactis" # Took from greek (Graikos)
-                }
-                b_leptismagna = {
-                    old_greek = "Lepcis Magna" # Took from greek (Graikos)
                 }
             }
             c_syrte = {
@@ -4840,17 +4831,37 @@ e_africa = {
                     old_greek = "Macomades" # Took from greek (Graikos)
                 }
             }
-            c_zawiya = {
+            c_jafara = {
                 old_greek = "Abrotonon" # Took from greek (Graikos)
 
-                b_zawiya = {
-                    old_greek = "Pontos" # Took from greek (Graikos)
-                }
-                b_sabrata = {
-                    old_greek = "Abrotonon" # Took from greek (Graikos)
-                }
                 b_zuwara = {
                     old_greek = "Villa Aniciorum" # Took from greek (Graikos)
+                }
+                b_jarjis = {
+                    old_greek = "Gergis" # Took from greek (Graikos)
+                }
+            }
+            c_nafusa = {
+                old_greek = "Thenteos" # Took from greek (Graikos)
+
+                b_nafusa = {
+                    old_greek = "Thenteos" # Took from greek (Graikos)
+                }
+                b_nalut = {
+                    old_greek = "Tabuinati" # Took from greek (Graikos)
+                }
+                b_djadojafran = {
+                    old_greek = "Thenadassa" # Took from greek (Graikos)
+                }
+                b_baniwaled = {
+                    old_greek = "Assaria" # Took from greek (Graikos)
+                }
+            }
+            c_waddan = {
+                old_greek = "Gholaia" # Took from greek (Graikos)
+
+                b_waddan = {
+                    old_greek = "Gholaia" # Took from greek (Graikos)
                 }
             }
         }
@@ -4986,11 +4997,11 @@ e_africa = {
                 b_mattija = {
                     old_greek = "Iol Caesarea" # Took from greek (Graikos)
                 }
-                b_miliyana = {
+                b_miliana = {
                     old_greek = "Zucchabar" # Took from greek (Graikos)
                 }
-                b_sharashal = {
-                    old_greek = "Tipasa" # Took from greek (Graikos)
+                b_sharshal = {
+                    old_greek = "Iol Caesarea" # Took from greek (Graikos)
                 }
                 b_elachour = {
                     old_greek = "Rusguniae" # Took from greek (Graikos)
@@ -5014,9 +5025,6 @@ e_africa = {
                 b_sidibelabbes = {
                     old_greek = "Altava" # Took from greek (Graikos)
                 }
-                b_bedrabine = {
-                    old_greek = "Numerus Syrorum" # Took from greek (Graikos)
-                }
             }
             c_orania = {
                 old_greek = "Siga" # Took from greek (Graikos)
@@ -5024,7 +5032,7 @@ e_africa = {
                 b_oran = {
                     old_greek = "Unica Colonia" # Took from greek (Graikos)
                 }
-                b_arsgul = {
+                b_arshgul = {
                     old_greek = "Siga" # Took from greek (Graikos)
                 }
                 b_kasribnsinan = {
@@ -5240,7 +5248,7 @@ e_persia = {
             }
         }
     }
-    k_khwarzemia = {
+    k_khwarezmia = {
         d_khwarazm = {
             c_uzboy = {
                 old_greek = "Nisaia" # Took from greek (Graikos)
@@ -5773,25 +5781,6 @@ e_null = {
             c_zawila = {
                 b_sebha = {
                     old_greek = "Sabae" # Took from greek (Graikos)
-                }
-            }
-        }
-        d_nafusa = {
-            c_nafusa = {
-                old_greek = "Thenteos" # Took from greek (Graikos)
-
-                b_nafusa = {
-                    old_greek = "Thenteos" # Took from greek (Graikos)
-                }
-                b_djadojafran = {
-                    old_greek = "Thenadassa" # Took from greek (Graikos)
-                }
-            }
-            c_waddan = {
-                old_greek = "Gholaia" # Took from greek (Graikos)
-
-                b_waddan = {
-                    old_greek = "Gholaia" # Took from greek (Graikos)
                 }
             }
         }
