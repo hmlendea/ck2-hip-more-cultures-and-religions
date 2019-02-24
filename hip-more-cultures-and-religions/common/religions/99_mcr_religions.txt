@@ -1,50 +1,15 @@
 pagan_group = {
     hellenic_pagan = {
-        graphical_culture = westerngfx
-
-        pre_reformed = yes
-
-        icon = 37
-
-        color = { 0.6 0.1 0.1 }
-
-        high_god_name = GOD_SATURN
-
-        god_names = {
-            GOD_JUPITER GOD_MERCURY GOD_MARS GOD_VENUS GOD_MINERVA GOD_VESTA
-        }
-        evil_god_names = {
-            PLUTO
-        }
-
-        crusade_name = GREAT_HOLY_WAR
-        scripture_name = THE_LEGENDS
-        priest_title = AUGUR
-
-        priests_can_marry = yes
-        female_temple_holders = yes
-        max_consorts = 3
-
-        religious_clothing_head = 3
-        religious_clothing_priest = 3
-
         allow_in_ruler_designer = yes
-        intermarry = christian
-
-        dynamic_cult = no
-        secret_religion = no
     }
-}
-balkan_religious_group = {
-    color = { 0.45 0.29 0.15 }
-    graphical_culture = westerngfx
-    has_coa_on_barony_only = yes
-    playable = yes
 
     zamolxian_reformed = {
-        graphical_culture = byzantinegfx
+        graphical_culture = hellenicgfx
+        alternate_start = { always = no }
+        interface_skin = { pagan_interface }
 
         icon = 5
+        heresy_icon = 14
 
         color = { 0.45 0.29 0.15 }
 
@@ -55,28 +20,28 @@ balkan_religious_group = {
         }
 
         crusade_name = GREAT_HOLY_WAR
+        scripture_name = THE_LEGENDS
         priest_title = THRACIAN_PRIEST
-        priests_can_marry = yes
-        female_temple_holders = no
-        max_consorts = 3
 
-        defensive_attrition = yes
+        priests_can_marry = no
+        priests_can_inherit = no
+        female_temple_holders = yes
+        
+        can_call_crusade = yes
+        join_crusade_if_bordering_hostile = yes
 
-        religious_clothing_head = 3
-        religious_clothing_priest = 3
+        religious_clothing_head = 12
+        religious_clothing_priest = 11
 
         allow_in_ruler_designer = no
-
-        dislike_tribal_organization = yes
-
-        dynamic_cult = no
-        secret_religion = no
-        intermarry = christian
     }
     zamolxian = {
-        graphical_culture = byzantinegfx
+        graphical_culture = hellenicgfx
+        alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
+        interface_skin = { pagan_interface }
 
         icon = 5
+        heresy_icon = 14
 
         color = { 0.45 0.29 0.15 }
 
@@ -87,22 +52,16 @@ balkan_religious_group = {
         }
 
         crusade_name = GREAT_HOLY_WAR
+        scripture_name = THE_LEGENDS
         priest_title = THRACIAN_PRIEST
-        priests_can_marry = yes
-        female_temple_holders = no
-        max_consorts = 3
 
-        defensive_attrition = yes
+        priests_can_marry = no
+        priests_can_inherit = no
+        female_temple_holders = yes
 
-        religious_clothing_head = 3
-        religious_clothing_priest = 3
+        religious_clothing_head = 12
+        religious_clothing_priest = 11
 
         allow_in_ruler_designer = yes
-
-        dislike_tribal_organization = yes
-
-        dynamic_cult = no
-        secret_religion = no
-        intermarry = christian
     }
 }

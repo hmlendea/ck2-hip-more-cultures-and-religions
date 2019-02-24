@@ -26,7 +26,7 @@ It was last updated for HIP version Furry 1 from 14.02.2019, CK2 version 3.0.1.1
 * Macedonian (Makedon) - Byzantine group
 
 ## Religions
-* Zamolxian - Balkan group (new)
+* Zamolxian - Pagan group
 * Hellenistic - Pagan group (It's the same as in vanilla, but made playable)
 
 ## Others
