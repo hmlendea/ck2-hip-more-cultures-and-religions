@@ -1,10 +1,10 @@
 ### EMPIRES
-e_thrace;Thrakes;;;;;;;;;;;;;x
+e_thrace;Thrakes;Thrakes;Thrakes;;Thrakes;;;;;;;;;x
 
 ### KINGDOMS
-k_mcr_dacia;Dacia;;;;;;;;;;;;;x
-k_thrace;Thrakes;;;;;;;;;;;;;x
+k_mcr_dacia;Dacia;Dacia;Dacia;;Dacia;;;;;;;;;x
+k_thrace;Thrakes;Thrakes;Thrakes;;Thrakes;;;;;;;;;x
 
 ### DUCHIES
-d_apuli;Apouloi;;;;;;;;;;;;;x
-d_carpi;Karpatoi;;;;;;;;;;;;;x
+d_apuli;Apouloi;Apouloi;Apouloi;;Apouloi;;;;;;;;;x
+d_carpi;Karpatoi;Karpatoi;Karpatoi;;Karpatoi;;;;;;;;;x

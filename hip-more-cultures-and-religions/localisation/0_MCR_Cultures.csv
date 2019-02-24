@@ -1,10 +1,10 @@
 # GROUPS
-thracian_group;Traki;;;;;;;;;;;;;x # Based on the name Trakidas (Egypt Ostrakon P12C2R32)
+thracian_group;Traki;Traki;Traki;;Traki;;;;;;;;;x # Based on the name Trakidas (Egypt Ostrakon P12C2R32)
 
 # CULTURES
-boii;Boio;;;;;;;;;;;;;x
-dacian;Daoi;;;;;;;;;;;;;x
-macedonian;Makedon;;;;;;;;;;;;;x
-old_greek;Ellen;;;;;;;;;;;;;x
-romanian_russian;Rumân-Rus;;;;;;;;;;;;;x
-thracian;Traki;;;;;;;;;;;;;x
+boii;Boio;Boio;Boio;;Boio;;;;;;;;;x
+dacian;Daoi;Daoi;Daoi;;Daoi;;;;;;;;;x
+macedonian;Makedon;Makedon;Makedon;;Makedon;;;;;;;;;x
+old_greek;Ellen;Ellen;Ellen;;Ellen;;;;;;;;;x
+romanian_russian;Rumân-Rus;Rumân-Rus;Rumân-Rus;;Rumân-Rus;;;;;;;;;x
+thracian;Traki;Traki;Traki;;Traki;;;;;;;;;x

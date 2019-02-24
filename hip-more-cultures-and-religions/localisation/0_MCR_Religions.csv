@@ -1,13 +1,13 @@
 # RELIGION GROUPS
-balkan_religious_group;Balkan;;;;;;;;;;;;;x
+balkan_religious_group;Balkan;Balkanique;Balkan;;Balcánico;;;;;;;;;x
 
 # RELIGIONS
-zamolxian;Zamolxian;;;;;;;;;;;;;x
-zamolxian_reformed;Zamolxian;;;;;;;;;;;;;x#
+zamolxian;Zamolxian;Zamolxian;Zamolxian;;Zamolxiano;;;;;;;;;x
+zamolxian_reformed;Zamolxian;Zamolxian;Zamolxian;;Zamolxiano;;;;;;;;;x#
 
 # RELIGION DESCRIPTIONS
-zamolxian_DESC;Zamolxianism is the ancient religion of the dacians. They primarly worship Zamolxis and consider him the greatest of the gods. The religion is characterised by strict order and belief in immortality, its followers considering death as a mere passage to another plane and happily fighting to their deaths.;;;;;;;;;;;;;x
-zamolxian_reformed_DESC;Zamolxianism is the ancient religion of the dacians. They primarly worship Zamolxis and consider him the greatest of the gods. The religion is characterised by strict order and belief in immortality, its followers considering death as a mere passage to another plane and happily fighting to their deaths.;;;;;;;;;;;;;x
+zamolxian_DESC;Zamolxianism is the ancient religion of the dacians. They primarly worship Zamolxis and consider him the greatest of the gods. The religion is characterised by strict order and belief in immortality, its followers considering death as a mere passage to another plane and happily fighting to their deaths.;Le Zamolxianisme est l'ancienne religion des daces. Ils vénèrent principalement Zamolxis et le considèrent comme le plus grand des dieux. La religion est caractérisée par un ordre strict et une croyance en l'immortalité, ses adeptes considérant la mort comme un simple passage sur un autre plan et luttant joyeusement jusqu'à la mort.;Der Zamolxianismus ist die alte Religion der Daker. Sie verehren primär Zamolxis und betrachten ihn als den größten der Götter. Die Religion ist durch strenge Ordnung und Glauben an die Unsterblichkeit gekennzeichnet. Ihre Anhänger betrachten den Tod als bloße Passage zu einem anderen Flugzeug und kämpfen glücklich bis zum Tod.;;El zamolxianismo es la antigua religión de los dacios. Principalmente adoran a Zamolxis y lo consideran el más grande de los dioses. La religión se caracteriza por el estricto orden y la creencia en la inmortalidad, y sus seguidores consideran la muerte como un mero pasaje a otro plano y luchan felizmente por su muerte.;;;;;;;;;x
+zamolxian_reformed_DESC;Zamolxianism is the ancient religion of the dacians. They primarly worship Zamolxis and consider him the greatest of the gods. The religion is characterised by strict order and belief in immortality, its followers considering death as a mere passage to another plane and happily fighting to their deaths.;Le Zamolxianisme est l'ancienne religion des daces. Ils vénèrent principalement Zamolxis et le considèrent comme le plus grand des dieux. La religion est caractérisée par un ordre strict et une croyance en l'immortalité, ses adeptes considérant la mort comme un simple passage sur un autre plan et luttant joyeusement jusqu'à la mort.;Der Zamolxianismus ist die alte Religion der Daker. Sie verehren primär Zamolxis und betrachten ihn als den größten der Götter. Die Religion ist durch strenge Ordnung und Glauben an die Unsterblichkeit gekennzeichnet. Ihre Anhänger betrachten den Tod als bloße Passage zu einem anderen Flugzeug und kämpfen glücklich bis zum Tod.;;El zamolxianismo es la antigua religión de los dacios. Principalmente adoran a Zamolxis y lo consideran el más grande de los dioses. La religión se caracteriza por el estricto orden y la creencia en la inmortalidad, y sus seguidores consideran la muerte como un mero pasaje a otro plano y luchan felizmente por su muerte.;;;;;;;;;x
 
 # DEITIES
 GOD_ZAMOLXIS;Zamolxis;Zamolxis;Zamolxis;;Zamolxis;;;;;;;;;x
@@ -16,12 +16,12 @@ GOD_DERZELAS;Derzelas;Derzelas;Derzelas;;Derzelas;;;;;;;;;x
 GOD_KOTYS;Kotys;Kotys;Kotys;;Kotys;;;;;;;;;x
 
 # PRIESTS
-THRACIAN_PRIEST;Ktístai;Zamolxis;Zamolxis;;Zamolxis;;;;;;;;;x
+THRACIAN_PRIEST;Ktístai;Ktístai;Ktístai;;Ktístai;;;;;;;;;x
 THRACIAN_PRIEST_FOA;Your Holiness;Votre Sainteté;Eure Heiligkeit;;Su Santidad;;;;;;;;;x
 
 # LANDED TITLES
-d_zamolxian_reformed;Zamolxian Church;;;;;;;;;;;;;x
+d_zamolxian_reformed;Zamolxian Church;Église Zamolxian;Zamolxian Kirche;;Iglesia Zamolxiana;;;;;;;;;x
 
 # Titles
-temple_baron_zamolxian;Ktístai;Zamolxis;Zamolxis;;Zamolxis;;;;;;;;;x
-temple_baron_zamolxian_reformed;Ktístai;Zamolxis;Zamolxis;;Zamolxis;;;;;;;;;x
+temple_baron_zamolxian;Ktístai;Ktístai;Ktístai;;Ktístai;;;;;;;;;x
+temple_baron_zamolxian_reformed;Ktístai;Ktístai;Ktístai;;Ktístai;;;;;;;;;x

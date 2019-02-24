@@ -422,12 +422,12 @@ e_byzantium = {
             dacian = "Krobyzon" # Not historical. Based on the name of the tribe that used to inhabit the area (the Krobyzoi)
             old_greek = "Mikrá Skythia" # Took from greek (Graikos)
             thracian = "Krobyzon" # Not historical. Based on the name of the tribe that used to inhabit the area (the Krobyzoi)
-            
+
             c_karvuna = {
                 dacian = "Dionysopolis" # This was a greek town, and this name is also actually greek
                 old_greek = "Dionysopolis"
                 thracian = "Dionysopolis" # This was a greek town, and this name is also actually greek
-            
+
                 b_provadiya = {
                     old_greek = "Provat" # Took from greek (Graikos)
                 }
@@ -935,7 +935,7 @@ e_russia = {
             }
             c_iskorosten = {
                 romanian_russian = "Ovruci"
-                
+
                 b_ovruch = {
                     romanian_russian = "Ovruci"
                 }
@@ -955,7 +955,7 @@ e_poland = {
         }
         d_greater_poland = {
             romanian_russian = "Polonia Mare"
-            
+
             c_poznanskie = {
                 romanian_russian = "Posnania"
 
@@ -1006,7 +1006,7 @@ e_poland = {
         }
         d_kuyavia = {
             romanian_russian = "Cuiava"
-            
+
             c_chelminskie = {
                 b_thorn = {
                     romanian_russian = "Turnu"

@@ -97,11 +97,11 @@ e_thrace = {
     }
 }
 d_carpi = { # Karpatoi
-	color = { 206 17 38 }
-	color2 = { 255 255 255 }
-	culture = dacian
-	#tribe = yes
-	capital = 1146 # Iasi
+    color = { 206 17 38 }
+    color2 = { 255 255 255 }
+    culture = dacian
+    #tribe = yes
+    capital = 1146 # Iasi
     allow = {
         title_duke_basic_allow = yes
         hidden_tooltip = {
@@ -114,10 +114,10 @@ d_carpi = { # Karpatoi
 }
 d_apuli = { # Apouloi
     color = { 245 62 62 }
-	color2 = { 255 255 255 }
-	culture = dacian
-	#tribe = yes
-	capital = 519 # Fehér
+    color2 = { 255 255 255 }
+    culture = dacian
+    #tribe = yes
+    capital = 519 # Fehér
     allow = {
         title_duke_basic_allow = yes
         hidden_tooltip = {

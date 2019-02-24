@@ -8,115 +8,115 @@
 ################################################################################
 # JOBS
 ################################################################################
-job_marshal_romanian_russian;Voievod;;;;;;;;;;;;;x
-job_spiritual_romanian_russian;Duhovnic;;;;;;;;;;;;;x
+job_marshal_romanian_russian;Voievod;Voievod;Voievod;;Voievod;;;;;;;;;x
+job_spiritual_romanian_russian;Duhovnic;Duhovnic;Duhovnic;;Duhovnic;;;;;;;;;x
 
 ################################################################################
 # MINOR TITLES
 ################################################################################
-title_master_of_the_horse_dacian;Ziacatralis;;;;;;;;;;;;;x # thracian name meaning "who feeds the horses"
-title_master_of_the_horse_thracian;Ziacatralis;;;;;;;;;;;;;x # thracian name meaning "who feeds the horses"
+title_master_of_the_horse_dacian;Ziacatralis;Ziacatralis;Ziacatralis;;Ziacatralis;;;;;;;;;x # thracian name meaning "who feeds the horses"
+title_master_of_the_horse_thracian;Ziacatralis;Ziacatralis;Ziacatralis;;Ziacatralis;;;;;;;;;x # thracian name meaning "who feeds the horses"
 
 ################################################################################
 # NOBLE TITLES - GENERIC
 ################################################################################
 ### FEUDAL (Emperor)
-emperor_romanian_russian;Tar;;;;;;;;;;;;;x
-emperor_female_romanian_russian;Tarinã;;;;;;;;;;;;;x
-emperor_title_ruler_consort_romanian_russian;Mare Cneaz;;;;;;;;;;;;;x
-emperor_title_ruler_consort_female_romanian_russian;Tarinã;;;;;;;;;;;;;x
+emperor_romanian_russian;Tar;Tar;Tar;;Tar;;;;;;;;;x
+emperor_female_romanian_russian;Tarinã;Tarinã;Tarinã;;Tarinã;;;;;;;;;x
+emperor_title_ruler_consort_romanian_russian;Mare Cneaz;Mare Cneaz;Mare Cneaz;;Mare Cneaz;;;;;;;;;x
+emperor_title_ruler_consort_female_romanian_russian;Tarinã;Tarinã;Tarinã;;Tarinã;;;;;;;;;x
 ### FEUDAL (King)
-king_boii;Rix;;;;;;;;;;;;;x # From "Boiorix" which means "king of the boii"
-king_dacian;Rezas;;;;;;;;;;;;;x # Fallback from thracian
-king_romanian_russian;Mare Cneaz;;;;;;;;;;;;;x
-king_femaleromanian__russian;Mare Cneazã;;;;;;;;;;;;;x
-king_title_ruler_consort_romanian_russian;Mare Cneaz;;;;;;;;;;;;;x
-king_title_ruler_consort_female_romanian_russian;Cneazã;;;;;;;;;;;;;x
-king_thracian;Rezas;;;;;;;;;;;;;x
+king_boii;Rix;Rix;Rix;;Rix;;;;;;;;;x # From "Boiorix" which means "king of the boii"
+king_dacian;Rezas;Rezas;Rezas;;Rezas;;;;;;;;;x # Fallback from thracian
+king_romanian_russian;Mare Cneaz;Mare Cneaz;Mare Cneaz;;Mare Cneaz;;;;;;;;;x
+king_femaleromanian__russian;Mare Cneazã;Mare Cneazã;Mare Cneazã;;Mare Cneazã;;;;;;;;;x
+king_title_ruler_consort_romanian_russian;Mare Cneaz;Mare Cneaz;Mare Cneaz;;Mare Cneaz;;;;;;;;;x
+king_title_ruler_consort_female_romanian_russian;Cneazã;Cneazã;Cneazã;;Cneazã;;;;;;;;;x
+king_thracian;Rezas;Rezas;Rezas;;Rezas;;;;;;;;;x
 ### FEUDAL (Duke)
-duke_romanian_russian;Cneaz;;;;;;;;;;;;;x
-duke_female_romanian_russian;Cneazã;;;;;;;;;;;;;x
-duke_title_ruler_consort_romanian_russian;Cneaz;;;;;;;;;;;;;x
-duke_title_ruler_consort_female_romanian_russian;Cneazã;;;;;;;;;;;;;x
+duke_romanian_russian;Cneaz;Cneaz;Cneaz;;Cneaz;;;;;;;;;x
+duke_female_romanian_russian;Cneazã;Cneazã;Cneazã;;Cneazã;;;;;;;;;x
+duke_title_ruler_consort_romanian_russian;Cneaz;Cneaz;Cneaz;;Cneaz;;;;;;;;;x
+duke_title_ruler_consort_female_romanian_russian;Cneazã;Cneazã;Cneazã;;Cneazã;;;;;;;;;x
 ### FEUDAL (Count)
-count_romanian_russian;Cneaz Vasal;;;;;;;;;;;;;x
-count_female_romanian_russian;Cneazã Vasalã;;;;;;;;;;;;;x
-count_title_ruler_consort_romanian_russian;Cneaz Vasal;;;;;;;;;;;;;x
-count_title_ruler_consort_female_romanian_russian;Cneazã;;;;;;;;;;;;;x
+count_romanian_russian;Cneaz Vasal;Cneaz Vasal;Cneaz Vasal;;Cneaz Vasal;;;;;;;;;x
+count_female_romanian_russian;Cneazã Vasalã;Cneazã Vasalã;Cneazã Vasalã;;Cneazã Vasalã;;;;;;;;;x
+count_title_ruler_consort_romanian_russian;Cneaz Vasal;Cneaz Vasal;Cneaz Vasal;;Cneaz Vasal;;;;;;;;;x
+count_title_ruler_consort_female_romanian_russian;Cneazã;Cneazã;Cneazã;;Cneazã;;;;;;;;;x
 ### FEUDAL (Baron)
-baron_romanian_russian;Boier;;;;;;;;;;;;;x
-baron_female_romanian_russian;Boierã;;;;;;;;;;;;;x
-baron_title_ruler_consort_romanian_russian;Boier;;;;;;;;;;;;;x
-baron_title_ruler_consort_female_romanian_russian;Boierã;;;;;;;;;;;;;x
+baron_romanian_russian;Boier;Boier;Boier;;Boier;;;;;;;;;x
+baron_female_romanian_russian;Boierã;Boierã;Boierã;;Boierã;;;;;;;;;x
+baron_title_ruler_consort_romanian_russian;Boier;Boier;Boier;;Boier;;;;;;;;;x
+baron_title_ruler_consort_female_romanian_russian;Boierã;Boierã;Boierã;;Boierã;;;;;;;;;x
 ### CITY (Count)
-city_count_romanian_russian;Posadnic;;;;;;;;;;;;;x
+city_count_romanian_russian;Posadnic;Posadnic;Posadnic;;Posadnic;;;;;;;;;x
 ### CITY (Baron)
-city_baron_romanian_russian;Posadnic;;;;;;;;;;;;;x
+city_baron_romanian_russian;Posadnic;Posadnic;Posadnic;;Posadnic;;;;;;;;;x
 ### IMPERIAL
 ### NOMADIC
 ### TEMPLE (Barony)
-temple_baron_male_dacian;Ktístai;;;;;;;;;;;;;x # Fallback from thracian
-temple_baron_male_romanian_russian;Arhiereu;;;;;;;;;;;;;x
-temple_baron_male_thracian;Ktístai;;;;;;;;;;;;;x # Meaning: celibate monk
+temple_baron_male_dacian;Ktístai;Ktístai;Ktístai;;Ktístai;;;;;;;;;x # Fallback from thracian
+temple_baron_male_romanian_russian;Arhiereu;Arhiereu;Arhiereu;;Arhiereu;;;;;;;;;x
+temple_baron_male_thracian;Ktístai;Ktístai;Ktístai;;Ktístai;;;;;;;;;x # Meaning: celibate monk
 ### TRIBAL
 
 ################################################################################
 # TITLES
 ################################################################################
 ### FEUDAL (Barony)
-barony_of_dacian;Dava;;;;;;;;;;;;;x
-barony_dacian;Dava;;;;;;;;;;;;;x
-barony_of_romanian_russian;Volostul;;;;;;;;;;;;;x
-barony_romanian_russian;Volost;;;;;;;;;;;;;x
-barony_of_thracian;Diza;;;;;;;;;;;;;x
-barony_thracian;Diza;;;;;;;;;;;;;x
+barony_of_dacian;Dava;Dava;Dava;;Dava;;;;;;;;;x
+barony_dacian;Dava;Dava;Dava;;Dava;;;;;;;;;x
+barony_of_romanian_russian;Volostul;Volostul;Volostul;;Volostul;;;;;;;;;x
+barony_romanian_russian;Volost;Volost;Volost;;Volost;;;;;;;;;x
+barony_of_thracian;Diza;Diza;Diza;;Diza;;;;;;;;;x
+barony_thracian;Diza;Diza;Diza;;Diza;;;;;;;;;x
 ### FEUDAL (County)
-county_of_dacian;Dina;;;;;;;;;;;;;x
-county_dacian;Dina;;;;;;;;;;;;;x
-county_of_romanian_russian;Cnezatul Vasal de;;;;;;;;;;;;;x
-county_romanian_russian;Cnezat Vasal;;;;;;;;;;;;;x
-county_of_thracian;Gava;;;;;;;;;;;;;x # Meaning: Place, countryside
-county_thracian;Gava;;;;;;;;;;;;;x # Meaning: Place, countryside
+county_of_dacian;Dina;Dina;Dina;;Dina;;;;;;;;;x
+county_dacian;Dina;Dina;Dina;;Dina;;;;;;;;;x
+county_of_romanian_russian;Cnezatul Vasal de;Cnezatul Vasal de;Cnezatul Vasal de;;Cnezatul Vasal de;;;;;;;;;x
+county_romanian_russian;Cnezat Vasal;Cnezat Vasal;Cnezat Vasal;;Cnezat Vasal;;;;;;;;;x
+county_of_thracian;Gava;Gava;Gava;;Gava;;;;;;;;;x # Meaning: Place, countryside
+county_thracian;Gava;Gava;Gava;;Gava;;;;;;;;;x # Meaning: Place, countryside
 ### FEUDAL (Duchy)
-duchy_of_dacian;Tauta;;;;;;;;;;;;;x
-duchy_dacian;Tauta;;;;;;;;;;;;;x
-duchy_of_romanian_russian;Cnezatul de;;;;;;;;;;;;;x
-duchy_romanian_russian;Cnezat;;;;;;;;;;;;;x
-duchy_of_thracian;Tauta;;;;;;;;;;;;;x
-duchy_thracian;Tauta;;;;;;;;;;;;;x
+duchy_of_dacian;Tauta;Tauta;Tauta;;Tauta;;;;;;;;;x
+duchy_dacian;Tauta;Tauta;Tauta;;Tauta;;;;;;;;;x
+duchy_of_romanian_russian;Cnezatul de;Cnezatul de;Cnezatul de;;Cnezatul de;;;;;;;;;x
+duchy_romanian_russian;Cnezat;Cnezat;Cnezat;;Cnezat;;;;;;;;;x
+duchy_of_thracian;Tauta;Tauta;Tauta;;Tauta;;;;;;;;;x
+duchy_thracian;Tauta;Tauta;Tauta;;Tauta;;;;;;;;;x
 ### FEUDAL (Kingdom)
-kingdom_of_dacian;Rezodon;;;;;;;;;;;;;x
-kingdom_dacian;Rezodon;;;;;;;;;;;;;x
-kingdom_of_romanian_russian;Marele Cnezat de;;;;;;;;;;;;;x
-kingdom_romanian_russian;Mare Cnezat;;;;;;;;;;;;;x
-kingdom_of_thracian;Rezodon;;;;;;;;;;;;;x
-kingdom_thracian;Rezodon;;;;;;;;;;;;;x
+kingdom_of_dacian;Rezodon;Rezodon;Rezodon;;Rezodon;;;;;;;;;x
+kingdom_dacian;Rezodon;Rezodon;Rezodon;;Rezodon;;;;;;;;;x
+kingdom_of_romanian_russian;Marele Cnezat de;Marele Cnezat de;Marele Cnezat de;;Marele Cnezat de;;;;;;;;;x
+kingdom_romanian_russian;Mare Cnezat;Mare Cnezat;Mare Cnezat;;Mare Cnezat;;;;;;;;;x
+kingdom_of_thracian;Rezodon;Rezodon;Rezodon;;Rezodon;;;;;;;;;x
+kingdom_thracian;Rezodon;Rezodon;Rezodon;;Rezodon;;;;;;;;;x
 ### FEUDAL (Empire)
-empire_of_romanian_russian;Taratul ;;;;;;;;;;;;;x
-empire_romanian_russian;Tarat;;;;;;;;;;;;;x
+empire_of_romanian_russian;Taratul ;Taratul ;Taratul ;;Taratul ;;;;;;;;;x
+empire_romanian_russian;Tarat;Tarat;Tarat;;Tarat;;;;;;;;;x
 ### CITY (Barony)
-city_barony_of_dacian;Dava;;;;;;;;;;;;;x
-city_barony_dacian;Dava;;;;;;;;;;;;;x
-city_barony_of_thracian;Bria;;;;;;;;;;;;;x
-city_barony_thracian;Bria;;;;;;;;;;;;;x
+city_barony_of_dacian;Dava;Dava;Dava;;Dava;;;;;;;;;x
+city_barony_dacian;Dava;Dava;Dava;;Dava;;;;;;;;;x
+city_barony_of_thracian;Bria;Bria;Bria;;Bria;;;;;;;;;x
+city_barony_thracian;Bria;Bria;Bria;;Bria;;;;;;;;;x
 ### TRIBAL (Barony)
-tribal_barony_of_dacian;Dava;;;;;;;;;;;;;x
-tribal_barony_dacian;Dava;;;;;;;;;;;;;x
-tribal_barony_of_thracian;Dentu;;;;;;;;;;;;;x
-tribal_barony_thracian;Dentu;;;;;;;;;;;;;x
+tribal_barony_of_dacian;Dava;Dava;Dava;;Dava;;;;;;;;;x
+tribal_barony_dacian;Dava;Dava;Dava;;Dava;;;;;;;;;x
+tribal_barony_of_thracian;Dentu;Dentu;Dentu;;Dentu;;;;;;;;;x
+tribal_barony_thracian;Dentu;Dentu;Dentu;;Dentu;;;;;;;;;x
 ### TRIBAL (County)
-tribal_county_of_dacian;Dina;;;;;;;;;;;;;x
-tribal_county_dacian;Dina;;;;;;;;;;;;;x
-tribal_county_of_thracian;Dina;;;;;;;;;;;;;x
-tribal_county_thracian;Dina;;;;;;;;;;;;;x
+tribal_county_of_dacian;Dina;Dina;Dina;;Dina;;;;;;;;;x
+tribal_county_dacian;Dina;Dina;Dina;;Dina;;;;;;;;;x
+tribal_county_of_thracian;Dina;Dina;Dina;;Dina;;;;;;;;;x
+tribal_county_thracian;Dina;Dina;Dina;;Dina;;;;;;;;;x
 ### TRIBAL (Duchy)
-tribal_duchy_of_dacian;Tauta;;;;;;;;;;;;;x
-tribal_duchy_dacian;Tauta;;;;;;;;;;;;;x
-tribal_duchy_of_thracian;Tauta;;;;;;;;;;;;;x
-tribal_duchy_thracian;Tauta;;;;;;;;;;;;;x
+tribal_duchy_of_dacian;Tauta;Tauta;Tauta;;Tauta;;;;;;;;;x
+tribal_duchy_dacian;Tauta;Tauta;Tauta;;Tauta;;;;;;;;;x
+tribal_duchy_of_thracian;Tauta;Tauta;Tauta;;Tauta;;;;;;;;;x
+tribal_duchy_thracian;Tauta;Tauta;Tauta;;Tauta;;;;;;;;;x
 ### TRIBAL (Kingdom)
-tribal_kingdom_of_dacian;Rezodon;;;;;;;;;;;;;x
-tribal_kingdom_dacian;Rezodon;;;;;;;;;;;;;x
-tribal_kingdom_of_thracian;Rezodon;;;;;;;;;;;;;x
-tribal_kingdom_thracian;Rezodon;;;;;;;;;;;;;x
+tribal_kingdom_of_dacian;Rezodon;Rezodon;Rezodon;;Rezodon;;;;;;;;;x
+tribal_kingdom_dacian;Rezodon;Rezodon;Rezodon;;Rezodon;;;;;;;;;x
+tribal_kingdom_of_thracian;Rezodon;Rezodon;Rezodon;;Rezodon;;;;;;;;;x
+tribal_kingdom_thracian;Rezodon;Rezodon;Rezodon;;Rezodon;;;;;;;;;x
 
